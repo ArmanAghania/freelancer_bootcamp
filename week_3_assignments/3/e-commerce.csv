@@ -1,0 +1,2997 @@
+customerNumber,productName,orderMonth,priceEach,quantityOrdered,final_payment
+363,"1917 Grand Touring Sedan",1,136.00,30,4080.00
+363,"1911 Ford Town Car",1,55.09,50,2754.50
+363,"1932 Alfa Romeo 8C2300 Spider Sport",1,75.46,22,1660.12
+363,"1936 Mercedes Benz 500k Roadster",1,35.29,49,1729.21
+128,"1932 Model A Ford J-Coupe",1,108.06,25,2701.50
+128,"1928 Mercedes-Benz SSK",1,167.06,26,4343.56
+128,"1939 Chevrolet Deluxe Coupe",1,32.53,45,1463.85
+128,"1938 Cadillac V-16 Presidential Limousine",1,44.35,46,2040.10
+181,"1937 Lincoln Berline",1,95.55,39,3726.45
+181,"1936 Mercedes-Benz 500K Special Roadster",1,43.13,41,1768.33
+121,"1952 Alpine Renault 1300",1,214.30,26,5571.80
+121,"1962 LanciaA Delta 16V",1,119.67,42,5026.14
+121,"1958 Setra Bus",1,121.64,27,3284.28
+121,"1940 Ford Pickup Truck",1,94.50,35,3307.50
+121,"1926 Ford Fire Engine",1,58.34,22,1283.48
+121,"1913 Ford Model T Speedster",1,92.19,27,2489.13
+121,"1934 Ford V8 Coupe",1,61.84,35,2164.40
+121,"18th Century Vintage Horse Carriage",1,86.92,25,2173.00
+121,"1917 Maxwell Touring Car",1,86.31,46,3970.26
+121,"1940s Ford truck",1,98.07,36,3530.52
+121,"1939 Cadillac Limousine",1,40.75,41,1670.75
+121,"1962 Volkswagen Microbus",1,107.34,36,3864.24
+121,"1936 Chrysler Airflow",1,88.62,25,2215.50
+121,"1980’s GM Manhattan Express",1,92.46,31,2866.26
+121,"1996 Peterbilt 379 Stake Bed with Outrigger",1,63.35,45,2850.75
+121,"1982 Camaro Z28",1,94.07,42,3950.94
+141,"1969 Corvair Monza",1,131.44,34,4468.96
+141,"1957 Chevy Pickup",1,111.39,41,4566.99
+141,"1998 Chrysler Plymouth Prowler",1,135.90,24,3261.60
+141,"1964 Mercedes Tour Bus",1,122.73,29,3559.17
+141,"1992 Ferrari 360 Spider red",1,165.95,23,3816.85
+141,"1970 Triumph Spitfire",1,119.20,38,4529.60
+141,"1970 Dodge Coronet",1,52.02,35,1820.70
+141,"1958 Chevy Corvette Limited Edition",1,30.41,44,1338.04
+141,"1992 Porsche Cayenne Turbo Silver",1,106.45,26,2767.70
+141,"1954 Greyhound Scenicruiser",1,51.95,35,1818.25
+141,"1950's Chicago Surface Lines Streetcar",1,56.55,49,2770.95
+141,"Diamond T620 Semi-Skirted Tanker",1,114.59,33,3781.47
+141,"1962 City of Detroit Streetcar",1,53.31,32,1705.92
+145,"1972 Alfa Romeo GTA",2,127.84,50,6392.00
+145,"2001 Ferrari Enzo",2,205.72,41,8434.52
+145,"1969 Ford Falcon",2,141.88,29,4114.52
+145,"1903 Ford Model A",2,136.59,22,3004.98
+145,"Collectable Wooden Train",2,87.73,38,3333.74
+145,"1904 Buick Runabout",2,75.48,41,3094.68
+145,"18th century schooner",2,117.97,43,5072.71
+145,"1912 Ford Model T Delivery Wagon",2,73.46,44,3232.24
+145,"1940 Ford Delivery Sedan",2,75.47,50,3773.50
+145,"The Schooner Bluenose",2,54.00,41,2214.00
+145,"The Mayflower",2,86.61,29,2511.69
+145,"The USS Constitution Ship",2,60.72,31,1882.32
+145,"The Titanic",2,92.16,39,3594.24
+145,"The Queen Mary",2,99.31,22,2184.82
+145,"Pont Yacht",2,44.77,25,1119.25
+278,"1980s Black Hawk Helicopter",2,134.04,36,4825.44
+278,"P-51-D Mustang",2,81.10,34,2757.40
+278,"1999 Yamaha Speed Boat",2,80.86,41,3315.26
+278,"1941 Chevrolet Special Deluxe Cabriolet",2,94.22,41,3863.02
+278,"1928 British Royal Navy Airplane",2,107.23,28,3002.44
+278,"1900s Vintage Bi-Plane",2,65.77,49,3222.73
+278,"1937 Horch 930V Limousine",2,55.89,31,1732.59
+278,"Corsair F4U ( Bird Cage)",2,55.96,50,2798.00
+278,"1900s Vintage Tri-Plane",2,71.00,26,1846.00
+278,"1928 Ford Phaeton Deluxe",2,65.35,33,2156.55
+278,"1930 Buick Marquette Phaeton",2,35.78,39,1395.42
+278,"American Airlines: B767-300",2,91.34,31,2831.54
+278,"HMS Bounty",2,85.09,30,2552.70
+278,"America West Airlines B757-200",2,99.72,34,3390.48
+278,"ATA: B757-300",2,113.90,32,3644.80
+278,"F/A 18 Hornet 1/72",2,76.00,44,3344.00
+278,"American Airlines: MD-11S",2,70.33,48,3375.84
+278,"Boeing X-32A JSF",2,43.70,48,2097.60
+131,"1969 Harley Davidson Ultimate Chopper",2,81.35,30,2440.50
+131,"1996 Moto Guzzi 1100i",2,105.86,39,4128.54
+131,"2003 Harley-Davidson Eagle Drag Bike",2,172.36,27,4653.72
+131,"2002 Suzuki XREO",2,122.00,21,2562.00
+131,"1936 Harley Davidson El Knucklehead",2,52.70,29,1528.30
+131,"1997 BMW R 1100 S",2,96.92,25,2423.00
+131,"1960 BSA Gold Star DBD34",2,73.12,38,2778.56
+131,"1997 BMW F650 ST",2,88.90,20,1778.00
+385,"1968 Ford Mustang",3,165.38,33,5457.54
+385,"1968 Dodge Charger",3,96.30,45,4333.50
+385,"1970 Plymouth Hemi Cuda",3,75.81,39,2956.59
+385,"1969 Dodge Charger",3,107.10,36,3855.60
+385,"1948 Porsche 356-A Roadster",3,67.76,38,2574.88
+385,"1969 Dodge Super Bee",3,73.17,26,1902.42
+385,"1976 Ford Gran Torino",3,132.29,29,3836.41
+385,"1957 Vespa GS150",3,52.84,43,2272.12
+385,"1957 Corvette Convertible",3,139.87,44,6154.28
+385,"1982 Ducati 900 Monster",3,64.41,35,2254.35
+385,"1971 Alpine Renault 1600s",3,60.01,30,1800.30
+385,"1956 Porsche 356A Coupe",3,132.00,40,5280.00
+385,"1961 Chevrolet Impala",3,67.10,31,2080.10
+385,"1982 Ducati 996 R",3,36.21,27,977.67
+385,"1974 Ducati 350 Mk3 Desmo",3,87.76,31,2720.56
+385,"2002 Yamaha YZR M1",3,74.85,34,2544.90
+486,"1993 Mazda RX-7",3,117.48,26,3054.48
+486,"1995 Honda Civic",3,137.98,38,5243.24
+486,"1999 Indy 500 Monte Carlo SS",3,126.72,26,3294.72
+486,"1992 Ferrari 360 Spider red",3,160.87,46,7400.02
+486,"1948 Porsche Type 356 Roadster",3,125.74,47,5909.78
+486,"1982 Lamborghini Diablo",3,32.10,29,930.90
+187,"1965 Aston Martin DB5",3,118.22,37,4374.14
+187,"1917 Grand Touring Sedan",3,153.00,42,6426.00
+187,"1911 Ford Town Car",3,51.46,32,1646.72
+187,"1932 Model A Ford J-Coupe",3,115.69,33,3817.77
+187,"1928 Mercedes-Benz SSK",3,163.69,31,5074.39
+187,"1932 Alfa Romeo 8C2300 Spider Sport",3,81.91,28,2293.48
+187,"1957 Ford Thunderbird",3,62.00,42,2604.00
+187,"1970 Chevy Chevelle SS 454",3,72.02,36,2592.72
+187,"1966 Shelby Cobra 427 S/C",3,43.27,29,1254.83
+187,"1939 Chevrolet Deluxe Coupe",3,28.88,20,577.60
+187,"1938 Cadillac V-16 Presidential Limousine",3,40.77,39,1590.03
+187,"1949 Jaguar XK 120",3,82.69,43,3555.67
+187,"1952 Citroen-15CV",3,112.74,46,5186.04
+187,"1969 Chevrolet Camaro Z28",3,80.47,27,2172.69
+187,"2002 Chevy Corvette",3,96.37,37,3565.69
+187,"1936 Mercedes Benz 500k Roadster",3,35.29,48,1693.92
+129,"1937 Lincoln Berline",3,87.33,33,2881.89
+129,"1936 Mercedes-Benz 500K Special Roadster",3,48.52,48,2328.96
+129,"1934 Ford V8 Coupe",3,53.09,28,1486.52
+129,"18th Century Vintage Horse Carriage",3,94.25,43,4052.75
+129,"1917 Maxwell Touring Car",3,91.27,39,3559.53
+129,"1936 Chrysler Airflow",3,85.70,26,2228.20
+144,"1952 Alpine Renault 1300",3,197.16,29,5717.64
+144,"1913 Ford Model T Speedster",3,85.10,23,1957.30
+124,"1958 Setra Bus",3,121.64,21,2554.44
+124,"1940 Ford Pickup Truck",3,101.50,49,4973.50
+124,"1939 Cadillac Limousine",3,43.27,50,2163.50
+124,"1996 Peterbilt 379 Stake Bed with Outrigger",3,58.82,23,1352.86
+172,"1962 LanciaA Delta 16V",4,128.53,31,3984.43
+172,"1964 Mercedes Tour Bus",4,106.78,39,4164.42
+172,"1926 Ford Fire Engine",4,53.48,45,2406.60
+172,"1992 Ferrari 360 Spider red",4,169.34,48,8128.32
+172,"1940s Ford truck",4,105.34,41,4318.94
+172,"1962 Volkswagen Microbus",4,102.23,21,2146.83
+172,"1958 Chevy Corvette Limited Edition",4,28.64,24,687.36
+172,"1980’s GM Manhattan Express",4,88.61,32,2835.52
+172,"1954 Greyhound Scenicruiser",4,43.83,28,1227.24
+172,"1982 Camaro Z28",4,82.94,42,3483.48
+424,"1957 Chevy Pickup",4,111.39,46,5123.94
+424,"1998 Chrysler Plymouth Prowler",4,140.81,46,6477.26
+424,"1970 Dodge Coronet",4,56.64,47,2662.08
+424,"1992 Porsche Cayenne Turbo Silver",4,106.45,44,4683.80
+424,"Diamond T620 Semi-Skirted Tanker",4,100.70,27,2718.90
+381,"1950's Chicago Surface Lines Streetcar",4,60.28,27,1627.56
+148,"2001 Ferrari Enzo",4,195.33,33,6445.89
+148,"1969 Corvair Monza",4,148.06,43,6366.58
+148,"1969 Ford Falcon",4,173.02,39,6747.78
+148,"1903 Ford Model A",4,121.57,26,3160.82
+148,"Collectable Wooden Train",4,81.68,21,1715.28
+148,"1970 Triumph Spitfire",4,122.08,22,2685.76
+148,"1904 Buick Runabout",4,73.73,23,1695.79
+148,"18th century schooner",4,119.20,41,4887.20
+148,"1962 City of Detroit Streetcar",4,55.65,21,1168.65
+148,"The Mayflower",4,75.35,38,2863.30
+148,"The Queen Mary",4,89.38,45,4022.10
+148,"Pont Yacht",4,52.42,50,2621.00
+216,"The Titanic",4,86.15,36,3101.40
+382,"1972 Alfa Romeo GTA",4,112.88,46,5192.48
+382,"1980s Black Hawk Helicopter",4,151.38,43,6509.34
+382,"1999 Yamaha Speed Boat",4,74.84,21,1571.64
+382,"1941 Chevrolet Special Deluxe Cabriolet",4,95.28,27,2572.56
+382,"1900s Vintage Bi-Plane",4,64.40,41,2640.40
+382,"1912 Ford Model T Delivery Wagon",4,72.58,35,2540.30
+382,"1937 Horch 930V Limousine",4,63.12,20,1262.40
+382,"1940 Ford Delivery Sedan",4,82.18,35,2876.30
+382,"Corsair F4U ( Bird Cage)",4,62.10,28,1738.80
+382,"The Schooner Bluenose",4,57.34,25,1433.50
+382,"HMS Bounty",4,74.23,29,2152.67
+382,"The USS Constitution Ship",4,67.22,38,2554.36
+382,"American Airlines: MD-11S",4,63.67,26,1655.42
+382,"Boeing X-32A JSF",4,40.22,28,1126.16
+114,"1996 Moto Guzzi 1100i",4,118.94,29,3449.26
+114,"2003 Harley-Davidson Eagle Drag Bike",4,158.80,46,7304.80
+114,"P-51-D Mustang",4,82.79,29,2400.91
+114,"1936 Harley Davidson El Knucklehead",4,57.54,46,2646.84
+114,"1997 BMW R 1100 S",4,110.45,35,3865.75
+114,"1928 British Royal Navy Airplane",4,93.01,39,3627.39
+114,"1960 BSA Gold Star DBD34",4,72.36,34,2460.24
+114,"1900s Vintage Tri-Plane",4,71.73,29,2080.17
+114,"1997 BMW F650 ST",4,94.90,22,2087.80
+114,"1928 Ford Phaeton Deluxe",4,68.79,29,1994.91
+114,"1930 Buick Marquette Phaeton",4,41.46,49,2031.54
+114,"American Airlines: B767-300",4,91.34,47,4292.98
+114,"America West Airlines B757-200",4,81.77,24,1962.48
+114,"ATA: B757-300",4,106.79,24,2562.96
+114,"F/A 18 Hornet 1/72",4,72.00,43,3096.00
+353,"1969 Harley Davidson Ultimate Chopper",5,86.13,34,2928.42
+353,"2002 Suzuki XREO",5,126.52,50,6326.00
+353,"1982 Ducati 900 Monster",5,58.18,32,1861.76
+353,"1974 Ducati 350 Mk3 Desmo",5,95.93,25,2398.25
+353,"2002 Yamaha YZR M1",5,72.41,44,3186.04
+350,"1968 Ford Mustang",5,155.66,42,6537.72
+350,"1968 Dodge Charger",5,113.92,37,4215.04
+350,"1970 Plymouth Hemi Cuda",5,65.44,32,2094.08
+350,"1969 Dodge Charger",5,104.80,20,2096.00
+350,"1993 Mazda RX-7",5,114.65,34,3898.10
+350,"1948 Porsche 356-A Roadster",5,62.37,43,2681.91
+350,"1995 Honda Civic",5,113.80,31,3527.80
+350,"1992 Ferrari 360 Spider red",5,137.17,25,3429.25
+350,"1969 Dodge Super Bee",5,69.15,21,1452.15
+350,"1976 Ford Gran Torino",5,133.76,21,2808.96
+350,"1957 Vespa GS150",5,59.06,35,2067.10
+350,"1957 Corvette Convertible",5,145.82,28,4082.96
+350,"1982 Lamborghini Diablo",5,34.74,39,1354.86
+350,"1971 Alpine Renault 1600s",5,50.82,34,1727.88
+350,"1956 Porsche 356A Coupe",5,136.22,43,5857.46
+350,"1961 Chevrolet Impala",5,67.10,29,1945.90
+350,"1982 Ducati 996 R",5,33.79,31,1047.49
+103,"1965 Aston Martin DB5",5,120.71,26,3138.46
+103,"1999 Indy 500 Monte Carlo SS",5,114.84,46,5282.64
+103,"1948 Porsche Type 356 Roadster",5,117.26,34,3986.84
+103,"1966 Shelby Cobra 427 S/C",5,43.27,50,2163.50
+112,"1917 Grand Touring Sedan",5,153.00,21,3213.00
+112,"1911 Ford Town Car",5,58.12,42,2441.04
+112,"1932 Model A Ford J-Coupe",5,111.87,42,4698.54
+112,"1932 Alfa Romeo 8C2300 Spider Sport",5,75.46,36,2716.56
+112,"1957 Ford Thunderbird",5,66.28,23,1524.44
+112,"1970 Chevy Chevelle SS 454",5,62.47,22,1374.34
+112,"1939 Chevrolet Deluxe Coupe",5,30.53,45,1373.85
+112,"1938 Cadillac V-16 Presidential Limousine",5,36.29,22,798.38
+112,"1949 Jaguar XK 120",5,74.51,32,2384.32
+112,"1952 Citroen-15CV",5,93.95,25,2348.75
+112,"1969 Chevrolet Camaro Z28",5,76.19,49,3733.31
+112,"2002 Chevy Corvette",5,101.73,43,4374.39
+112,"1936 Mercedes Benz 500k Roadster",5,36.11,46,1661.06
+114,"1937 Lincoln Berline",5,89.38,32,2860.16
+114,"1928 Mercedes-Benz SSK",5,138.38,34,4704.92
+458,"1952 Alpine Renault 1300",5,205.73,38,7817.74
+458,"1962 LanciaA Delta 16V",5,122.62,22,2697.64
+458,"1958 Setra Bus",5,135.30,21,2841.30
+458,"1940 Ford Pickup Truck",5,116.67,38,4433.46
+458,"1936 Mercedes-Benz 500K Special Roadster",5,51.21,42,2150.82
+458,"1926 Ford Fire Engine",5,51.05,43,2195.15
+458,"1913 Ford Model T Speedster",5,93.21,31,2889.51
+458,"1934 Ford V8 Coupe",5,61.84,46,2844.64
+458,"18th Century Vintage Horse Carriage",5,93.20,30,2796.00
+458,"1917 Maxwell Touring Car",5,94.25,38,3581.50
+458,"1940s Ford truck",5,102.92,50,5146.00
+458,"1939 Cadillac Limousine",5,47.29,43,2033.47
+458,"1962 Volkswagen Microbus",5,122.68,27,3312.36
+458,"1936 Chrysler Airflow",5,83.76,34,2847.84
+458,"1980’s GM Manhattan Express",5,82.83,43,3561.69
+458,"1996 Peterbilt 379 Stake Bed with Outrigger",5,62.05,26,1613.30
+458,"1982 Camaro Z28",5,97.10,45,4369.50
+151,"2001 Ferrari Enzo",6,193.25,46,8889.50
+151,"1969 Corvair Monza",6,140.50,46,6463.00
+151,"1969 Ford Falcon",6,169.56,42,7121.52
+151,"1957 Chevy Pickup",6,100.73,24,2417.52
+151,"1998 Chrysler Plymouth Prowler",6,140.81,45,6336.45
+151,"1964 Mercedes Tour Bus",6,114.14,45,5136.30
+151,"1992 Ferrari 360 Spider red",6,149.02,22,3278.44
+151,"1970 Triumph Spitfire",6,126.39,25,3159.75
+151,"1970 Dodge Coronet",6,50.86,20,1017.20
+151,"1958 Chevy Corvette Limited Edition",6,34.30,39,1337.70
+151,"1992 Porsche Cayenne Turbo Silver",6,107.63,20,2152.60
+151,"1954 Greyhound Scenicruiser",6,46.53,45,2093.85
+151,"1950's Chicago Surface Lines Streetcar",6,60.90,29,1766.10
+151,"Diamond T620 Semi-Skirted Tanker",6,111.12,46,5111.52
+151,"1962 City of Detroit Streetcar",6,55.65,46,2559.90
+141,"1903 Ford Model A",6,120.20,41,4928.20
+141,"Collectable Wooden Train",6,80.67,41,3307.47
+141,"1904 Buick Runabout",6,77.24,43,3321.32
+141,"The Mayflower",6,72.75,32,2328.00
+324,"1972 Alfa Romeo GTA",6,123.76,33,4084.08
+324,"18th century schooner",6,113.06,45,5087.70
+324,"1912 Ford Model T Delivery Wagon",6,81.43,41,3338.63
+324,"1940 Ford Delivery Sedan",6,76.31,50,3815.50
+324,"The Schooner Bluenose",6,58.67,31,1818.77
+324,"The USS Constitution Ship",6,72.28,45,3252.60
+324,"The Titanic",6,90.15,42,3786.30
+324,"The Queen Mary",6,94.34,30,2830.20
+324,"Pont Yacht",6,44.23,32,1415.36
+198,"1999 Yamaha Speed Boat",6,68.82,40,2752.80
+198,"1941 Chevrolet Special Deluxe Cabriolet",6,99.52,33,3284.16
+447,"1980s Black Hawk Helicopter",6,141.92,21,2980.32
+447,"1900s Vintage Bi-Plane",6,60.97,35,2133.95
+447,"1937 Horch 930V Limousine",6,52.60,29,1525.40
+447,"Corsair F4U ( Bird Cage)",6,54.59,50,2729.50
+447,"HMS Bounty",6,76.94,22,1692.68
+447,"America West Airlines B757-200",6,86.76,40,3470.40
+447,"American Airlines: MD-11S",6,63.67,26,1655.42
+447,"Boeing X-32A JSF",6,40.22,21,844.62
+323,"F/A 18 Hornet 1/72",6,80.00,36,2880.00
+141,"P-51-D Mustang",6,80.26,49,3932.74
+141,"1928 British Royal Navy Airplane",6,109.42,41,4486.22
+141,"1900s Vintage Tri-Plane",6,61.58,46,2832.68
+141,"1997 BMW F650 ST",6,80.91,23,1860.93
+141,"1928 Ford Phaeton Deluxe",6,67.41,49,3303.09
+141,"1930 Buick Marquette Phaeton",6,37.09,27,1001.43
+141,"American Airlines: B767-300",6,76.73,24,1841.52
+141,"ATA: B757-300",6,115.09,27,3107.43
+250,"1969 Harley Davidson Ultimate Chopper",7,90.92,41,3727.72
+250,"1996 Moto Guzzi 1100i",7,116.56,27,3147.12
+250,"2003 Harley-Davidson Eagle Drag Bike",7,187.85,31,5823.35
+250,"2002 Suzuki XREO",7,131.04,20,2620.80
+250,"1936 Harley Davidson El Knucklehead",7,51.48,30,1544.40
+250,"1997 BMW R 1100 S",7,94.67,35,3313.45
+250,"1960 BSA Gold Star DBD34",7,75.41,43,3242.63
+124,"1968 Ford Mustang",7,173.17,42,7273.14
+124,"1968 Dodge Charger",7,110.39,48,5298.72
+124,"1970 Plymouth Hemi Cuda",7,72.62,24,1742.88
+124,"1969 Dodge Charger",7,103.64,29,3005.56
+124,"1948 Porsche 356-A Roadster",7,66.99,48,3215.52
+124,"1969 Dodge Super Bee",7,65.94,45,2967.30
+124,"1976 Ford Gran Torino",7,139.64,42,5864.88
+124,"1957 Vespa GS150",7,49.74,45,2238.30
+124,"1957 Corvette Convertible",7,133.92,31,4151.52
+124,"1982 Ducati 900 Monster",7,67.18,29,1948.22
+124,"1982 Lamborghini Diablo",7,34.36,20,687.20
+124,"1971 Alpine Renault 1600s",7,52.05,27,1405.35
+124,"1956 Porsche 356A Coupe",7,139.03,47,6534.41
+124,"1961 Chevrolet Impala",7,76.80,23,1766.40
+124,"1982 Ducati 996 R",7,38.62,33,1274.46
+124,"1974 Ducati 350 Mk3 Desmo",7,91.85,30,2755.50
+124,"2002 Yamaha YZR M1",7,78.92,44,3472.48
+242,"1993 Mazda RX-7",7,117.48,25,2937.00
+242,"1995 Honda Civic",7,120.91,36,4352.76
+242,"1992 Ferrari 360 Spider red",7,169.34,41,6942.94
+353,"1965 Aston Martin DB5",7,115.73,44,5092.12
+353,"1999 Indy 500 Monte Carlo SS",7,110.88,37,4102.56
+353,"1948 Porsche Type 356 Roadster",7,118.68,31,3679.08
+353,"1966 Shelby Cobra 427 S/C",7,40.25,26,1046.50
+496,"1917 Grand Touring Sedan",7,149.60,33,4936.80
+496,"1911 Ford Town Car",7,51.46,22,1132.12
+496,"1932 Model A Ford J-Coupe",7,114.42,38,4347.96
+496,"1932 Alfa Romeo 8C2300 Spider Sport",7,79.15,47,3720.05
+496,"1957 Ford Thunderbird",7,64.86,23,1491.78
+496,"1970 Chevy Chevelle SS 454",7,59.53,45,2678.85
+496,"1939 Chevrolet Deluxe Coupe",7,33.19,22,730.18
+496,"1938 Cadillac V-16 Presidential Limousine",7,38.53,33,1271.49
+496,"1949 Jaguar XK 120",7,73.60,28,2060.80
+496,"1952 Citroen-15CV",7,96.30,30,2889.00
+496,"1969 Chevrolet Camaro Z28",7,77.05,49,3775.45
+496,"2002 Chevy Corvette",7,99.58,21,2091.18
+496,"1936 Mercedes Benz 500k Roadster",7,32.82,29,951.78
+282,"1937 Lincoln Berline",7,89.38,31,2770.78
+282,"1936 Mercedes-Benz 500K Special Roadster",7,52.83,49,2588.67
+282,"1928 Mercedes-Benz SSK",7,151.88,41,6227.08
+282,"1913 Ford Model T Speedster",7,91.18,46,4194.28
+282,"1934 Ford V8 Coupe",7,52.47,20,1049.40
+282,"18th Century Vintage Horse Carriage",7,101.58,20,2031.60
+282,"1917 Maxwell Touring Car",7,81.35,30,2440.50
+282,"1936 Chrysler Airflow",7,93.49,29,2711.21
+161,"1952 Alpine Renault 1300",7,186.44,37,6898.28
+161,"1962 LanciaA Delta 16V",7,131.49,26,3418.74
+161,"1958 Setra Bus",7,118.90,38,4518.20
+161,"1940 Ford Pickup Truck",7,95.67,32,3061.44
+161,"1926 Ford Fire Engine",7,51.05,46,2348.30
+161,"1940s Ford truck",7,100.50,40,4020.00
+161,"1939 Cadillac Limousine",7,40.25,29,1167.25
+161,"1962 Volkswagen Microbus",7,118.84,47,5585.48
+161,"1980’s GM Manhattan Express",7,87.64,26,2278.64
+161,"1996 Peterbilt 379 Stake Bed with Outrigger",7,62.05,28,1737.40
+161,"1982 Camaro Z28",7,101.15,36,3641.40
+334,"1957 Chevy Pickup",8,114.95,21,2413.95
+334,"1998 Chrysler Plymouth Prowler",8,160.46,39,6257.94
+334,"1964 Mercedes Tour Bus",8,103.09,47,4845.23
+334,"1992 Ferrari 360 Spider red",8,143.94,34,4893.96
+334,"1970 Dodge Coronet",8,50.86,20,1017.20
+334,"1958 Chevy Corvette Limited Edition",8,32.18,21,675.78
+334,"1992 Porsche Cayenne Turbo Silver",8,104.09,40,4163.60
+334,"1954 Greyhound Scenicruiser",8,53.03,24,1272.72
+334,"Diamond T620 Semi-Skirted Tanker",8,94.92,44,4176.48
+124,"2001 Ferrari Enzo",8,166.24,33,5485.92
+124,"1969 Corvair Monza",8,140.50,33,4636.50
+124,"1969 Ford Falcon",8,167.83,46,7720.18
+124,"1903 Ford Model A",8,129.76,47,6098.72
+124,"Collectable Wooden Train",8,95.80,22,2107.60
+124,"1970 Triumph Spitfire",8,122.08,24,2929.92
+124,"1904 Buick Runabout",8,79.87,24,1916.88
+124,"18th century schooner",8,114.29,33,3771.57
+124,"1912 Ford Model T Delivery Wagon",8,74.35,49,3643.15
+124,"1950's Chicago Surface Lines Streetcar",8,60.90,42,2557.80
+124,"1962 City of Detroit Streetcar",8,56.24,42,2362.08
+124,"The Schooner Bluenose",8,55.34,41,2268.94
+124,"The Mayflower",8,77.08,43,3314.44
+124,"The Titanic",8,92.16,21,1935.36
+124,"The Queen Mary",8,91.37,38,3472.06
+124,"Pont Yacht",8,46.96,39,1831.44
+320,"1972 Alfa Romeo GTA",8,133.28,49,6530.72
+320,"1980s Black Hawk Helicopter",8,126.15,32,4036.80
+320,"1999 Yamaha Speed Boat",8,70.54,46,3244.84
+320,"1941 Chevrolet Special Deluxe Cabriolet",8,99.52,34,3383.68
+320,"1900s Vintage Bi-Plane",8,63.71,27,1720.17
+320,"1937 Horch 930V Limousine",8,59.83,33,1974.39
+320,"1940 Ford Delivery Sedan",8,74.64,23,1716.72
+320,"Corsair F4U ( Bird Cage)",8,55.96,28,1566.88
+320,"1930 Buick Marquette Phaeton",8,34.91,34,1186.94
+320,"American Airlines: B767-300",8,86.77,36,3123.72
+320,"HMS Bounty",8,87.80,26,2282.80
+320,"America West Airlines B757-200",8,79.78,26,2074.28
+320,"The USS Constitution Ship",8,69.39,31,2151.09
+320,"F/A 18 Hornet 1/72",8,70.40,28,1971.20
+320,"American Airlines: MD-11S",8,65.15,34,2215.10
+320,"Boeing X-32A JSF",8,49.66,37,1837.42
+381,"1928 Ford Phaeton Deluxe",8,56.41,20,1128.20
+205,"1969 Harley Davidson Ultimate Chopper",8,76.56,45,3445.20
+205,"1996 Moto Guzzi 1100i",8,104.67,37,3872.79
+205,"2003 Harley-Davidson Eagle Drag Bike",8,154.93,33,5112.69
+205,"2002 Suzuki XREO",8,146.10,49,7158.90
+205,"P-51-D Mustang",8,71.81,30,2154.30
+205,"1936 Harley Davidson El Knucklehead",8,52.70,30,1581.00
+205,"1997 BMW R 1100 S",8,103.68,43,4458.24
+205,"1928 British Royal Navy Airplane",8,87.54,40,3501.60
+205,"1960 BSA Gold Star DBD34",8,63.98,47,3007.06
+205,"1982 Ducati 900 Monster",8,56.10,27,1514.70
+205,"1900s Vintage Tri-Plane",8,71.73,33,2367.09
+205,"1997 BMW F650 ST",8,99.89,33,3296.37
+205,"1982 Ducati 996 R",8,39.43,31,1222.33
+205,"1974 Ducati 350 Mk3 Desmo",8,95.93,27,2590.11
+205,"2002 Yamaha YZR M1",8,73.22,38,2782.36
+205,"ATA: B757-300",8,113.90,20,2278.00
+447,"1957 Vespa GS150",9,60.30,47,2834.10
+447,"1957 Corvette Convertible",9,130.94,29,3797.26
+379,"1968 Ford Mustang",9,161.49,48,7751.52
+379,"1968 Dodge Charger",9,110.39,31,3422.09
+379,"1970 Plymouth Hemi Cuda",9,74.21,21,1558.41
+379,"1969 Dodge Charger",9,97.89,33,3230.37
+379,"1948 Porsche 356-A Roadster",9,70.84,26,1841.84
+379,"1969 Dodge Super Bee",9,74.78,36,2692.08
+379,"1976 Ford Gran Torino",9,129.35,37,4785.95
+379,"1982 Lamborghini Diablo",9,33.23,25,830.75
+379,"1971 Alpine Renault 1600s",9,48.98,30,1469.40
+379,"1956 Porsche 356A Coupe",9,123.58,23,2842.34
+379,"1961 Chevrolet Impala",9,72.76,31,2255.56
+276,"1993 Mazda RX-7",9,114.65,23,2636.95
+276,"1965 Aston Martin DB5",9,108.26,47,5088.22
+276,"1995 Honda Civic",9,136.56,25,3414.00
+276,"1999 Indy 500 Monte Carlo SS",9,113.52,27,3065.04
+276,"1992 Ferrari 360 Spider red",9,143.94,32,4606.08
+276,"1948 Porsche Type 356 Roadster",9,135.63,28,3797.64
+276,"1932 Alfa Romeo 8C2300 Spider Sport",9,83.75,34,2847.50
+276,"1957 Ford Thunderbird",9,66.28,29,1922.12
+276,"1970 Chevy Chevelle SS 454",9,65.41,25,1635.25
+276,"1966 Shelby Cobra 427 S/C",9,46.29,47,2175.63
+276,"1949 Jaguar XK 120",9,77.24,21,1622.04
+276,"1952 Citroen-15CV",9,115.09,34,3913.06
+276,"1969 Chevrolet Camaro Z28",9,71.91,31,2229.21
+276,"2002 Chevy Corvette",9,96.37,27,2601.99
+487,"1937 Lincoln Berline",9,87.33,50,4366.50
+487,"1936 Mercedes-Benz 500K Special Roadster",9,48.52,30,1455.60
+487,"1917 Grand Touring Sedan",9,156.40,34,5317.60
+487,"1911 Ford Town Car",9,50.85,24,1220.40
+487,"1932 Model A Ford J-Coupe",9,125.86,33,4153.38
+487,"1928 Mercedes-Benz SSK",9,167.06,23,3842.38
+487,"1917 Maxwell Touring Car",9,89.29,42,3750.18
+487,"1939 Chevrolet Deluxe Coupe",9,31.20,36,1123.20
+487,"1938 Cadillac V-16 Presidential Limousine",9,39.87,49,1953.63
+487,"1936 Mercedes Benz 500k Roadster",9,38.57,26,1002.82
+487,"1936 Chrysler Airflow",9,90.57,20,1811.40
+148,"1952 Alpine Renault 1300",9,182.16,45,8197.20
+148,"1962 LanciaA Delta 16V",9,121.15,20,2423.00
+148,"1958 Setra Bus",9,135.30,30,4059.00
+148,"1940 Ford Pickup Truck",9,95.67,34,3252.78
+148,"1913 Ford Model T Speedster",9,93.21,47,4380.87
+148,"1934 Ford V8 Coupe",9,56.21,30,1686.30
+148,"18th Century Vintage Horse Carriage",9,97.39,26,2532.14
+148,"1940s Ford truck",9,111.39,49,5458.11
+148,"1939 Cadillac Limousine",9,47.29,30,1418.70
+148,"1996 Peterbilt 379 Stake Bed with Outrigger",9,62.05,49,3040.45
+148,"1982 Camaro Z28",9,95.08,20,1901.60
+311,"1957 Chevy Pickup",9,114.95,24,2758.80
+311,"1998 Chrysler Plymouth Prowler",9,152.27,43,6547.61
+311,"1964 Mercedes Tour Bus",9,106.78,49,5232.22
+311,"1926 Ford Fire Engine",9,58.34,39,2275.26
+311,"1992 Ferrari 360 Spider red",9,167.65,21,3520.65
+311,"1962 Volkswagen Microbus",9,109.90,42,4615.80
+311,"1958 Chevy Corvette Limited Edition",9,29.35,30,880.50
+311,"1980’s GM Manhattan Express",9,84.75,27,2288.25
+311,"1954 Greyhound Scenicruiser",9,43.29,41,1774.89
+311,"Diamond T620 Semi-Skirted Tanker",9,108.81,26,2829.06
+333,"1970 Triumph Spitfire",9,117.77,35,4121.95
+333,"1970 Dodge Coronet",9,49.13,25,1228.25
+333,"1992 Porsche Cayenne Turbo Silver",9,112.37,23,2584.51
+333,"1950's Chicago Surface Lines Streetcar",9,57.17,33,1886.61
+141,"2001 Ferrari Enzo",9,201.57,20,4031.40
+141,"1969 Corvair Monza",9,128.42,42,5393.64
+141,"1969 Ford Falcon",9,155.72,49,7630.28
+141,"1903 Ford Model A",9,125.66,31,3895.46
+141,"Collectable Wooden Train",9,82.69,29,2398.01
+141,"1904 Buick Runabout",9,82.50,22,1815.00
+141,"18th century schooner",9,111.83,40,4473.20
+141,"1962 City of Detroit Streetcar",9,53.31,31,1652.61
+141,"The Schooner Bluenose",9,58.00,43,2494.00
+141,"The Mayflower",9,80.55,31,2497.05
+141,"The Titanic",9,87.15,50,4357.50
+141,"The Queen Mary",9,85.41,20,1708.20
+141,"Pont Yacht",9,51.87,50,2593.50
+219,"1912 Ford Model T Delivery Wagon",10,75.23,31,2332.13
+219,"The USS Constitution Ship",10,59.27,36,2133.72
+186,"1972 Alfa Romeo GTA",10,129.20,32,4134.40
+186,"1980s Black Hawk Helicopter",10,138.77,38,5273.26
+186,"1999 Yamaha Speed Boat",10,83.44,44,3671.36
+186,"1941 Chevrolet Special Deluxe Cabriolet",10,105.87,29,3070.23
+186,"1900s Vintage Bi-Plane",10,62.34,23,1433.82
+186,"1937 Horch 930V Limousine",10,56.55,34,1922.70
+186,"1940 Ford Delivery Sedan",10,76.31,37,2823.47
+186,"Corsair F4U ( Bird Cage)",10,58.69,44,2582.36
+186,"HMS Bounty",10,89.61,32,2867.52
+186,"America West Airlines B757-200",10,87.75,20,1755.00
+186,"F/A 18 Hornet 1/72",10,76.80,43,3302.40
+186,"American Airlines: MD-11S",10,70.33,44,3094.52
+186,"Boeing X-32A JSF",10,49.16,34,1671.44
+141,"1930 Buick Marquette Phaeton",10,43.64,20,872.80
+141,"American Airlines: B767-300",10,77.64,48,3726.72
+473,"P-51-D Mustang",10,69.27,33,2285.91
+473,"1928 British Royal Navy Airplane",10,89.72,40,3588.80
+473,"1900s Vintage Tri-Plane",10,66.65,33,2199.45
+473,"1997 BMW F650 ST",10,83.91,34,2852.94
+473,"1928 Ford Phaeton Deluxe",10,56.41,28,1579.48
+473,"ATA: B757-300",10,109.16,48,5239.68
+121,"1960 BSA Gold Star DBD34",10,67.79,22,1491.38
+321,"1969 Harley Davidson Ultimate Chopper",10,81.35,49,3986.15
+321,"1996 Moto Guzzi 1100i",10,101.10,37,3740.70
+321,"2003 Harley-Davidson Eagle Drag Bike",10,170.42,22,3749.24
+321,"1968 Ford Mustang",10,188.73,41,7737.93
+321,"2002 Suzuki XREO",10,131.04,38,4979.52
+321,"1970 Plymouth Hemi Cuda",10,67.03,24,1608.72
+321,"1936 Harley Davidson El Knucklehead",10,51.48,42,2162.16
+321,"1969 Dodge Super Bee",10,66.74,21,1401.54
+321,"1976 Ford Gran Torino",10,129.35,25,3233.75
+321,"1957 Vespa GS150",10,54.71,21,1148.91
+321,"1957 Corvette Convertible",10,142.85,32,4571.20
+321,"1997 BMW R 1100 S",10,100.30,44,4413.20
+321,"1982 Ducati 900 Monster",10,67.18,27,1813.86
+321,"1971 Alpine Renault 1600s",10,49.60,50,2480.00
+321,"1961 Chevrolet Impala",10,80.84,23,1859.32
+321,"1982 Ducati 996 R",10,39.43,35,1380.05
+321,"1974 Ducati 350 Mk3 Desmo",10,86.74,23,1995.02
+321,"2002 Yamaha YZR M1",10,78.11,31,2421.41
+347,"1968 Dodge Charger",10,96.30,46,4429.80
+347,"1969 Dodge Charger",10,93.28,50,4664.00
+347,"1948 Porsche 356-A Roadster",10,70.84,38,2691.92
+347,"1992 Ferrari 360 Spider red",10,140.55,20,2811.00
+347,"1982 Lamborghini Diablo",10,30.59,42,1284.78
+347,"1956 Porsche 356A Coupe",10,130.60,35,4571.00
+227,"1993 Mazda RX-7",10,121.72,28,3408.16
+227,"1965 Aston Martin DB5",10,102.04,43,4387.72
+227,"1995 Honda Civic",10,139.41,48,6691.68
+227,"1999 Indy 500 Monte Carlo SS",10,125.40,23,2884.20
+227,"1948 Porsche Type 356 Roadster",10,132.80,36,4780.80
+227,"1957 Ford Thunderbird",10,62.72,25,1568.00
+227,"1970 Chevy Chevelle SS 454",10,73.49,37,2719.13
+227,"1966 Shelby Cobra 427 S/C",10,47.29,23,1087.67
+227,"1949 Jaguar XK 120",10,82.69,20,1653.80
+227,"1952 Citroen-15CV",10,108.04,25,2701.00
+227,"1969 Chevrolet Camaro Z28",10,72.77,20,1455.40
+227,"2002 Chevy Corvette",10,94.23,30,2826.90
+321,"1937 Lincoln Berline",10,87.33,48,4191.84
+321,"1936 Mercedes-Benz 500K Special Roadster",10,45.28,45,2037.60
+321,"1917 Grand Touring Sedan",10,141.10,29,4091.90
+321,"1911 Ford Town Car",10,53.28,27,1438.56
+321,"1932 Model A Ford J-Coupe",10,113.15,38,4299.70
+321,"1928 Mercedes-Benz SSK",10,156.94,48,7533.12
+321,"1932 Alfa Romeo 8C2300 Spider Sport",10,86.51,39,3373.89
+321,"1939 Chevrolet Deluxe Coupe",10,27.55,37,1019.35
+321,"1938 Cadillac V-16 Presidential Limousine",10,38.98,43,1676.14
+321,"1936 Mercedes Benz 500k Roadster",10,32.82,37,1214.34
+424,"1952 Alpine Renault 1300",10,212.16,21,4455.36
+424,"1913 Ford Model T Speedster",10,101.31,31,3140.61
+424,"1934 Ford V8 Coupe",10,59.96,48,2878.08
+424,"18th Century Vintage Horse Carriage",10,101.58,40,4063.20
+424,"1917 Maxwell Touring Car",10,80.36,43,3455.48
+424,"1936 Chrysler Airflow",10,96.42,42,4049.64
+452,"1962 LanciaA Delta 16V",10,143.31,21,3009.51
+452,"1958 Setra Bus",10,121.64,49,5960.36
+452,"1940 Ford Pickup Truck",10,103.84,36,3738.24
+452,"1940s Ford truck",10,107.76,45,4849.20
+452,"1939 Cadillac Limousine",10,46.29,25,1157.25
+452,"1980’s GM Manhattan Express",10,91.49,24,2195.76
+452,"1996 Peterbilt 379 Stake Bed with Outrigger",10,57.53,49,2818.97
+452,"1982 Camaro Z28",10,86.99,39,3392.61
+148,"2001 Ferrari Enzo",10,168.32,44,7406.08
+148,"1969 Corvair Monza",10,123.89,34,4212.26
+148,"1969 Ford Falcon",10,152.26,27,4111.02
+148,"1957 Chevy Pickup",10,109.02,48,5232.96
+148,"1998 Chrysler Plymouth Prowler",10,134.26,29,3893.54
+148,"1964 Mercedes Tour Bus",10,120.28,46,5532.88
+148,"1926 Ford Fire Engine",10,60.77,31,1883.87
+148,"1992 Ferrari 360 Spider red",10,154.10,47,7242.70
+148,"Collectable Wooden Train",10,84.71,50,4235.50
+148,"1970 Triumph Spitfire",10,123.51,28,3458.28
+148,"1970 Dodge Coronet",10,46.82,25,1170.50
+148,"1962 Volkswagen Microbus",10,117.57,32,3762.24
+148,"1958 Chevy Corvette Limited Edition",10,31.12,27,840.24
+148,"1992 Porsche Cayenne Turbo Silver",10,106.45,24,2554.80
+148,"1954 Greyhound Scenicruiser",10,50.86,48,2441.28
+148,"1950's Chicago Surface Lines Streetcar",10,55.30,44,2433.20
+148,"Diamond T620 Semi-Skirted Tanker",10,106.49,48,5111.52
+148,"1962 City of Detroit Streetcar",10,49.21,38,1869.98
+462,"1903 Ford Model A",10,136.59,43,5873.37
+462,"1904 Buick Runabout",10,72.85,26,1894.10
+462,"The Mayflower",10,76.22,29,2210.38
+448,"1972 Alfa Romeo GTA",10,123.76,44,5445.44
+448,"1980s Black Hawk Helicopter",10,141.92,43,6102.56
+448,"1999 Yamaha Speed Boat",10,69.68,46,3205.28
+448,"1941 Chevrolet Special Deluxe Cabriolet",10,84.70,34,2879.80
+448,"18th century schooner",10,110.60,33,3649.80
+448,"1900s Vintage Bi-Plane",10,54.81,21,1151.01
+448,"1912 Ford Model T Delivery Wagon",10,77.00,20,1540.00
+448,"1937 Horch 930V Limousine",10,64.44,32,2062.08
+448,"1940 Ford Delivery Sedan",10,73.80,29,2140.20
+448,"The Schooner Bluenose",10,66.00,43,2838.00
+448,"HMS Bounty",10,87.80,29,2546.20
+448,"The USS Constitution Ship",10,62.16,46,2859.36
+448,"The Titanic",10,85.14,24,2043.36
+448,"The Queen Mary",10,83.42,28,2335.76
+448,"Boeing X-32A JSF",10,42.71,40,1708.40
+448,"Pont Yacht",10,43.68,38,1659.84
+161,"1969 Harley Davidson Ultimate Chopper",10,94.74,36,3410.64
+161,"1996 Moto Guzzi 1100i",10,97.53,27,2633.31
+161,"2003 Harley-Davidson Eagle Drag Bike",10,160.74,20,3214.80
+161,"P-51-D Mustang",10,75.19,21,1578.99
+161,"1936 Harley Davidson El Knucklehead",10,49.06,46,2256.76
+161,"1997 BMW R 1100 S",10,103.68,50,5184.00
+161,"1928 British Royal Navy Airplane",10,93.01,49,4557.49
+161,"1960 BSA Gold Star DBD34",10,72.36,29,2098.44
+161,"Corsair F4U ( Bird Cage)",10,57.32,27,1547.64
+161,"1900s Vintage Tri-Plane",10,68.10,48,3268.80
+161,"1997 BMW F650 ST",10,89.90,28,2517.20
+161,"1928 Ford Phaeton Deluxe",10,57.78,31,1791.18
+161,"1930 Buick Marquette Phaeton",10,39.71,48,1906.08
+161,"American Airlines: B767-300",10,91.34,28,2557.52
+161,"America West Airlines B757-200",10,87.75,31,2720.25
+161,"ATA: B757-300",10,94.92,36,3417.12
+161,"F/A 18 Hornet 1/72",10,72.00,48,3456.00
+161,"American Airlines: MD-11S",10,67.37,39,2627.43
+276,"1968 Ford Mustang",11,163.44,30,4903.20
+276,"2002 Suzuki XREO",11,126.52,35,4428.20
+276,"1970 Plymouth Hemi Cuda",11,71.82,36,2585.52
+276,"1969 Dodge Super Bee",11,65.13,32,2084.16
+276,"1976 Ford Gran Torino",11,136.70,36,4921.20
+276,"1957 Vespa GS150",11,52.84,38,2007.92
+276,"1957 Corvette Convertible",11,120.53,33,3977.49
+276,"1982 Ducati 900 Monster",11,66.49,38,2526.62
+276,"1971 Alpine Renault 1600s",11,53.27,34,1811.18
+276,"1961 Chevrolet Impala",11,77.61,24,1862.64
+276,"1982 Ducati 996 R",11,37.01,26,962.26
+276,"1974 Ducati 350 Mk3 Desmo",11,83.68,34,2845.12
+276,"2002 Yamaha YZR M1",11,75.66,48,3631.68
+452,"1968 Dodge Charger",11,116.27,47,5464.69
+452,"1969 Dodge Charger",11,93.28,41,3824.48
+452,"1948 Porsche 356-A Roadster",11,70.07,20,1401.40
+452,"1956 Porsche 356A Coupe",11,130.60,34,4440.40
+233,"1993 Mazda RX-7",11,134.46,35,4706.10
+233,"1995 Honda Civic",11,128.03,35,4481.05
+233,"1992 Ferrari 360 Spider red",11,165.95,39,6472.05
+233,"1982 Lamborghini Diablo",11,34.74,36,1250.64
+175,"1965 Aston Martin DB5",11,109.51,42,4599.42
+175,"1999 Indy 500 Monte Carlo SS",11,117.48,39,4581.72
+175,"1948 Porsche Type 356 Roadster",11,139.87,48,6713.76
+175,"1970 Chevy Chevelle SS 454",11,61.00,32,1952.00
+175,"1966 Shelby Cobra 427 S/C",11,43.27,34,1471.18
+175,"1949 Jaguar XK 120",11,79.97,22,1759.34
+175,"1969 Chevrolet Camaro Z28",11,77.91,24,1869.84
+175,"2002 Chevy Corvette",11,87.81,22,1931.82
+278,"1937 Lincoln Berline",11,101.71,43,4373.53
+278,"1936 Mercedes-Benz 500K Special Roadster",11,51.75,48,2484.00
+278,"1917 Grand Touring Sedan",11,168.30,24,4039.20
+278,"1911 Ford Town Car",11,55.09,26,1432.34
+278,"1932 Model A Ford J-Coupe",11,127.13,31,3941.03
+278,"1928 Mercedes-Benz SSK",11,140.06,22,3081.32
+278,"1934 Ford V8 Coupe",11,56.84,28,1591.52
+278,"18th Century Vintage Horse Carriage",11,86.92,31,2694.52
+278,"1917 Maxwell Touring Car",11,90.28,29,2618.12
+278,"1932 Alfa Romeo 8C2300 Spider Sport",11,77.31,21,1623.51
+278,"1957 Ford Thunderbird",11,58.44,39,2279.16
+278,"1939 Chevrolet Deluxe Coupe",11,29.87,31,925.97
+278,"1938 Cadillac V-16 Presidential Limousine",11,39.42,27,1064.34
+278,"1952 Citroen-15CV",11,98.65,23,2268.95
+278,"1936 Mercedes Benz 500k Roadster",11,35.70,35,1249.50
+278,"1936 Chrysler Airflow",11,93.49,22,2056.78
+333,"1952 Alpine Renault 1300",11,207.87,34,7067.58
+333,"1958 Setra Bus",11,113.44,43,4877.92
+333,"1940 Ford Pickup Truck",11,108.50,48,5208.00
+333,"1913 Ford Model T Speedster",11,100.30,46,4613.80
+333,"1939 Cadillac Limousine",11,44.27,49,2169.23
+324,"1962 LanciaA Delta 16V",11,119.67,33,3949.11
+324,"1957 Chevy Pickup",11,109.02,26,2834.52
+324,"1964 Mercedes Tour Bus",11,101.87,48,4889.76
+324,"1926 Ford Fire Engine",11,59.55,41,2441.55
+324,"1992 Ferrari 360 Spider red",11,150.71,29,4370.59
+324,"1940s Ford truck",11,102.92,47,4837.24
+324,"1962 Volkswagen Microbus",11,121.40,28,3399.20
+324,"1958 Chevy Corvette Limited Edition",11,32.18,37,1190.66
+324,"1980’s GM Manhattan Express",11,89.57,22,1970.54
+324,"1954 Greyhound Scenicruiser",11,50.86,50,2543.00
+324,"1996 Peterbilt 379 Stake Bed with Outrigger",11,56.24,29,1630.96
+324,"1982 Camaro Z28",11,80.92,42,3398.64
+386,"2001 Ferrari Enzo",11,166.24,33,5485.92
+386,"1969 Corvair Monza",11,145.04,47,6816.88
+386,"1969 Ford Falcon",11,160.91,50,8045.50
+386,"1998 Chrysler Plymouth Prowler",11,139.17,20,2783.40
+386,"1970 Triumph Spitfire",11,140.75,36,5067.00
+386,"1970 Dodge Coronet",11,55.49,27,1498.23
+386,"1992 Porsche Cayenne Turbo Silver",11,101.72,29,2949.88
+386,"1950's Chicago Surface Lines Streetcar",11,62.14,22,1367.08
+386,"Diamond T620 Semi-Skirted Tanker",11,109.96,23,2529.08
+386,"1962 City of Detroit Streetcar",11,52.14,38,1981.32
+344,"1903 Ford Model A",11,113.37,23,2607.51
+344,"Collectable Wooden Train",11,92.77,29,2690.33
+344,"1904 Buick Runabout",11,82.50,35,2887.50
+344,"18th century schooner",11,115.52,50,5776.00
+344,"1912 Ford Model T Delivery Wagon",11,79.66,45,3584.70
+344,"The Schooner Bluenose",11,58.67,24,1408.08
+344,"The Mayflower",11,77.95,31,2416.45
+344,"The USS Constitution Ship",11,64.33,32,2058.56
+344,"The Titanic",11,88.15,44,3878.60
+344,"The Queen Mary",11,83.42,24,2002.08
+344,"Pont Yacht",11,52.96,40,2118.40
+242,"1972 Alfa Romeo GTA",11,131.92,24,3166.08
+242,"1980s Black Hawk Helicopter",11,127.73,42,5364.66
+242,"1999 Yamaha Speed Boat",11,70.54,41,2892.14
+242,"1941 Chevrolet Special Deluxe Cabriolet",11,104.81,48,5030.88
+242,"1900s Vintage Bi-Plane",11,67.82,34,2305.88
+242,"1937 Horch 930V Limousine",11,65.75,27,1775.25
+242,"1940 Ford Delivery Sedan",11,68.77,21,1444.17
+242,"Corsair F4U ( Bird Cage)",11,64.15,30,1924.50
+242,"HMS Bounty",11,86.90,34,2954.60
+242,"America West Airlines B757-200",11,91.74,22,2018.28
+242,"American Airlines: MD-11S",11,68.11,45,3064.95
+242,"Boeing X-32A JSF",11,41.71,45,1876.95
+496,"P-51-D Mustang",11,82.79,24,1986.96
+496,"1928 British Royal Navy Airplane",11,105.04,47,4936.88
+496,"1900s Vintage Tri-Plane",11,66.65,27,1799.55
+496,"1997 BMW F650 ST",11,86.90,45,3910.50
+496,"1928 Ford Phaeton Deluxe",11,63.97,24,1535.28
+496,"1930 Buick Marquette Phaeton",11,43.20,34,1468.80
+496,"American Airlines: B767-300",11,75.81,23,1743.63
+496,"ATA: B757-300",11,98.48,25,2462.00
+496,"F/A 18 Hornet 1/72",11,80.00,39,3120.00
+171,"1969 Harley Davidson Ultimate Chopper",11,76.56,29,2220.24
+171,"1996 Moto Guzzi 1100i",11,99.91,42,4196.22
+171,"2003 Harley-Davidson Eagle Drag Bike",11,164.61,41,6749.01
+171,"2002 Suzuki XREO",11,131.04,40,5241.60
+171,"1936 Harley Davidson El Knucklehead",11,48.46,25,1211.50
+171,"1957 Vespa GS150",11,59.06,21,1240.26
+171,"1957 Corvette Convertible",11,147.31,44,6481.64
+171,"1997 BMW R 1100 S",11,98.05,48,4706.40
+171,"1960 BSA Gold Star DBD34",11,61.70,28,1727.60
+171,"1982 Ducati 900 Monster",11,60.95,35,2133.25
+171,"1961 Chevrolet Impala",11,68.71,28,1923.88
+171,"1982 Ducati 996 R",11,33.39,34,1135.26
+171,"1974 Ducati 350 Mk3 Desmo",11,102.05,22,2245.10
+171,"2002 Yamaha YZR M1",11,74.85,21,1571.85
+167,"1968 Ford Mustang",11,155.66,27,4202.82
+167,"1968 Dodge Charger",11,113.92,28,3189.76
+167,"1970 Plymouth Hemi Cuda",11,67.03,20,1340.60
+167,"1969 Dodge Charger",11,107.10,36,3855.60
+167,"1993 Mazda RX-7",11,124.56,44,5480.64
+167,"1965 Aston Martin DB5",11,124.44,42,5226.48
+167,"1948 Porsche 356-A Roadster",11,74.69,22,1643.18
+167,"1995 Honda Civic",11,129.45,21,2718.45
+167,"1999 Indy 500 Monte Carlo SS",11,130.68,27,3528.36
+167,"1992 Ferrari 360 Spider red",11,147.33,45,6629.85
+167,"1969 Dodge Super Bee",11,73.17,30,2195.10
+167,"1976 Ford Gran Torino",11,120.53,22,2651.66
+167,"1948 Porsche Type 356 Roadster",11,137.04,39,5344.56
+167,"1966 Shelby Cobra 427 S/C",11,45.28,34,1539.52
+167,"1982 Lamborghini Diablo",11,32.85,37,1215.45
+167,"1971 Alpine Renault 1600s",11,54.49,23,1253.27
+167,"1956 Porsche 356A Coupe",11,122.17,25,3054.25
+124,"1937 Lincoln Berline",11,83.22,25,2080.50
+124,"1936 Mercedes-Benz 500K Special Roadster",11,44.21,32,1414.72
+124,"1917 Grand Touring Sedan",11,159.80,44,7031.20
+124,"1911 Ford Town Car",11,54.49,38,2070.62
+124,"1932 Model A Ford J-Coupe",11,105.52,20,2110.40
+124,"1928 Mercedes-Benz SSK",11,135.00,21,2835.00
+124,"1917 Maxwell Touring Car",11,86.31,33,2848.23
+124,"1932 Alfa Romeo 8C2300 Spider Sport",11,88.35,36,3180.60
+124,"1957 Ford Thunderbird",11,61.29,44,2696.76
+124,"1970 Chevy Chevelle SS 454",11,63.20,47,2970.40
+124,"1939 Chevrolet Deluxe Coupe",11,31.86,39,1242.54
+124,"1938 Cadillac V-16 Presidential Limousine",11,39.87,31,1235.97
+124,"1949 Jaguar XK 120",11,87.24,36,3140.64
+124,"1952 Citroen-15CV",11,116.27,20,2325.40
+124,"1969 Chevrolet Camaro Z28",11,73.62,33,2429.46
+124,"2002 Chevy Corvette",11,95.30,49,4669.70
+124,"1936 Mercedes Benz 500k Roadster",11,34.88,23,802.24
+339,"1952 Alpine Renault 1300",11,180.01,23,4140.23
+339,"1962 LanciaA Delta 16V",11,127.06,28,3557.68
+339,"1958 Setra Bus",11,114.80,41,4706.80
+339,"1940 Ford Pickup Truck",11,108.50,21,2278.50
+339,"1913 Ford Model T Speedster",11,91.18,37,3373.66
+339,"1934 Ford V8 Coupe",11,51.22,39,1997.58
+339,"18th Century Vintage Horse Carriage",11,90.06,22,1981.32
+339,"1940s Ford truck",11,118.66,21,2491.86
+339,"1939 Cadillac Limousine",11,42.26,40,1690.40
+339,"1936 Chrysler Airflow",11,81.81,47,3845.07
+339,"1996 Peterbilt 379 Stake Bed with Outrigger",11,52.36,49,2565.64
+339,"1982 Camaro Z28",11,85.98,23,1977.54
+484,"1957 Chevy Pickup",11,105.47,37,3902.39
+484,"1998 Chrysler Plymouth Prowler",11,145.72,46,6703.12
+484,"1964 Mercedes Tour Bus",11,119.05,46,5476.30
+484,"1926 Ford Fire Engine",11,60.77,44,2673.88
+484,"1992 Ferrari 360 Spider red",11,165.95,28,4646.60
+484,"1970 Dodge Coronet",11,57.22,31,1773.82
+484,"1962 Volkswagen Microbus",11,117.57,24,2821.68
+484,"1958 Chevy Corvette Limited Edition",11,30.06,42,1262.52
+484,"1992 Porsche Cayenne Turbo Silver",11,114.73,49,5621.77
+484,"1980’s GM Manhattan Express",11,84.75,46,3898.50
+484,"1954 Greyhound Scenicruiser",11,52.49,33,1732.17
+484,"1950's Chicago Surface Lines Streetcar",11,59.03,48,2833.44
+484,"Diamond T620 Semi-Skirted Tanker",11,92.60,45,4167.00
+320,"2001 Ferrari Enzo",11,195.33,21,4101.93
+320,"1969 Corvair Monza",11,146.55,33,4836.15
+320,"1969 Ford Falcon",11,147.07,43,6324.01
+320,"1903 Ford Model A",11,124.30,28,3480.40
+320,"Collectable Wooden Train",11,94.79,49,4644.71
+320,"1970 Triumph Spitfire",11,127.82,39,4984.98
+320,"1904 Buick Runabout",11,87.77,47,4125.19
+320,"18th century schooner",11,105.69,30,3170.70
+320,"1912 Ford Model T Delivery Wagon",11,83.20,33,2745.60
+320,"1962 City of Detroit Streetcar",11,46.86,20,937.20
+320,"The Schooner Bluenose",11,64.67,21,1358.07
+320,"The Mayflower",11,79.68,30,2390.40
+320,"The USS Constitution Ship",11,61.44,39,2396.16
+320,"The Titanic",11,99.17,37,3669.29
+320,"The Queen Mary",11,93.35,22,2053.70
+320,"Pont Yacht",11,47.50,28,1330.00
+489,"1972 Alfa Romeo GTA",11,108.80,26,2828.80
+489,"1980s Black Hawk Helicopter",11,137.19,32,4390.08
+489,"1999 Yamaha Speed Boat",11,73.12,32,2339.84
+489,"1941 Chevrolet Special Deluxe Cabriolet",11,98.46,46,4529.16
+489,"1900s Vintage Bi-Plane",11,60.29,22,1326.38
+489,"1937 Horch 930V Limousine",11,59.83,21,1256.43
+489,"1940 Ford Delivery Sedan",11,68.77,36,2475.72
+489,"HMS Bounty",11,80.56,24,1933.44
+489,"Boeing X-32A JSF",11,42.71,28,1195.88
+211,"P-51-D Mustang",11,70.12,45,3155.40
+211,"1928 British Royal Navy Airplane",11,96.29,46,4429.34
+211,"Corsair F4U ( Bird Cage)",11,55.96,43,2406.28
+211,"1900s Vintage Tri-Plane",11,64.48,33,2127.84
+211,"1928 Ford Phaeton Deluxe",11,61.22,31,1897.82
+211,"1930 Buick Marquette Phaeton",11,39.71,41,1628.11
+211,"American Airlines: B767-300",11,84.95,34,2888.30
+211,"America West Airlines B757-200",11,95.73,44,4212.12
+211,"F/A 18 Hornet 1/72",11,72.00,34,2448.00
+211,"American Airlines: MD-11S",11,70.33,44,3094.52
+167,"1969 Harley Davidson Ultimate Chopper",11,95.70,48,4593.60
+167,"1996 Moto Guzzi 1100i",11,111.80,38,4248.40
+167,"2003 Harley-Davidson Eagle Drag Bike",11,182.04,45,8191.80
+167,"1936 Harley Davidson El Knucklehead",11,52.09,32,1666.88
+167,"1997 BMW R 1100 S",11,95.80,25,2395.00
+167,"1960 BSA Gold Star DBD34",11,61.70,40,2468.00
+167,"1997 BMW F650 ST",11,81.91,44,3604.04
+167,"ATA: B757-300",11,96.11,29,2787.19
+205,"2002 Suzuki XREO",11,138.57,28,3879.96
+141,"1982 Ducati 900 Monster",11,58.87,42,2472.54
+141,"1982 Ducati 996 R",11,38.62,46,1776.52
+141,"1974 Ducati 350 Mk3 Desmo",11,89.80,42,3771.60
+141,"2002 Yamaha YZR M1",11,67.53,40,2701.20
+259,"1968 Ford Mustang",11,155.66,21,3268.86
+259,"1968 Dodge Charger",11,104.52,40,4180.80
+259,"1970 Plymouth Hemi Cuda",11,70.22,30,2106.60
+259,"1969 Dodge Super Bee",11,75.59,36,2721.24
+259,"1976 Ford Gran Torino",11,119.06,23,2738.38
+259,"1957 Vespa GS150",11,60.93,43,2619.99
+259,"1957 Corvette Convertible",11,136.90,32,4380.80
+259,"1971 Alpine Renault 1600s",11,53.27,48,2556.96
+259,"1961 Chevrolet Impala",11,77.61,44,3414.84
+363,"1969 Dodge Charger",11,99.04,27,2674.08
+363,"1993 Mazda RX-7",11,140.12,22,3082.64
+363,"1965 Aston Martin DB5",11,100.80,29,2923.20
+363,"1948 Porsche 356-A Roadster",11,70.84,45,3187.80
+363,"1995 Honda Civic",11,128.03,47,6017.41
+363,"1999 Indy 500 Monte Carlo SS",11,110.88,38,4213.44
+363,"1992 Ferrari 360 Spider red",11,137.17,26,3566.42
+363,"1948 Porsche Type 356 Roadster",11,125.74,45,5658.30
+363,"1970 Chevy Chevelle SS 454",11,72.02,37,2664.74
+363,"1966 Shelby Cobra 427 S/C",11,49.30,47,2317.10
+363,"1949 Jaguar XK 120",11,86.33,46,3971.18
+363,"1952 Citroen-15CV",11,112.74,23,2593.02
+363,"1982 Lamborghini Diablo",11,33.23,30,996.90
+363,"1969 Chevrolet Camaro Z28",11,69.34,32,2218.88
+363,"2002 Chevy Corvette",11,93.16,46,4285.36
+363,"1956 Porsche 356A Coupe",11,112.34,45,5055.30
+471,"1937 Lincoln Berline",11,92.47,28,2589.16
+471,"1936 Mercedes-Benz 500K Special Roadster",11,46.36,46,2132.56
+471,"1917 Grand Touring Sedan",11,153.00,21,3213.00
+471,"1911 Ford Town Car",11,60.54,42,2542.68
+471,"1932 Model A Ford J-Coupe",11,115.69,44,5090.36
+471,"1928 Mercedes-Benz SSK",11,143.44,22,3155.68
+471,"1913 Ford Model T Speedster",11,87.13,28,2439.64
+471,"1934 Ford V8 Coupe",11,53.09,24,1274.16
+471,"18th Century Vintage Horse Carriage",11,97.39,23,2239.97
+471,"1917 Maxwell Touring Car",11,79.37,32,2539.84
+471,"1932 Alfa Romeo 8C2300 Spider Sport",11,92.03,24,2208.72
+471,"1957 Ford Thunderbird",11,66.28,25,1657.00
+471,"1939 Chevrolet Deluxe Coupe",11,32.19,26,836.94
+471,"1938 Cadillac V-16 Presidential Limousine",11,44.80,20,896.00
+471,"1936 Mercedes Benz 500k Roadster",11,38.16,22,839.52
+471,"1936 Chrysler Airflow",11,92.52,20,1850.40
+146,"1952 Alpine Renault 1300",11,203.59,42,8550.78
+146,"1962 LanciaA Delta 16V",11,134.44,26,3495.44
+146,"1958 Setra Bus",11,124.37,38,4726.06
+146,"1940 Ford Pickup Truck",11,103.84,21,2180.64
+146,"1926 Ford Fire Engine",11,51.05,45,2297.25
+146,"1940s Ford truck",11,113.82,32,3642.24
+146,"1939 Cadillac Limousine",11,47.79,41,1959.39
+146,"1962 Volkswagen Microbus",11,112.46,49,5510.54
+146,"1980’s GM Manhattan Express",11,77.05,37,2850.85
+146,"1996 Peterbilt 379 Stake Bed with Outrigger",11,61.41,39,2394.99
+146,"1982 Camaro Z28",11,80.92,26,2103.92
+319,"1957 Chevy Pickup",11,118.50,49,5806.50
+319,"1998 Chrysler Plymouth Prowler",11,139.17,27,3757.59
+319,"1964 Mercedes Tour Bus",11,112.91,35,3951.85
+319,"1992 Ferrari 360 Spider red",11,150.71,50,7535.50
+319,"1970 Dodge Coronet",11,54.33,44,2390.52
+319,"1958 Chevy Corvette Limited Edition",11,31.82,32,1018.24
+319,"1992 Porsche Cayenne Turbo Silver",11,95.81,34,3257.54
+319,"1954 Greyhound Scenicruiser",11,51.95,32,1662.40
+319,"1950's Chicago Surface Lines Streetcar",11,59.03,33,1947.99
+319,"Diamond T620 Semi-Skirted Tanker",11,97.23,49,4764.27
+455,"2001 Ferrari Enzo",11,203.64,47,9571.08
+455,"1969 Corvair Monza",11,151.08,24,3625.92
+455,"1969 Ford Falcon",11,147.07,38,5588.66
+455,"1903 Ford Model A",11,127.03,49,6224.47
+455,"Collectable Wooden Train",11,81.68,35,2858.80
+455,"1970 Triumph Spitfire",11,126.39,27,3412.53
+455,"1962 City of Detroit Streetcar",11,56.82,46,2613.72
+455,"The Mayflower",11,84.88,50,4244.00
+216,"1972 Alfa Romeo GTA",11,118.32,45,5324.40
+216,"1999 Yamaha Speed Boat",11,83.44,46,3838.24
+216,"1941 Chevrolet Special Deluxe Cabriolet",11,85.75,22,1886.50
+216,"1904 Buick Runabout",11,78.99,50,3949.50
+216,"18th century schooner",11,109.37,41,4484.17
+216,"1912 Ford Model T Delivery Wagon",11,83.20,47,3910.40
+216,"1940 Ford Delivery Sedan",11,67.93,22,1494.46
+216,"The Schooner Bluenose",11,60.00,23,1380.00
+216,"HMS Bounty",11,78.75,24,1890.00
+216,"The USS Constitution Ship",11,66.50,50,3325.00
+216,"The Titanic",11,100.17,27,2704.59
+216,"The Queen Mary",11,88.39,35,3093.65
+216,"Boeing X-32A JSF",11,39.73,29,1152.17
+216,"Pont Yacht",11,48.59,42,2040.78
+385,"1980s Black Hawk Helicopter",11,149.81,42,6292.02
+385,"1900s Vintage Bi-Plane",11,60.97,48,2926.56
+385,"1937 Horch 930V Limousine",11,61.81,27,1668.87
+385,"Corsair F4U ( Bird Cage)",11,65.51,43,2816.93
+385,"America West Airlines B757-200",11,94.73,42,3978.66
+385,"American Airlines: MD-11S",11,74.03,40,2961.20
+475,"1930 Buick Marquette Phaeton",12,37.97,29,1101.13
+475,"American Airlines: B767-300",12,81.29,48,3901.92
+475,"F/A 18 Hornet 1/72",12,70.40,38,2675.20
+211,"P-51-D Mustang",12,74.34,28,2081.52
+211,"1928 British Royal Navy Airplane",12,99.57,33,3285.81
+211,"1900s Vintage Tri-Plane",12,70.28,39,2740.92
+211,"1997 BMW F650 ST",12,80.91,35,2831.85
+211,"1928 Ford Phaeton Deluxe",12,65.35,27,1764.45
+211,"ATA: B757-300",12,115.09,39,4488.51
+129,"1969 Harley Davidson Ultimate Chopper",12,82.30,22,1810.60
+129,"1996 Moto Guzzi 1100i",12,116.56,24,2797.44
+129,"2003 Harley-Davidson Eagle Drag Bike",12,191.72,49,9394.28
+129,"2002 Suzuki XREO",12,126.52,25,3163.00
+129,"1936 Harley Davidson El Knucklehead",12,48.46,30,1453.80
+129,"1997 BMW R 1100 S",12,93.54,39,3648.06
+129,"1960 BSA Gold Star DBD34",12,66.27,25,1656.75
+357,"1957 Vespa GS150",12,55.33,30,1659.90
+357,"1957 Corvette Convertible",12,124.99,43,5374.57
+357,"1982 Ducati 900 Monster",12,56.10,50,2805.00
+357,"1961 Chevrolet Impala",12,75.18,50,3759.00
+357,"1982 Ducati 996 R",12,33.39,27,901.53
+357,"1974 Ducati 350 Mk3 Desmo",12,81.64,31,2530.84
+357,"2002 Yamaha YZR M1",12,79.73,40,3189.20
+141,"1968 Ford Mustang",12,161.49,20,3229.80
+141,"1968 Dodge Charger",12,111.57,20,2231.40
+141,"1970 Plymouth Hemi Cuda",12,63.84,44,2808.96
+141,"1969 Dodge Charger",12,115.16,47,5412.52
+141,"1948 Porsche 356-A Roadster",12,73.15,45,3291.75
+141,"1992 Ferrari 360 Spider red",12,157.49,48,7559.52
+141,"1969 Dodge Super Bee",12,66.74,33,2202.42
+141,"1976 Ford Gran Torino",12,127.88,32,4092.16
+141,"1982 Lamborghini Diablo",12,33.23,21,697.83
+141,"1971 Alpine Renault 1600s",12,56.94,34,1935.96
+141,"1956 Porsche 356A Coupe",12,140.43,47,6600.21
+151,"1993 Mazda RX-7",12,114.65,42,4815.30
+151,"1965 Aston Martin DB5",12,113.24,40,4529.60
+151,"1917 Grand Touring Sedan",12,153.00,33,5049.00
+151,"1995 Honda Civic",12,133.72,38,5081.36
+151,"1911 Ford Town Car",12,59.33,23,1364.59
+151,"1932 Model A Ford J-Coupe",12,119.50,26,3107.00
+151,"1999 Indy 500 Monte Carlo SS",12,106.92,27,2886.84
+151,"1948 Porsche Type 356 Roadster",12,132.80,35,4648.00
+151,"1932 Alfa Romeo 8C2300 Spider Sport",12,83.75,29,2428.75
+151,"1957 Ford Thunderbird",12,69.84,45,3142.80
+151,"1970 Chevy Chevelle SS 454",12,69.82,20,1396.40
+151,"1966 Shelby Cobra 427 S/C",12,46.79,45,2105.55
+151,"1949 Jaguar XK 120",12,79.06,47,3715.82
+151,"1952 Citroen-15CV",12,112.74,42,4735.08
+151,"1969 Chevrolet Camaro Z28",12,84.75,40,3390.00
+151,"2002 Chevy Corvette",12,104.94,48,5037.12
+151,"1936 Mercedes Benz 500k Roadster",12,34.88,39,1360.32
+141,"1937 Lincoln Berline",12,98.63,36,3550.68
+141,"1936 Mercedes-Benz 500K Special Roadster",12,45.82,48,2199.36
+141,"1928 Mercedes-Benz SSK",12,138.38,40,5535.20
+141,"1939 Chevrolet Deluxe Coupe",12,27.88,32,892.16
+141,"1938 Cadillac V-16 Presidential Limousine",12,36.74,24,881.76
+202,"1952 Alpine Renault 1300",12,203.59,47,9568.73
+202,"1958 Setra Bus",12,109.34,28,3061.52
+202,"1940 Ford Pickup Truck",12,115.50,34,3927.00
+202,"1913 Ford Model T Speedster",12,98.27,37,3635.99
+202,"1934 Ford V8 Coupe",12,51.84,28,1451.52
+202,"18th Century Vintage Horse Carriage",12,102.63,30,3078.90
+202,"1917 Maxwell Touring Car",12,99.21,28,2777.88
+202,"1939 Cadillac Limousine",12,45.78,21,961.38
+202,"1936 Chrysler Airflow",12,95.44,33,3149.52
+202,"1996 Peterbilt 379 Stake Bed with Outrigger",12,54.94,36,1977.84
+202,"1982 Camaro Z28",12,89.01,33,2937.33
+495,"1962 LanciaA Delta 16V",12,125.58,31,3892.98
+495,"1957 Chevy Pickup",12,95.99,34,3263.66
+495,"1998 Chrysler Plymouth Prowler",12,140.81,44,6195.64
+495,"1964 Mercedes Tour Bus",12,109.23,43,4696.89
+495,"1926 Ford Fire Engine",12,60.77,37,2248.49
+495,"1992 Ferrari 360 Spider red",12,140.55,25,3513.75
+495,"1970 Triumph Spitfire",12,143.62,40,5744.80
+495,"1940s Ford truck",12,119.87,47,5633.89
+495,"1970 Dodge Coronet",12,57.80,49,2832.20
+495,"1962 Volkswagen Microbus",12,127.79,46,5878.34
+495,"1958 Chevy Corvette Limited Edition",12,30.76,42,1291.92
+495,"1992 Porsche Cayenne Turbo Silver",12,108.82,28,3046.96
+495,"1980’s GM Manhattan Express",12,84.75,49,4152.75
+495,"1954 Greyhound Scenicruiser",12,51.95,27,1402.65
+495,"1950's Chicago Surface Lines Streetcar",12,55.30,45,2488.50
+495,"Diamond T620 Semi-Skirted Tanker",12,106.49,28,2981.72
+146,"2001 Ferrari Enzo",1,176.63,46,8124.98
+146,"1969 Corvair Monza",1,128.42,26,3338.92
+146,"1969 Ford Falcon",1,152.26,20,3045.20
+146,"1903 Ford Model A",1,117.47,24,2819.28
+146,"Collectable Wooden Train",1,96.81,48,4646.88
+146,"1904 Buick Runabout",1,72.85,45,3278.25
+146,"18th century schooner",1,122.89,35,4301.15
+146,"1912 Ford Model T Delivery Wagon",1,80.54,20,1610.80
+146,"1962 City of Detroit Streetcar",1,57.99,30,1739.70
+146,"The Schooner Bluenose",1,56.67,38,2153.46
+146,"The Mayflower",1,73.62,40,2944.80
+146,"The USS Constitution Ship",1,63.61,46,2926.06
+146,"The Titanic",1,95.16,37,3520.92
+146,"The Queen Mary",1,95.34,33,3146.22
+146,"Pont Yacht",1,48.05,42,2018.10
+347,"1972 Alfa Romeo GTA",1,129.20,39,5038.80
+347,"1999 Yamaha Speed Boat",1,82.58,28,2312.24
+347,"1941 Chevrolet Special Deluxe Cabriolet",1,97.40,20,1948.00
+347,"1900s Vintage Bi-Plane",1,66.45,43,2857.35
+347,"1937 Horch 930V Limousine",1,56.55,36,2035.80
+347,"1940 Ford Delivery Sedan",1,79.67,22,1752.74
+347,"HMS Bounty",1,90.52,33,2987.16
+347,"Boeing X-32A JSF",1,44.20,48,2121.60
+177,"1996 Moto Guzzi 1100i",1,112.99,23,2598.77
+177,"2003 Harley-Davidson Eagle Drag Bike",1,189.79,34,6452.86
+177,"1980s Black Hawk Helicopter",1,141.92,31,4399.52
+177,"P-51-D Mustang",1,68.43,50,3421.50
+177,"1936 Harley Davidson El Knucklehead",1,51.48,40,2059.20
+177,"1928 British Royal Navy Airplane",1,100.67,27,2718.09
+177,"1960 BSA Gold Star DBD34",1,63.22,30,1896.60
+177,"Corsair F4U ( Bird Cage)",1,56.64,29,1642.56
+177,"1900s Vintage Tri-Plane",1,68.10,40,2724.00
+177,"1997 BMW F650 ST",1,84.91,46,3905.86
+177,"1928 Ford Phaeton Deluxe",1,57.10,39,2226.90
+177,"1930 Buick Marquette Phaeton",1,43.20,43,1857.60
+177,"American Airlines: B767-300",1,87.69,21,1841.49
+177,"America West Airlines B757-200",1,93.74,26,2437.24
+177,"ATA: B757-300",1,98.48,25,2462.00
+177,"F/A 18 Hornet 1/72",1,64.00,31,1984.00
+177,"American Airlines: MD-11S",1,60.70,42,2549.40
+406,"1969 Harley Davidson Ultimate Chopper",1,90.92,41,3727.72
+406,"1968 Ford Mustang",1,171.22,41,7020.02
+406,"2002 Suzuki XREO",1,126.52,36,4554.72
+406,"1970 Plymouth Hemi Cuda",1,79.80,28,2234.40
+406,"1969 Dodge Super Bee",1,73.17,35,2560.95
+406,"1976 Ford Gran Torino",1,138.17,28,3868.76
+406,"1957 Vespa GS150",1,60.30,46,2773.80
+406,"1957 Corvette Convertible",1,148.80,41,6100.80
+406,"1997 BMW R 1100 S",1,109.32,25,2733.00
+406,"1982 Ducati 900 Monster",1,62.33,21,1308.93
+406,"1971 Alpine Renault 1600s",1,52.66,48,2527.68
+406,"1961 Chevrolet Impala",1,80.84,22,1778.48
+406,"1982 Ducati 996 R",1,39.83,41,1633.03
+406,"1974 Ducati 350 Mk3 Desmo",1,94.91,37,3511.67
+406,"2002 Yamaha YZR M1",1,70.78,40,2831.20
+141,"1968 Dodge Charger",1,99.82,39,3892.98
+141,"1969 Dodge Charger",1,110.55,33,3648.15
+141,"1993 Mazda RX-7",1,117.48,29,3406.92
+141,"1965 Aston Martin DB5",1,105.77,38,4019.26
+141,"1948 Porsche 356-A Roadster",1,64.68,20,1293.60
+141,"1995 Honda Civic",1,133.72,41,5482.52
+141,"1999 Indy 500 Monte Carlo SS",1,117.48,40,4699.20
+141,"1992 Ferrari 360 Spider red",1,155.79,40,6231.60
+141,"1948 Porsche Type 356 Roadster",1,115.85,45,5213.25
+141,"1970 Chevy Chevelle SS 454",1,61.73,41,2530.93
+141,"1966 Shelby Cobra 427 S/C",1,43.27,45,1947.15
+141,"1949 Jaguar XK 120",1,81.78,45,3680.10
+141,"1982 Lamborghini Diablo",1,37.38,34,1270.92
+141,"1969 Chevrolet Camaro Z28",1,77.91,27,2103.57
+141,"2002 Chevy Corvette",1,100.66,46,4630.36
+141,"1956 Porsche 356A Coupe",1,117.96,49,5780.04
+489,"1932 Alfa Romeo 8C2300 Spider Sport",1,84.67,38,3217.46
+489,"1957 Ford Thunderbird",1,58.44,25,1461.00
+489,"1952 Citroen-15CV",1,97.48,27,2631.96
+458,"1917 Grand Touring Sedan",1,166.60,30,4998.00
+458,"1911 Ford Town Car",1,53.28,21,1118.88
+458,"1932 Model A Ford J-Coupe",1,125.86,27,3398.22
+458,"1928 Mercedes-Benz SSK",1,167.06,50,8353.00
+458,"1939 Chevrolet Deluxe Coupe",1,32.19,20,643.80
+458,"1938 Cadillac V-16 Presidential Limousine",1,39.87,49,1953.63
+458,"1936 Mercedes Benz 500k Roadster",1,38.57,44,1697.08
+475,"1952 Alpine Renault 1300",1,205.73,35,7200.55
+475,"1940 Ford Pickup Truck",1,100.34,46,4615.64
+475,"1937 Lincoln Berline",1,92.47,27,2496.69
+475,"1936 Mercedes-Benz 500K Special Roadster",1,53.91,33,1779.03
+475,"1913 Ford Model T Speedster",1,97.26,49,4765.74
+475,"1934 Ford V8 Coupe",1,56.21,31,1742.51
+475,"18th Century Vintage Horse Carriage",1,89.01,49,4361.49
+475,"1917 Maxwell Touring Car",1,84.33,41,3457.53
+475,"1939 Cadillac Limousine",1,42.76,46,1966.96
+475,"1936 Chrysler Airflow",1,94.47,39,3684.33
+256,"1958 Setra Bus",2,133.94,43,5759.42
+166,"1962 LanciaA Delta 16V",2,132.97,48,6382.56
+166,"1926 Ford Fire Engine",2,58.34,35,2041.90
+166,"1940s Ford truck",2,118.66,38,4509.08
+166,"1962 Volkswagen Microbus",2,103.51,28,2898.28
+166,"1980’s GM Manhattan Express",2,78.97,21,1658.37
+166,"1996 Peterbilt 379 Stake Bed with Outrigger",2,56.24,39,2193.36
+166,"1982 Camaro Z28",2,90.02,31,2790.62
+473,"1964 Mercedes Tour Bus",2,110.46,22,2430.12
+473,"1992 Ferrari 360 Spider red",2,152.41,34,5181.94
+487,"1957 Chevy Pickup",2,94.80,48,4550.40
+487,"1998 Chrysler Plymouth Prowler",2,132.62,43,5702.66
+487,"1958 Chevy Corvette Limited Edition",2,31.12,21,653.52
+487,"1954 Greyhound Scenicruiser",2,47.62,35,1666.70
+189,"2001 Ferrari Enzo",2,189.10,32,6051.20
+189,"1969 Corvair Monza",2,151.08,30,4532.40
+189,"1969 Ford Falcon",2,166.10,27,4484.70
+189,"1970 Triumph Spitfire",2,126.39,50,6319.50
+189,"1970 Dodge Coronet",2,48.55,26,1262.30
+189,"1992 Porsche Cayenne Turbo Silver",2,101.72,37,3763.64
+189,"1950's Chicago Surface Lines Streetcar",2,49.71,20,994.20
+189,"Diamond T620 Semi-Skirted Tanker",2,92.60,37,3426.20
+189,"1962 City of Detroit Streetcar",2,56.82,30,1704.60
+314,"1903 Ford Model A",2,133.86,33,4417.38
+314,"Collectable Wooden Train",2,89.75,23,2064.25
+314,"1904 Buick Runabout",2,84.26,39,3286.14
+314,"18th century schooner",2,113.06,49,5539.94
+314,"The Mayflower",2,69.29,23,1593.67
+239,"1972 Alfa Romeo GTA",2,133.28,49,6530.72
+239,"1980s Black Hawk Helicopter",2,137.19,49,6722.31
+239,"1999 Yamaha Speed Boat",2,79.14,49,3877.86
+239,"1941 Chevrolet Special Deluxe Cabriolet",2,88.93,45,4001.85
+239,"1900s Vintage Bi-Plane",2,56.86,32,1819.52
+239,"1912 Ford Model T Delivery Wagon",2,74.35,47,3494.45
+239,"1937 Horch 930V Limousine",2,61.15,43,2629.45
+239,"1940 Ford Delivery Sedan",2,77.99,46,3587.54
+239,"Corsair F4U ( Bird Cage)",2,55.27,48,2652.96
+239,"The Schooner Bluenose",2,58.67,31,1818.77
+239,"HMS Bounty",2,80.56,26,2094.56
+239,"America West Airlines B757-200",2,90.75,37,3357.75
+239,"The USS Constitution Ship",2,69.39,36,2498.04
+239,"The Titanic",2,84.14,38,3197.32
+239,"The Queen Mary",2,81.43,31,2524.33
+239,"American Airlines: MD-11S",2,66.63,43,2865.09
+239,"Boeing X-32A JSF",2,45.19,31,1400.89
+239,"Pont Yacht",2,48.59,36,1749.24
+114,"1969 Harley Davidson Ultimate Chopper",2,80.39,37,2974.43
+114,"1996 Moto Guzzi 1100i",2,110.61,47,5198.67
+114,"2003 Harley-Davidson Eagle Drag Bike",2,189.79,49,9299.71
+114,"P-51-D Mustang",2,67.58,47,3176.26
+114,"1936 Harley Davidson El Knucklehead",2,58.75,28,1645.00
+114,"1997 BMW R 1100 S",2,104.81,32,3353.92
+114,"1928 British Royal Navy Airplane",2,87.54,34,2976.36
+114,"1960 BSA Gold Star DBD34",2,60.94,38,2315.72
+114,"1900s Vintage Tri-Plane",2,68.10,23,1566.30
+114,"1997 BMW F650 ST",2,90.90,21,1908.90
+114,"1928 Ford Phaeton Deluxe",2,66.73,20,1334.60
+114,"1930 Buick Marquette Phaeton",2,41.02,41,1681.82
+114,"American Airlines: B767-300",2,84.03,25,2100.75
+114,"ATA: B757-300",2,113.90,29,3303.10
+114,"F/A 18 Hornet 1/72",2,79.20,26,2059.20
+171,"2002 Suzuki XREO",2,141.58,43,6087.94
+171,"1957 Vespa GS150",2,57.20,38,2173.60
+171,"1982 Ducati 900 Monster",2,60.26,37,2229.62
+171,"1982 Ducati 996 R",2,37.01,43,1591.43
+171,"1974 Ducati 350 Mk3 Desmo",2,94.91,30,2847.30
+171,"2002 Yamaha YZR M1",2,81.36,50,4068.00
+298,"1968 Ford Mustang",2,157.60,27,4255.20
+298,"1968 Dodge Charger",2,101.00,25,2525.00
+298,"1970 Plymouth Hemi Cuda",2,64.64,37,2391.68
+298,"1969 Dodge Charger",2,100.19,21,2103.99
+298,"1993 Mazda RX-7",2,116.06,32,3713.92
+298,"1948 Porsche 356-A Roadster",2,71.61,47,3365.67
+298,"1992 Ferrari 360 Spider red",2,162.57,43,6990.51
+298,"1969 Dodge Super Bee",2,69.96,37,2588.52
+298,"1976 Ford Gran Torino",2,119.06,27,3214.62
+298,"1957 Corvette Convertible",2,135.41,35,4739.35
+298,"1982 Lamborghini Diablo",2,34.74,42,1459.08
+298,"1971 Alpine Renault 1600s",2,51.43,24,1234.32
+298,"1956 Porsche 356A Coupe",2,130.60,40,5224.00
+298,"1961 Chevrolet Impala",2,77.61,46,3570.06
+239,"1965 Aston Martin DB5",2,108.26,38,4113.88
+239,"1995 Honda Civic",2,129.45,24,3106.80
+239,"1999 Indy 500 Monte Carlo SS",2,125.40,24,3009.60
+239,"1948 Porsche Type 356 Roadster",2,122.91,46,5653.86
+239,"1970 Chevy Chevelle SS 454",2,65.41,21,1373.61
+239,"1966 Shelby Cobra 427 S/C",2,47.79,36,1720.44
+239,"2002 Chevy Corvette",2,95.30,48,4574.40
+146,"1937 Lincoln Berline",3,85.27,25,2131.75
+146,"1936 Mercedes-Benz 500K Special Roadster",3,50.14,31,1554.34
+146,"1917 Grand Touring Sedan",3,136.00,26,3536.00
+146,"1911 Ford Town Car",3,59.93,28,1678.04
+146,"1932 Model A Ford J-Coupe",3,118.23,46,5438.58
+146,"1928 Mercedes-Benz SSK",3,146.81,29,4257.49
+146,"1917 Maxwell Touring Car",3,99.21,33,3273.93
+146,"1932 Alfa Romeo 8C2300 Spider Sport",3,87.43,34,2972.62
+146,"1957 Ford Thunderbird",3,70.56,37,2610.72
+146,"1939 Chevrolet Deluxe Coupe",3,27.22,42,1143.24
+146,"1938 Cadillac V-16 Presidential Limousine",3,39.42,24,946.08
+146,"1949 Jaguar XK 120",3,84.51,47,3971.97
+146,"1952 Citroen-15CV",3,102.17,33,3371.61
+146,"1969 Chevrolet Camaro Z28",3,78.76,40,3150.40
+146,"1936 Mercedes Benz 500k Roadster",3,34.88,27,941.76
+173,"1952 Alpine Renault 1300",3,214.30,29,6214.70
+173,"1940 Ford Pickup Truck",3,100.34,32,3210.88
+173,"1913 Ford Model T Speedster",3,101.31,24,2431.44
+173,"1934 Ford V8 Coupe",3,57.46,45,2585.70
+173,"18th Century Vintage Horse Carriage",3,100.53,31,3116.43
+173,"1936 Chrysler Airflow",3,84.73,33,2796.09
+124,"1962 LanciaA Delta 16V",3,138.88,50,6944.00
+124,"1958 Setra Bus",3,110.70,25,2767.50
+124,"1957 Chevy Pickup",3,95.99,36,3455.64
+124,"1964 Mercedes Tour Bus",3,104.32,26,2712.32
+124,"1926 Ford Fire Engine",3,53.48,28,1497.44
+124,"1992 Ferrari 360 Spider red",3,157.49,22,3464.78
+124,"1940s Ford truck",3,119.87,41,4914.67
+124,"1939 Cadillac Limousine",3,43.77,39,1707.03
+124,"1962 Volkswagen Microbus",3,115.01,48,5520.48
+124,"1958 Chevy Corvette Limited Edition",3,34.65,33,1143.45
+124,"1980’s GM Manhattan Express",3,78.97,25,1974.25
+124,"1954 Greyhound Scenicruiser",3,49.78,23,1144.94
+124,"1996 Peterbilt 379 Stake Bed with Outrigger",3,52.36,30,1570.80
+124,"1982 Camaro Z28",3,91.04,50,4552.00
+128,"1969 Corvair Monza",3,128.42,43,5522.06
+128,"1998 Chrysler Plymouth Prowler",3,153.91,49,7541.59
+128,"1970 Triumph Spitfire",3,142.18,42,5971.56
+128,"1970 Dodge Coronet",3,47.40,36,1706.40
+128,"1992 Porsche Cayenne Turbo Silver",3,99.36,45,4471.20
+128,"1950's Chicago Surface Lines Streetcar",3,59.03,46,2715.38
+128,"Diamond T620 Semi-Skirted Tanker",3,100.70,34,3423.80
+128,"1962 City of Detroit Streetcar",3,57.41,43,2468.63
+344,"2001 Ferrari Enzo",3,193.25,42,8116.50
+344,"1969 Ford Falcon",3,147.07,49,7206.43
+240,"1903 Ford Model A",3,133.86,22,2944.92
+240,"Collectable Wooden Train",3,97.81,48,4694.88
+240,"1904 Buick Runabout",3,78.12,23,1796.76
+240,"18th century schooner",3,113.06,46,5200.76
+240,"The Mayflower",3,84.88,26,2206.88
+240,"The Titanic",3,86.15,48,4135.20
+240,"The Queen Mary",3,81.43,35,2850.05
+240,"Pont Yacht",3,48.59,24,1166.16
+328,"1912 Ford Model T Delivery Wagon",3,70.81,40,2832.40
+328,"The Schooner Bluenose",3,66.00,36,2376.00
+328,"The USS Constitution Ship",3,67.94,29,1970.26
+412,"1972 Alfa Romeo GTA",3,118.32,48,5679.36
+412,"1980s Black Hawk Helicopter",3,146.65,50,7332.50
+412,"1999 Yamaha Speed Boat",3,84.30,48,4046.40
+412,"1941 Chevrolet Special Deluxe Cabriolet",3,85.75,39,3344.25
+412,"1900s Vintage Bi-Plane",3,67.14,44,2954.16
+412,"1937 Horch 930V Limousine",3,65.09,25,1627.25
+412,"1940 Ford Delivery Sedan",3,78.83,31,2443.73
+412,"HMS Bounty",3,83.28,29,2415.12
+412,"Boeing X-32A JSF",3,45.69,40,1827.60
+260,"P-51-D Mustang",4,81.95,24,1966.80
+260,"1928 British Royal Navy Airplane",4,89.72,23,2063.56
+260,"Corsair F4U ( Bird Cage)",4,55.27,33,1823.91
+260,"1900s Vintage Tri-Plane",4,63.03,40,2521.20
+260,"1997 BMW F650 ST",4,90.90,41,3726.90
+260,"1928 Ford Phaeton Deluxe",4,66.73,34,2268.82
+260,"1930 Buick Marquette Phaeton",4,37.09,41,1520.69
+260,"American Airlines: B767-300",4,88.60,25,2215.00
+260,"America West Airlines B757-200",4,92.74,38,3524.12
+260,"ATA: B757-300",4,116.28,25,2907.00
+260,"F/A 18 Hornet 1/72",4,73.60,32,2355.20
+260,"American Airlines: MD-11S",4,70.33,34,2391.22
+486,"1996 Moto Guzzi 1100i",4,105.86,22,2328.92
+486,"1936 Harley Davidson El Knucklehead",4,52.70,23,1212.10
+486,"1960 BSA Gold Star DBD34",4,65.51,36,2358.36
+181,"1969 Harley Davidson Ultimate Chopper",4,91.87,23,2113.01
+181,"2003 Harley-Davidson Eagle Drag Bike",4,158.80,39,6193.20
+181,"2002 Suzuki XREO",4,129.53,32,4144.96
+181,"1957 Vespa GS150",4,49.74,26,1293.24
+181,"1997 BMW R 1100 S",4,109.32,20,2186.40
+181,"1982 Ducati 900 Monster",4,62.33,26,1620.58
+181,"1982 Ducati 996 R",4,35.00,26,910.00
+181,"1974 Ducati 350 Mk3 Desmo",4,94.91,27,2562.57
+181,"2002 Yamaha YZR M1",4,78.92,20,1578.40
+145,"1968 Ford Mustang",4,161.49,28,4521.72
+145,"1968 Dodge Charger",4,104.52,29,3031.08
+145,"1970 Plymouth Hemi Cuda",4,73.42,20,1468.40
+145,"1969 Dodge Super Bee",4,68.35,41,2802.35
+145,"1976 Ford Gran Torino",4,144.05,49,7058.45
+145,"1957 Corvette Convertible",4,120.53,44,5303.32
+145,"1971 Alpine Renault 1600s",4,53.88,47,2532.36
+145,"1961 Chevrolet Impala",4,67.91,22,1494.02
+311,"1969 Dodge Charger",4,100.19,21,2103.99
+311,"1948 Porsche 356-A Roadster",4,70.07,46,3223.22
+311,"1992 Ferrari 360 Spider red",4,135.47,47,6367.09
+311,"1982 Lamborghini Diablo",4,32.47,20,649.40
+311,"1956 Porsche 356A Coupe",4,133.41,29,3868.89
+177,"1993 Mazda RX-7",4,125.97,41,5164.77
+177,"1995 Honda Civic",4,136.56,37,5052.72
+177,"1948 Porsche Type 356 Roadster",4,134.22,37,4966.14
+209,"1965 Aston Martin DB5",4,119.46,21,2508.66
+209,"1917 Grand Touring Sedan",4,153.00,41,6273.00
+209,"1911 Ford Town Car",4,55.70,33,1838.10
+209,"1999 Indy 500 Monte Carlo SS",4,126.72,44,5575.68
+209,"1932 Alfa Romeo 8C2300 Spider Sport",4,77.31,42,3247.02
+209,"1957 Ford Thunderbird",4,62.72,30,1881.60
+209,"1970 Chevy Chevelle SS 454",4,72.02,22,1584.44
+209,"1966 Shelby Cobra 427 S/C",4,47.29,21,993.09
+209,"1949 Jaguar XK 120",4,89.05,47,4185.35
+209,"1952 Citroen-15CV",4,117.44,28,3288.32
+209,"1969 Chevrolet Camaro Z28",4,69.34,26,1802.84
+209,"2002 Chevy Corvette",4,107.08,27,2891.16
+456,"1936 Mercedes Benz 500k Roadster",4,36.52,46,1679.92
+495,"1932 Model A Ford J-Coupe",4,111.87,47,5257.89
+495,"1939 Chevrolet Deluxe Coupe",4,30.87,33,1018.71
+141,"1937 Lincoln Berline",4,99.66,40,3986.40
+141,"1936 Mercedes-Benz 500K Special Roadster",4,48.52,20,970.40
+141,"1928 Mercedes-Benz SSK",4,141.75,43,6095.25
+141,"1913 Ford Model T Speedster",4,87.13,30,2613.90
+141,"1934 Ford V8 Coupe",4,54.96,24,1319.04
+141,"18th Century Vintage Horse Carriage",4,85.87,29,2490.23
+141,"1917 Maxwell Touring Car",4,87.30,36,3142.80
+141,"1938 Cadillac V-16 Presidential Limousine",4,42.11,39,1642.29
+141,"1936 Chrysler Airflow",4,97.39,40,3895.60
+455,"1952 Alpine Renault 1300",5,195.01,34,6630.34
+455,"1962 LanciaA Delta 16V",5,147.74,28,4136.72
+455,"1958 Setra Bus",5,120.27,38,4570.26
+455,"1940 Ford Pickup Truck",5,114.34,29,3315.86
+455,"1940s Ford truck",5,111.39,21,2339.19
+455,"1939 Cadillac Limousine",5,48.80,45,2196.00
+455,"1980’s GM Manhattan Express",5,81.86,37,3028.82
+455,"1996 Peterbilt 379 Stake Bed with Outrigger",5,54.94,44,2417.36
+455,"1982 Camaro Z28",5,81.93,44,3604.92
+141,"1957 Chevy Pickup",5,99.54,46,4578.84
+141,"1998 Chrysler Plymouth Prowler",5,144.08,40,5763.20
+141,"1964 Mercedes Tour Bus",5,100.64,22,2214.08
+141,"1926 Ford Fire Engine",5,57.73,30,1731.90
+141,"1992 Ferrari 360 Spider red",5,145.63,36,5242.68
+141,"1970 Dodge Coronet",5,46.24,44,2034.56
+141,"1962 Volkswagen Microbus",5,118.84,29,3446.36
+141,"1958 Chevy Corvette Limited Edition",5,34.65,49,1697.85
+141,"1992 Porsche Cayenne Turbo Silver",5,100.54,46,4624.84
+141,"1954 Greyhound Scenicruiser",5,45.45,35,1590.75
+141,"Diamond T620 Semi-Skirted Tanker",5,113.44,22,2495.68
+334,"2001 Ferrari Enzo",5,195.33,44,8594.52
+334,"1969 Corvair Monza",5,140.50,25,3512.50
+334,"1969 Ford Falcon",5,167.83,27,4531.41
+334,"1970 Triumph Spitfire",5,143.62,48,6893.76
+334,"1950's Chicago Surface Lines Streetcar",5,58.41,40,2336.40
+334,"1962 City of Detroit Streetcar",5,51.55,49,2525.95
+131,"1972 Alfa Romeo GTA",5,126.48,20,2529.60
+131,"1999 Yamaha Speed Boat",5,80.86,21,1698.06
+131,"1903 Ford Model A",5,133.86,32,4283.52
+131,"Collectable Wooden Train",5,95.80,42,4023.60
+131,"1904 Buick Runabout",5,87.77,42,3686.34
+131,"18th century schooner",5,122.89,48,5898.72
+131,"1912 Ford Model T Delivery Wagon",5,85.85,30,2575.50
+131,"1940 Ford Delivery Sedan",5,83.02,23,1909.46
+131,"The Schooner Bluenose",5,66.00,36,2376.00
+131,"The Mayflower",5,81.41,40,3256.40
+131,"The USS Constitution Ship",5,69.39,32,2220.48
+131,"The Titanic",5,84.14,30,2524.20
+131,"The Queen Mary",5,92.36,35,3232.60
+131,"Pont Yacht",5,53.51,23,1230.73
+173,"1941 Chevrolet Special Deluxe Cabriolet",5,88.93,46,4090.78
+173,"1900s Vintage Bi-Plane",5,54.81,20,1096.20
+173,"1937 Horch 930V Limousine",5,65.75,25,1643.75
+173,"HMS Bounty",5,85.99,40,3439.60
+173,"Boeing X-32A JSF",5,49.16,32,1573.12
+450,"1980s Black Hawk Helicopter",5,148.23,45,6670.35
+450,"P-51-D Mustang",5,84.48,27,2280.96
+450,"1928 British Royal Navy Airplane",5,95.20,31,2951.20
+450,"1960 BSA Gold Star DBD34",5,63.22,32,2023.04
+450,"Corsair F4U ( Bird Cage)",5,61.42,40,2456.80
+450,"1900s Vintage Tri-Plane",5,72.45,37,2680.65
+450,"1997 BMW F650 ST",5,99.89,31,3096.59
+450,"1928 Ford Phaeton Deluxe",5,62.60,50,3130.00
+450,"1930 Buick Marquette Phaeton",5,36.66,36,1319.76
+450,"American Airlines: B767-300",5,91.34,31,2831.54
+450,"America West Airlines B757-200",5,90.75,35,3176.25
+450,"ATA: B757-300",5,98.48,44,4333.12
+450,"F/A 18 Hornet 1/72",5,76.00,44,3344.00
+450,"American Airlines: MD-11S",5,65.89,38,2503.82
+328,"1969 Harley Davidson Ultimate Chopper",5,93.79,59,5533.61
+328,"1996 Moto Guzzi 1100i",5,115.37,44,5076.28
+328,"2003 Harley-Davidson Eagle Drag Bike",5,172.36,43,7411.48
+328,"2002 Suzuki XREO",5,129.53,46,5958.38
+328,"1936 Harley Davidson El Knucklehead",5,58.15,44,2558.60
+328,"1997 BMW R 1100 S",5,91.29,50,4564.50
+406,"1969 Dodge Super Bee",5,74.78,20,1495.60
+406,"1976 Ford Gran Torino",5,145.52,41,5966.32
+406,"1957 Vespa GS150",5,50.36,31,1561.16
+406,"1957 Corvette Convertible",5,127.97,26,3327.22
+406,"1982 Ducati 900 Monster",5,63.03,47,2962.41
+406,"1961 Chevrolet Impala",5,69.52,38,2641.76
+406,"1982 Ducati 996 R",5,36.21,36,1303.56
+406,"1974 Ducati 350 Mk3 Desmo",5,93.89,25,2347.25
+406,"2002 Yamaha YZR M1",5,72.41,48,3475.68
+201,"1968 Ford Mustang",6,157.60,24,3782.40
+201,"1968 Dodge Charger",6,102.17,22,2247.74
+201,"1970 Plymouth Hemi Cuda",6,67.03,25,1675.75
+201,"1969 Dodge Charger",6,109.40,41,4485.40
+201,"1993 Mazda RX-7",6,130.22,26,3385.72
+201,"1965 Aston Martin DB5",6,103.29,24,2478.96
+201,"1948 Porsche 356-A Roadster",6,67.76,23,1558.48
+201,"1995 Honda Civic",6,130.87,33,4318.71
+201,"1999 Indy 500 Monte Carlo SS",6,114.84,37,4249.08
+201,"1992 Ferrari 360 Spider red",6,145.63,40,5825.20
+201,"1948 Porsche Type 356 Roadster",6,139.87,31,4335.97
+201,"1982 Lamborghini Diablo",6,34.74,40,1389.60
+201,"1971 Alpine Renault 1600s",6,50.82,24,1219.68
+201,"1956 Porsche 356A Coupe",6,115.15,39,4490.85
+323,"1917 Grand Touring Sedan",6,137.70,49,6747.30
+323,"1911 Ford Town Car",6,55.09,36,1983.24
+323,"1932 Model A Ford J-Coupe",6,102.98,41,4222.18
+323,"1932 Alfa Romeo 8C2300 Spider Sport",6,80.99,34,2753.66
+323,"1957 Ford Thunderbird",6,59.87,30,1796.10
+323,"1970 Chevy Chevelle SS 454",6,66.88,34,2273.92
+323,"1966 Shelby Cobra 427 S/C",6,43.27,32,1384.64
+323,"1939 Chevrolet Deluxe Coupe",6,28.88,38,1097.44
+323,"1949 Jaguar XK 120",6,85.42,31,2648.02
+323,"1952 Citroen-15CV",6,111.57,33,3681.81
+323,"1969 Chevrolet Camaro Z28",6,69.34,42,2912.28
+323,"2002 Chevy Corvette",6,101.73,49,4984.77
+323,"1936 Mercedes Benz 500k Roadster",6,39.80,20,796.00
+209,"1928 Mercedes-Benz SSK",6,135.00,24,3240.00
+209,"1938 Cadillac V-16 Presidential Limousine",6,37.63,37,1392.31
+145,"1937 Lincoln Berline",6,93.49,34,3178.66
+145,"1936 Mercedes-Benz 500K Special Roadster",6,52.83,29,1532.07
+450,"1913 Ford Model T Speedster",6,92.19,50,4609.50
+450,"1934 Ford V8 Coupe",6,59.34,49,2907.66
+450,"18th Century Vintage Horse Carriage",6,83.78,37,3099.86
+450,"1917 Maxwell Touring Car",6,91.27,26,2373.02
+450,"1936 Chrysler Airflow",6,81.81,46,3763.26
+398,"1952 Alpine Renault 1300",6,177.87,32,5691.84
+398,"1958 Setra Bus",6,133.94,41,5491.54
+398,"1940 Ford Pickup Truck",6,113.17,41,4639.97
+398,"1939 Cadillac Limousine",6,49.81,21,1046.01
+398,"1996 Peterbilt 379 Stake Bed with Outrigger",6,62.70,20,1254.00
+398,"1982 Camaro Z28",6,86.99,45,3914.55
+166,"1962 LanciaA Delta 16V",6,121.15,26,3149.90
+166,"1957 Chevy Pickup",6,117.32,46,5396.72
+166,"1998 Chrysler Plymouth Prowler",6,134.26,30,4027.80
+166,"1964 Mercedes Tour Bus",6,120.28,34,4089.52
+166,"1926 Ford Fire Engine",6,59.55,30,1786.50
+166,"1992 Ferrari 360 Spider red",6,152.41,27,4115.07
+166,"1940s Ford truck",6,107.76,41,4418.16
+166,"1970 Dodge Coronet",6,46.82,28,1310.96
+166,"1962 Volkswagen Microbus",6,121.40,47,5705.80
+166,"1958 Chevy Corvette Limited Edition",6,31.47,31,975.57
+166,"1980’s GM Manhattan Express",6,95.35,45,4290.75
+166,"1954 Greyhound Scenicruiser",6,45.99,40,1839.60
+166,"Diamond T620 Semi-Skirted Tanker",6,105.33,29,3054.57
+357,"2001 Ferrari Enzo",6,180.79,46,8316.34
+357,"1969 Corvair Monza",6,140.50,30,4215.00
+357,"1969 Ford Falcon",6,169.56,44,7460.64
+357,"1903 Ford Model A",6,121.57,32,3890.24
+357,"Collectable Wooden Train",6,92.77,29,2690.33
+357,"1970 Triumph Spitfire",6,137.88,23,3171.24
+357,"1992 Porsche Cayenne Turbo Silver",6,117.10,23,2693.30
+357,"1950's Chicago Surface Lines Streetcar",6,55.30,27,1493.10
+357,"1962 City of Detroit Streetcar",6,56.24,21,1181.04
+357,"The Mayflower",6,80.55,33,2658.15
+233,"1972 Alfa Romeo GTA",6,116.96,27,3157.92
+233,"1904 Buick Runabout",6,80.75,20,1615.00
+233,"18th century schooner",6,105.69,36,3804.84
+233,"1912 Ford Model T Delivery Wagon",6,79.66,22,1752.52
+233,"The Schooner Bluenose",6,64.00,34,2176.00
+233,"The USS Constitution Ship",6,58.55,44,2576.20
+233,"The Titanic",6,89.15,25,2228.75
+233,"The Queen Mary",6,88.39,50,4419.50
+233,"Pont Yacht",6,43.68,29,1266.72
+141,"1980s Black Hawk Helicopter",6,157.69,49,7726.81
+141,"1999 Yamaha Speed Boat",6,81.72,32,2615.04
+141,"1941 Chevrolet Special Deluxe Cabriolet",6,85.75,34,2915.50
+141,"1928 British Royal Navy Airplane",6,98.48,34,3348.32
+141,"1900s Vintage Bi-Plane",6,63.71,24,1529.04
+141,"1937 Horch 930V Limousine",6,65.75,46,3024.50
+141,"1940 Ford Delivery Sedan",6,82.18,49,4026.82
+141,"Corsair F4U ( Bird Cage)",6,58.69,48,2817.12
+141,"1928 Ford Phaeton Deluxe",6,63.97,40,2558.80
+141,"1930 Buick Marquette Phaeton",6,35.78,49,1753.22
+141,"American Airlines: B767-300",6,87.69,40,3507.60
+141,"HMS Bounty",6,83.28,44,3664.32
+141,"America West Airlines B757-200",6,81.77,33,2698.41
+141,"F/A 18 Hornet 1/72",6,64.80,27,1749.60
+141,"American Airlines: MD-11S",6,64.41,35,2254.35
+141,"Boeing X-32A JSF",6,41.71,21,875.91
+175,"1969 Harley Davidson Ultimate Chopper",6,89.00,34,3026.00
+175,"1996 Moto Guzzi 1100i",6,107.05,40,4282.00
+175,"2003 Harley-Davidson Eagle Drag Bike",6,193.66,41,7940.06
+175,"2002 Suzuki XREO",6,123.51,48,5928.48
+175,"P-51-D Mustang",6,67.58,33,2230.14
+175,"1936 Harley Davidson El Knucklehead",6,50.27,34,1709.18
+175,"1997 BMW R 1100 S",6,109.32,42,4591.44
+175,"1960 BSA Gold Star DBD34",6,67.03,37,2480.11
+175,"1900s Vintage Tri-Plane",6,59.41,24,1425.84
+175,"1997 BMW F650 ST",6,93.90,31,2910.90
+175,"ATA: B757-300",6,117.46,47,5520.62
+362,"1957 Vespa GS150",6,58.44,48,2805.12
+362,"1957 Corvette Convertible",6,124.99,20,2499.80
+362,"1982 Ducati 900 Monster",6,61.64,37,2280.68
+362,"1961 Chevrolet Impala",6,75.18,47,3533.46
+362,"1982 Ducati 996 R",6,39.02,20,780.40
+362,"1974 Ducati 350 Mk3 Desmo",6,100.01,34,3400.34
+362,"2002 Yamaha YZR M1",6,67.53,47,3173.91
+471,"1969 Dodge Super Bee",7,74.78,45,3365.10
+471,"1976 Ford Gran Torino",7,123.47,49,6050.03
+386,"1968 Ford Mustang",7,188.73,44,8304.12
+386,"1968 Dodge Charger",7,110.39,22,2428.58
+386,"1970 Plymouth Hemi Cuda",7,67.83,35,2374.05
+386,"1969 Dodge Charger",7,112.86,40,4514.40
+386,"1993 Mazda RX-7",7,131.63,21,2764.23
+386,"1965 Aston Martin DB5",7,99.55,36,3583.80
+386,"1948 Porsche 356-A Roadster",7,77.00,33,2541.00
+386,"1995 Honda Civic",7,139.41,49,6831.09
+386,"1999 Indy 500 Monte Carlo SS",7,113.52,20,2270.40
+386,"1992 Ferrari 360 Spider red",7,137.17,29,3977.93
+386,"1948 Porsche Type 356 Roadster",7,127.15,33,4195.95
+386,"1966 Shelby Cobra 427 S/C",7,40.25,28,1127.00
+386,"1982 Lamborghini Diablo",7,35.12,34,1194.08
+386,"1971 Alpine Renault 1600s",7,56.33,47,2647.51
+386,"1956 Porsche 356A Coupe",7,119.37,24,2864.88
+151,"1957 Ford Thunderbird",7,71.27,36,2565.72
+151,"1970 Chevy Chevelle SS 454",7,72.02,40,2880.80
+151,"1949 Jaguar XK 120",7,76.33,38,2900.54
+151,"1952 Citroen-15CV",7,93.95,43,4039.85
+151,"1969 Chevrolet Camaro Z28",7,83.90,44,3691.60
+151,"2002 Chevy Corvette",7,98.51,43,4235.93
+412,"1937 Lincoln Berline",7,93.49,49,4581.01
+412,"1936 Mercedes-Benz 500K Special Roadster",7,45.82,26,1191.32
+412,"1917 Grand Touring Sedan",7,164.90,34,5606.60
+412,"1911 Ford Town Car",7,60.54,31,1876.74
+412,"1932 Model A Ford J-Coupe",7,124.59,50,6229.50
+412,"1928 Mercedes-Benz SSK",7,148.50,35,5197.50
+412,"1917 Maxwell Touring Car",7,96.23,39,3752.97
+412,"1932 Alfa Romeo 8C2300 Spider Sport",7,84.67,35,2963.45
+412,"1939 Chevrolet Deluxe Coupe",7,31.86,33,1051.38
+412,"1938 Cadillac V-16 Presidential Limousine",7,36.29,40,1451.60
+412,"1936 Mercedes Benz 500k Roadster",7,37.75,30,1132.50
+382,"1934 Ford V8 Coupe",7,57.46,32,1838.72
+382,"1936 Chrysler Airflow",7,95.44,48,4581.12
+282,"1952 Alpine Renault 1300",7,171.44,21,3600.24
+282,"1962 LanciaA Delta 16V",7,124.10,32,3971.20
+282,"1958 Setra Bus",7,135.30,28,3788.40
+282,"1940 Ford Pickup Truck",7,94.50,43,4063.50
+282,"1913 Ford Model T Speedster",7,81.05,31,2512.55
+282,"18th Century Vintage Horse Carriage",7,85.87,38,3263.06
+282,"1940s Ford truck",7,107.76,38,4094.88
+282,"1939 Cadillac Limousine",7,40.25,44,1771.00
+282,"1980’s GM Manhattan Express",7,93.42,32,2989.44
+282,"1996 Peterbilt 379 Stake Bed with Outrigger",7,52.36,21,1099.56
+282,"1982 Camaro Z28",7,101.15,46,4652.90
+124,"1957 Chevy Pickup",7,99.54,31,3085.74
+124,"1998 Chrysler Plymouth Prowler",7,147.36,50,7368.00
+124,"1964 Mercedes Tour Bus",7,121.50,50,6075.00
+124,"1926 Ford Fire Engine",7,59.55,25,1488.75
+124,"1992 Ferrari 360 Spider red",7,169.34,20,3386.80
+124,"1970 Dodge Coronet",7,49.71,45,2236.95
+124,"1962 Volkswagen Microbus",7,122.68,43,5275.24
+124,"1958 Chevy Corvette Limited Edition",7,28.64,38,1088.32
+124,"1992 Porsche Cayenne Turbo Silver",7,110.00,22,2420.00
+124,"1954 Greyhound Scenicruiser",7,51.95,35,1818.25
+124,"Diamond T620 Semi-Skirted Tanker",7,93.76,34,3187.84
+157,"2001 Ferrari Enzo",7,187.02,35,6545.70
+157,"1969 Corvair Monza",7,123.89,27,3345.03
+157,"1969 Ford Falcon",7,148.80,39,5803.20
+157,"1970 Triumph Spitfire",7,126.39,25,3159.75
+157,"1950's Chicago Surface Lines Streetcar",7,56.55,45,2544.75
+157,"1962 City of Detroit Streetcar",7,53.89,43,2317.27
+314,"1972 Alfa Romeo GTA",7,136.00,30,4080.00
+314,"1999 Yamaha Speed Boat",7,84.30,34,2866.20
+314,"1903 Ford Model A",7,117.47,40,4698.80
+314,"Collectable Wooden Train",7,87.73,47,4123.31
+314,"1941 Chevrolet Special Deluxe Cabriolet",7,105.87,50,5293.50
+314,"1904 Buick Runabout",7,72.85,33,2404.05
+314,"18th century schooner",7,103.23,22,2271.06
+314,"1912 Ford Model T Delivery Wagon",7,84.08,27,2270.16
+314,"1940 Ford Delivery Sedan",7,83.86,48,4025.28
+314,"The Schooner Bluenose",7,66.00,21,1386.00
+314,"The Mayflower",7,77.95,21,1636.95
+314,"The USS Constitution Ship",7,57.82,42,2428.44
+314,"The Titanic",7,91.15,40,3646.00
+314,"The Queen Mary",7,89.38,26,2323.88
+314,"Pont Yacht",7,51.32,37,1898.84
+379,"1980s Black Hawk Helicopter",7,129.31,41,5301.71
+379,"1900s Vintage Bi-Plane",7,56.86,40,2274.40
+379,"1937 Horch 930V Limousine",7,65.09,24,1562.16
+379,"HMS Bounty",7,75.13,24,1803.12
+379,"Boeing X-32A JSF",7,49.66,32,1589.12
+119,"1969 Harley Davidson Ultimate Chopper",7,81.35,45,3660.75
+119,"1996 Moto Guzzi 1100i",7,115.37,22,2538.14
+119,"2003 Harley-Davidson Eagle Drag Bike",7,154.93,36,5577.48
+119,"P-51-D Mustang",7,70.12,35,2454.20
+119,"1936 Harley Davidson El Knucklehead",7,52.09,37,1927.33
+119,"1997 BMW R 1100 S",7,105.94,21,2224.74
+119,"1928 British Royal Navy Airplane",7,97.38,25,2434.50
+119,"1960 BSA Gold Star DBD34",7,61.70,30,1851.00
+119,"Corsair F4U ( Bird Cage)",7,58.00,41,2378.00
+119,"1900s Vintage Tri-Plane",7,67.38,27,1819.26
+119,"1997 BMW F650 ST",7,89.90,23,2067.70
+119,"1928 Ford Phaeton Deluxe",7,58.47,28,1637.16
+119,"1930 Buick Marquette Phaeton",7,40.15,38,1525.70
+119,"American Airlines: B767-300",7,85.86,32,2747.52
+119,"America West Airlines B757-200",7,82.77,39,3228.03
+119,"ATA: B757-300",7,102.04,48,4897.92
+119,"F/A 18 Hornet 1/72",7,72.00,43,3096.00
+119,"American Airlines: MD-11S",7,59.96,31,1858.76
+204,"1968 Ford Mustang",8,184.84,50,9242.00
+204,"2002 Suzuki XREO",8,150.62,43,6476.66
+204,"1968 Dodge Charger",8,104.52,47,4912.44
+204,"1970 Plymouth Hemi Cuda",8,67.83,38,2577.54
+204,"1969 Dodge Super Bee",8,78.00,38,2964.00
+204,"1976 Ford Gran Torino",8,139.64,30,4189.20
+204,"1957 Vespa GS150",8,54.71,33,1805.43
+204,"1957 Corvette Convertible",8,120.53,48,5785.44
+204,"1982 Ducati 900 Monster",8,61.64,46,2835.44
+204,"1971 Alpine Renault 1600s",8,58.17,20,1163.40
+204,"1961 Chevrolet Impala",8,67.10,48,3220.80
+204,"1982 Ducati 996 R",8,35.40,27,955.80
+204,"1974 Ducati 350 Mk3 Desmo",8,94.91,38,3606.58
+204,"2002 Yamaha YZR M1",8,67.53,21,1418.13
+148,"1969 Dodge Charger",8,93.28,28,2611.84
+112,"1993 Mazda RX-7",8,114.65,34,3898.10
+112,"1965 Aston Martin DB5",8,107.02,23,2461.46
+112,"1948 Porsche 356-A Roadster",8,73.15,29,2121.35
+112,"1995 Honda Civic",8,118.07,29,3424.03
+112,"1999 Indy 500 Monte Carlo SS",8,117.48,39,4581.72
+112,"1992 Ferrari 360 Spider red",8,167.65,42,7041.30
+112,"1948 Porsche Type 356 Roadster",8,114.44,31,3547.64
+112,"1966 Shelby Cobra 427 S/C",8,48.80,35,1708.00
+112,"1982 Lamborghini Diablo",8,37.38,31,1158.78
+112,"1956 Porsche 356A Coupe",8,136.22,25,3405.50
+141,"1957 Ford Thunderbird",8,68.42,26,1778.92
+141,"1970 Chevy Chevelle SS 454",8,68.35,32,2187.20
+141,"1949 Jaguar XK 120",8,76.33,49,3740.17
+141,"1952 Citroen-15CV",8,106.87,48,5129.76
+141,"1969 Chevrolet Camaro Z28",8,78.76,33,2599.08
+141,"2002 Chevy Corvette",8,95.30,48,4574.40
+249,"1952 Alpine Renault 1300",8,205.73,34,6994.82
+249,"1940 Ford Pickup Truck",8,98.00,24,2352.00
+249,"1937 Lincoln Berline",8,87.33,50,4366.50
+249,"1936 Mercedes-Benz 500K Special Roadster",8,47.44,27,1280.88
+249,"1917 Grand Touring Sedan",8,161.50,26,4199.00
+249,"1911 Ford Town Car",8,53.28,25,1332.00
+249,"1932 Model A Ford J-Coupe",8,109.33,37,4045.21
+249,"1928 Mercedes-Benz SSK",8,158.63,22,3489.86
+249,"1913 Ford Model T Speedster",8,82.06,46,3774.76
+249,"1934 Ford V8 Coupe",8,54.34,43,2336.62
+249,"18th Century Vintage Horse Carriage",8,102.63,29,2976.27
+249,"1917 Maxwell Touring Car",8,99.21,34,3373.14
+249,"1932 Alfa Romeo 8C2300 Spider Sport",8,77.31,35,2705.85
+249,"1939 Chevrolet Deluxe Coupe",8,29.87,20,597.40
+249,"1938 Cadillac V-16 Presidential Limousine",8,36.29,45,1633.05
+249,"1936 Mercedes Benz 500k Roadster",8,35.29,33,1164.57
+249,"1936 Chrysler Airflow",8,79.86,21,1677.06
+157,"1962 LanciaA Delta 16V",8,132.97,44,5850.68
+157,"1958 Setra Bus",8,127.10,25,3177.50
+157,"1957 Chevy Pickup",8,98.36,41,4032.76
+157,"1964 Mercedes Tour Bus",8,114.14,48,5478.72
+157,"1926 Ford Fire Engine",8,56.52,29,1639.08
+157,"1992 Ferrari 360 Spider red",8,135.47,25,3386.75
+157,"1940s Ford truck",8,96.86,25,2421.50
+157,"1939 Cadillac Limousine",8,42.76,44,1881.44
+157,"1962 Volkswagen Microbus",8,112.46,25,2811.50
+157,"1958 Chevy Corvette Limited Edition",8,33.95,20,679.00
+157,"1980’s GM Manhattan Express",8,80.90,29,2346.10
+157,"1954 Greyhound Scenicruiser",8,44.91,31,1392.21
+157,"1996 Peterbilt 379 Stake Bed with Outrigger",8,59.47,36,2140.92
+157,"1982 Camaro Z28",8,89.01,27,2403.27
+124,"2001 Ferrari Enzo",8,176.63,41,7241.83
+124,"1969 Corvair Monza",8,142.02,27,3834.54
+124,"1969 Ford Falcon",8,169.56,24,4069.44
+124,"1998 Chrysler Plymouth Prowler",8,147.36,23,3389.28
+124,"1903 Ford Model A",8,122.93,43,5285.99
+124,"Collectable Wooden Train",8,88.74,36,3194.64
+124,"1970 Triumph Spitfire",8,132.13,31,4096.03
+124,"1970 Dodge Coronet",8,49.71,29,1441.59
+124,"1992 Porsche Cayenne Turbo Silver",8,96.99,39,3782.61
+124,"1950's Chicago Surface Lines Streetcar",8,51.58,36,1856.88
+124,"Diamond T620 Semi-Skirted Tanker",8,114.59,38,4354.42
+124,"1962 City of Detroit Streetcar",8,56.24,37,2080.88
+124,"The Mayflower",8,77.95,43,3351.85
+260,"1972 Alfa Romeo GTA",8,130.56,25,3264.00
+260,"1999 Yamaha Speed Boat",8,78.28,21,1643.88
+260,"1941 Chevrolet Special Deluxe Cabriolet",8,100.58,46,4626.68
+260,"1904 Buick Runabout",8,71.97,34,2446.98
+260,"18th century schooner",8,99.54,42,4180.68
+260,"1912 Ford Model T Delivery Wagon",8,80.54,34,2738.36
+260,"1940 Ford Delivery Sedan",8,77.15,33,2545.95
+260,"The Schooner Bluenose",8,62.00,45,2790.00
+260,"HMS Bounty",8,74.23,20,1484.60
+260,"The USS Constitution Ship",8,68.67,47,3227.49
+260,"The Titanic",8,88.15,22,1939.30
+260,"The Queen Mary",8,85.41,38,3245.58
+260,"Boeing X-32A JSF",8,41.22,43,1772.46
+260,"Pont Yacht",8,49.14,33,1621.62
+299,"1980s Black Hawk Helicopter",8,137.19,45,6173.55
+299,"P-51-D Mustang",8,68.43,31,2121.33
+299,"1928 British Royal Navy Airplane",8,101.76,22,2238.72
+299,"1900s Vintage Bi-Plane",8,65.08,30,1952.40
+299,"1937 Horch 930V Limousine",8,59.83,39,2333.37
+299,"Corsair F4U ( Bird Cage)",8,65.51,21,1375.71
+299,"1900s Vintage Tri-Plane",8,66.65,21,1399.65
+299,"1928 Ford Phaeton Deluxe",8,60.54,50,3027.00
+299,"1930 Buick Marquette Phaeton",8,35.78,33,1180.74
+299,"American Airlines: B767-300",8,87.69,24,2104.56
+299,"America West Airlines B757-200",8,95.73,45,4307.85
+299,"F/A 18 Hornet 1/72",8,68.00,25,1700.00
+299,"American Airlines: MD-11S",8,73.29,32,2345.28
+286,"1969 Harley Davidson Ultimate Chopper",8,95.70,36,3445.20
+286,"1996 Moto Guzzi 1100i",8,110.61,47,5198.67
+286,"2003 Harley-Davidson Eagle Drag Bike",8,166.55,27,4496.85
+286,"2002 Suzuki XREO",8,131.04,49,6420.96
+286,"1936 Harley Davidson El Knucklehead",8,50.88,20,1017.60
+286,"1997 BMW R 1100 S",8,91.29,34,3103.86
+286,"1960 BSA Gold Star DBD34",8,61.70,39,2406.30
+286,"1982 Ducati 900 Monster",8,64.41,38,2447.58
+286,"1997 BMW F650 ST",8,82.91,37,3067.67
+286,"1982 Ducati 996 R",8,36.61,37,1354.57
+286,"1974 Ducati 350 Mk3 Desmo",8,100.01,26,2600.26
+286,"2002 Yamaha YZR M1",8,76.48,39,2982.72
+286,"ATA: B757-300",8,102.04,45,4591.80
+172,"1957 Vespa GS150",8,51.60,38,1960.80
+298,"1968 Ford Mustang",8,190.68,21,4004.28
+298,"1968 Dodge Charger",8,117.44,45,5284.80
+298,"1970 Plymouth Hemi Cuda",8,74.21,41,3042.61
+298,"1969 Dodge Charger",8,107.10,23,2463.30
+298,"1993 Mazda RX-7",8,113.23,41,4642.43
+298,"1948 Porsche 356-A Roadster",8,61.60,44,2710.40
+298,"1995 Honda Civic",8,123.76,24,2970.24
+298,"1999 Indy 500 Monte Carlo SS",8,114.84,44,5052.96
+298,"1992 Ferrari 360 Spider red",8,137.17,36,4938.12
+298,"1969 Dodge Super Bee",8,68.35,43,2939.05
+298,"1976 Ford Gran Torino",8,127.88,40,5115.20
+298,"1948 Porsche Type 356 Roadster",8,139.87,27,3776.49
+298,"1957 Corvette Convertible",8,119.04,34,4047.36
+298,"1982 Lamborghini Diablo",8,31.34,36,1128.24
+298,"1971 Alpine Renault 1600s",8,58.17,20,1163.40
+298,"1956 Porsche 356A Coupe",8,137.62,36,4954.32
+298,"1961 Chevrolet Impala",8,79.22,40,3168.80
+166,"1965 Aston Martin DB5",9,120.71,20,2414.20
+166,"1917 Grand Touring Sedan",9,168.30,32,5385.60
+166,"1911 Ford Town Car",9,50.25,28,1407.00
+166,"1932 Model A Ford J-Coupe",9,102.98,31,3192.38
+166,"1932 Alfa Romeo 8C2300 Spider Sport",9,90.19,35,3156.65
+166,"1957 Ford Thunderbird",9,57.02,23,1311.46
+166,"1970 Chevy Chevelle SS 454",9,66.88,36,2407.68
+166,"1966 Shelby Cobra 427 S/C",9,49.30,50,2465.00
+166,"1939 Chevrolet Deluxe Coupe",9,32.19,29,933.51
+166,"1949 Jaguar XK 120",9,81.78,35,2862.30
+166,"1952 Citroen-15CV",9,109.22,48,5242.56
+166,"1969 Chevrolet Camaro Z28",9,76.19,34,2590.46
+166,"2002 Chevy Corvette",9,101.73,41,4170.93
+166,"1936 Mercedes Benz 500k Roadster",9,37.75,33,1245.75
+167,"1937 Lincoln Berline",9,92.47,38,3513.86
+167,"1936 Mercedes-Benz 500K Special Roadster",9,44.75,24,1074.00
+167,"1928 Mercedes-Benz SSK",9,141.75,43,6095.25
+167,"1938 Cadillac V-16 Presidential Limousine",9,41.22,45,1854.90
+198,"1917 Maxwell Touring Car",9,80.36,26,2089.36
+198,"1936 Chrysler Airflow",9,83.76,45,3769.20
+448,"1952 Alpine Renault 1300",9,210.01,37,7770.37
+448,"1962 LanciaA Delta 16V",9,141.83,30,4254.90
+448,"1958 Setra Bus",9,123.00,41,5043.00
+448,"1940 Ford Pickup Truck",9,96.84,41,3970.44
+448,"1926 Ford Fire Engine",9,52.26,26,1358.76
+448,"1913 Ford Model T Speedster",9,99.28,47,4666.16
+448,"1934 Ford V8 Coupe",9,56.21,37,2079.77
+448,"18th Century Vintage Horse Carriage",9,93.20,23,2143.60
+448,"1940s Ford truck",9,96.86,48,4649.28
+448,"1939 Cadillac Limousine",9,45.28,29,1313.12
+448,"1962 Volkswagen Microbus",9,109.90,48,5275.20
+448,"1980’s GM Manhattan Express",9,82.83,26,2153.58
+448,"1996 Peterbilt 379 Stake Bed with Outrigger",9,53.00,32,1696.00
+448,"1982 Camaro Z28",9,86.99,28,2435.72
+131,"1957 Chevy Pickup",9,94.80,21,1990.80
+131,"1998 Chrysler Plymouth Prowler",9,140.81,26,3661.06
+131,"1964 Mercedes Tour Bus",9,103.09,41,4226.69
+131,"1992 Ferrari 360 Spider red",9,147.33,21,3093.93
+131,"1970 Triumph Spitfire",9,114.90,44,5055.60
+131,"1970 Dodge Coronet",9,48.55,40,1942.00
+131,"1958 Chevy Corvette Limited Edition",9,34.30,39,1337.70
+131,"1992 Porsche Cayenne Turbo Silver",9,113.55,27,3065.85
+131,"1954 Greyhound Scenicruiser",9,54.11,50,2705.50
+131,"1950's Chicago Surface Lines Streetcar",9,59.65,31,1849.15
+131,"Diamond T620 Semi-Skirted Tanker",9,113.44,41,4651.04
+131,"1962 City of Detroit Streetcar",9,49.79,35,1742.65
+249,"2001 Ferrari Enzo",9,187.02,46,8602.92
+249,"1969 Corvair Monza",9,129.93,24,3118.32
+249,"1969 Ford Falcon",9,171.29,45,7708.05
+249,"1903 Ford Model A",9,110.64,24,2655.36
+249,"Collectable Wooden Train",9,91.76,22,2018.72
+249,"1904 Buick Runabout",9,72.85,49,3569.65
+249,"18th century schooner",9,111.83,21,2348.43
+249,"The Mayflower",9,77.95,29,2260.55
+249,"Pont Yacht",9,51.32,32,1642.24
+204,"The Queen Mary",9,98.32,45,4424.40
+362,"1972 Alfa Romeo GTA",9,136.00,24,3264.00
+362,"1912 Ford Model T Delivery Wagon",9,84.08,46,3867.68
+362,"The Schooner Bluenose",9,62.00,26,1612.00
+362,"The USS Constitution Ship",9,71.56,44,3148.64
+362,"The Titanic",9,93.16,34,3167.44
+415,"1980s Black Hawk Helicopter",9,146.65,36,5279.40
+415,"1999 Yamaha Speed Boat",9,69.68,21,1463.28
+415,"1941 Chevrolet Special Deluxe Cabriolet",9,105.87,22,2329.14
+415,"1900s Vintage Bi-Plane",9,60.97,21,1280.37
+415,"1937 Horch 930V Limousine",9,63.78,31,1977.18
+415,"1940 Ford Delivery Sedan",9,83.02,22,1826.44
+415,"Corsair F4U ( Bird Cage)",9,63.46,32,2030.72
+415,"1930 Buick Marquette Phaeton",9,41.02,26,1066.52
+415,"American Airlines: B767-300",9,75.81,42,3184.02
+415,"HMS Bounty",9,89.61,34,3046.74
+415,"America West Airlines B757-200",9,96.73,24,2321.52
+415,"F/A 18 Hornet 1/72",9,74.40,22,1636.80
+415,"American Airlines: MD-11S",9,61.44,47,2887.68
+415,"Boeing X-32A JSF",9,46.68,21,980.28
+189,"P-51-D Mustang",9,81.95,25,2048.75
+189,"1928 British Royal Navy Airplane",9,107.23,32,3431.36
+189,"1960 BSA Gold Star DBD34",9,70.08,32,2242.56
+189,"1900s Vintage Tri-Plane",9,71.73,23,1649.79
+189,"1997 BMW F650 ST",9,88.90,26,2311.40
+189,"1928 Ford Phaeton Deluxe",9,63.29,28,1772.12
+189,"ATA: B757-300",9,111.53,35,3903.55
+103,"1996 Moto Guzzi 1100i",9,105.86,39,4128.54
+103,"1936 Harley Davidson El Knucklehead",9,60.57,32,1938.24
+186,"1969 Harley Davidson Ultimate Chopper",9,76.56,23,1760.88
+186,"2003 Harley-Davidson Eagle Drag Bike",9,164.61,29,4773.69
+186,"2002 Suzuki XREO",9,123.51,24,2964.24
+186,"1957 Vespa GS150",9,62.17,39,2424.63
+186,"1957 Corvette Convertible",9,119.04,49,5832.96
+186,"1997 BMW R 1100 S",9,107.07,47,5032.29
+186,"1982 Ducati 900 Monster",9,58.87,33,1942.71
+186,"1961 Chevrolet Impala",9,66.29,32,2121.28
+186,"1982 Ducati 996 R",9,36.21,24,869.04
+186,"1974 Ducati 350 Mk3 Desmo",9,84.70,38,3218.60
+186,"2002 Yamaha YZR M1",9,77.29,44,3400.76
+128,"1968 Ford Mustang",10,184.84,33,6099.72
+128,"1968 Dodge Charger",10,116.27,29,3371.83
+128,"1970 Plymouth Hemi Cuda",10,76.61,22,1685.42
+128,"1969 Dodge Charger",10,95.58,23,2198.34
+128,"1948 Porsche 356-A Roadster",10,63.14,41,2588.74
+128,"1969 Dodge Super Bee",10,65.94,49,3231.06
+128,"1976 Ford Gran Torino",10,144.05,23,3313.15
+128,"1971 Alpine Renault 1600s",10,52.05,31,1613.55
+299,"1993 Mazda RX-7",10,114.65,37,4242.05
+299,"1965 Aston Martin DB5",10,118.22,32,3783.04
+299,"1995 Honda Civic",10,119.49,47,5616.03
+299,"1999 Indy 500 Monte Carlo SS",10,113.52,22,2497.44
+299,"1992 Ferrari 360 Spider red",10,135.47,23,3115.81
+299,"1948 Porsche Type 356 Roadster",10,137.04,39,5344.56
+299,"1970 Chevy Chevelle SS 454",10,64.67,27,1746.09
+299,"1966 Shelby Cobra 427 S/C",10,40.75,22,896.50
+299,"1982 Lamborghini Diablo",10,32.10,48,1540.80
+299,"2002 Chevy Corvette",10,86.73,22,1908.06
+299,"1956 Porsche 356A Coupe",10,122.17,50,6108.50
+201,"1917 Grand Touring Sedan",10,166.60,43,7163.80
+201,"1932 Alfa Romeo 8C2300 Spider Sport",10,82.83,38,3147.54
+201,"1957 Ford Thunderbird",10,70.56,23,1622.88
+201,"1949 Jaguar XK 120",10,75.42,49,3695.58
+201,"1952 Citroen-15CV",10,104.52,45,4703.40
+201,"1969 Chevrolet Camaro Z28",10,74.48,48,3575.04
+484,"1911 Ford Town Car",10,56.91,46,2617.86
+484,"1936 Mercedes Benz 500k Roadster",10,35.70,24,856.80
+256,"1952 Alpine Renault 1300",10,201.44,47,9467.68
+256,"1958 Setra Bus",10,117.54,39,4584.06
+256,"1940 Ford Pickup Truck",10,106.17,46,4883.82
+256,"1937 Lincoln Berline",10,95.55,37,3535.35
+256,"1936 Mercedes-Benz 500K Special Roadster",10,46.90,37,1735.30
+256,"1932 Model A Ford J-Coupe",10,102.98,24,2471.52
+256,"1928 Mercedes-Benz SSK",10,141.75,20,2835.00
+256,"1913 Ford Model T Speedster",10,98.27,46,4520.42
+256,"1934 Ford V8 Coupe",10,54.34,24,1304.16
+256,"18th Century Vintage Horse Carriage",10,90.06,26,2341.56
+256,"1917 Maxwell Touring Car",10,95.24,38,3619.12
+256,"1939 Cadillac Limousine",10,44.27,34,1505.18
+256,"1939 Chevrolet Deluxe Coupe",10,29.21,23,671.83
+256,"1938 Cadillac V-16 Presidential Limousine",10,42.11,44,1852.84
+256,"1936 Chrysler Airflow",10,80.83,33,2667.39
+256,"1996 Peterbilt 379 Stake Bed with Outrigger",10,52.36,36,1884.96
+256,"1982 Camaro Z28",10,80.92,40,3236.80
+286,"1962 LanciaA Delta 16V",10,130.01,38,4940.38
+286,"1957 Chevy Pickup",10,107.84,38,4097.92
+286,"1998 Chrysler Plymouth Prowler",10,132.62,27,3580.74
+286,"1964 Mercedes Tour Bus",10,117.82,36,4241.52
+286,"1926 Ford Fire Engine",10,58.95,41,2416.95
+286,"1992 Ferrari 360 Spider red",10,160.87,37,5952.19
+286,"1940s Ford truck",10,112.60,22,2477.20
+286,"1970 Dodge Coronet",10,48.55,45,2184.75
+286,"1962 Volkswagen Microbus",10,107.34,24,2576.16
+286,"1958 Chevy Corvette Limited Edition",10,30.76,48,1476.48
+286,"1992 Porsche Cayenne Turbo Silver",10,118.28,36,4258.08
+286,"1980’s GM Manhattan Express",10,94.38,28,2642.64
+286,"1954 Greyhound Scenicruiser",10,48.70,40,1948.00
+286,"Diamond T620 Semi-Skirted Tanker",10,109.96,42,4618.32
+187,"2001 Ferrari Enzo",10,182.86,31,5668.66
+187,"1969 Corvair Monza",10,145.04,34,4931.36
+187,"1969 Ford Falcon",10,145.34,20,2906.80
+187,"1903 Ford Model A",10,114.74,32,3671.68
+187,"Collectable Wooden Train",10,83.70,40,3348.00
+187,"1970 Triumph Spitfire",10,126.39,23,2906.97
+187,"1904 Buick Runabout",10,85.14,39,3320.46
+187,"18th century schooner",10,109.37,29,3171.73
+187,"1912 Ford Model T Delivery Wagon",10,76.12,31,2359.72
+187,"1950's Chicago Surface Lines Streetcar",10,60.28,46,2772.88
+187,"1962 City of Detroit Streetcar",10,51.55,34,1752.70
+187,"The Schooner Bluenose",10,61.34,50,3067.00
+187,"The Mayflower",10,73.62,38,2797.56
+187,"The USS Constitution Ship",10,62.16,43,2672.88
+187,"The Titanic",10,99.17,32,3173.44
+187,"The Queen Mary",10,87.39,30,2621.70
+187,"Pont Yacht",10,48.05,35,1681.75
+339,"1972 Alfa Romeo GTA",10,118.32,22,2603.04
+339,"1980s Black Hawk Helicopter",10,135.61,39,5288.79
+339,"1999 Yamaha Speed Boat",10,71.40,31,2213.40
+339,"1941 Chevrolet Special Deluxe Cabriolet",10,92.11,48,4421.28
+339,"1900s Vintage Bi-Plane",10,58.23,25,1455.75
+339,"1937 Horch 930V Limousine",10,64.44,22,1417.68
+339,"1940 Ford Delivery Sedan",10,75.47,22,1660.34
+339,"HMS Bounty",10,81.47,34,2769.98
+339,"Boeing X-32A JSF",10,44.20,34,1502.80
+319,"1996 Moto Guzzi 1100i",10,115.37,34,3922.58
+319,"2003 Harley-Davidson Eagle Drag Bike",10,187.85,20,3757.00
+319,"P-51-D Mustang",10,81.95,27,2212.65
+319,"1936 Harley Davidson El Knucklehead",10,48.46,34,1647.64
+319,"1928 British Royal Navy Airplane",10,99.57,31,3086.67
+319,"1960 BSA Gold Star DBD34",10,68.55,47,3221.85
+319,"Corsair F4U ( Bird Cage)",10,58.00,43,2494.00
+319,"1900s Vintage Tri-Plane",10,71.73,44,3156.12
+319,"1997 BMW F650 ST",10,99.89,24,2397.36
+319,"1928 Ford Phaeton Deluxe",10,61.22,46,2816.12
+319,"1930 Buick Marquette Phaeton",10,37.09,47,1743.23
+319,"American Airlines: B767-300",10,73.07,21,1534.47
+319,"America West Airlines B757-200",10,88.75,35,3106.25
+319,"ATA: B757-300",10,100.85,31,3126.35
+319,"F/A 18 Hornet 1/72",10,79.20,21,1663.20
+319,"American Airlines: MD-11S",10,62.93,39,2454.27
+121,"1969 Harley Davidson Ultimate Chopper",10,94.74,41,3884.34
+121,"2002 Suzuki XREO",10,144.60,26,3759.60
+121,"1997 BMW R 1100 S",10,96.92,21,2035.32
+121,"1982 Ducati 900 Monster",10,59.56,24,1429.44
+121,"1974 Ducati 350 Mk3 Desmo",10,93.89,50,4694.50
+121,"2002 Yamaha YZR M1",10,74.04,28,2073.12
+259,"1968 Ford Mustang",10,165.38,33,5457.54
+259,"1968 Dodge Charger",10,105.70,24,2536.80
+259,"1970 Plymouth Hemi Cuda",10,77.41,49,3793.09
+259,"1969 Dodge Charger",10,101.34,25,2533.50
+259,"1993 Mazda RX-7",10,128.80,37,4765.60
+259,"1948 Porsche 356-A Roadster",10,66.99,20,1339.80
+259,"1995 Honda Civic",10,129.45,24,3106.80
+259,"1992 Ferrari 360 Spider red",10,159.18,48,7640.64
+259,"1969 Dodge Super Bee",10,70.76,27,1910.52
+259,"1976 Ford Gran Torino",10,122.00,49,5978.00
+259,"1957 Vespa GS150",10,59.06,42,2480.52
+259,"1957 Corvette Convertible",10,133.92,40,5356.80
+259,"1982 Lamborghini Diablo",10,33.23,33,1096.59
+259,"1971 Alpine Renault 1600s",10,50.21,38,1907.98
+259,"1956 Porsche 356A Coupe",10,139.03,45,6256.35
+259,"1961 Chevrolet Impala",10,75.18,49,3683.82
+259,"1982 Ducati 996 R",10,38.62,36,1390.32
+141,"1965 Aston Martin DB5",10,124.44,29,3608.76
+141,"1999 Indy 500 Monte Carlo SS",10,114.84,43,4938.12
+141,"1948 Porsche Type 356 Roadster",10,134.22,32,4295.04
+141,"1932 Alfa Romeo 8C2300 Spider Sport",10,92.03,41,3773.23
+141,"1957 Ford Thunderbird",10,66.99,25,1674.75
+141,"1970 Chevy Chevelle SS 454",10,70.55,26,1834.30
+141,"1966 Shelby Cobra 427 S/C",10,48.80,45,2196.00
+141,"1949 Jaguar XK 120",10,89.05,28,2493.40
+141,"1952 Citroen-15CV",10,116.27,43,4999.61
+141,"1969 Chevrolet Camaro Z28",10,85.61,25,2140.25
+141,"2002 Chevy Corvette",10,91.02,46,4186.92
+124,"1952 Alpine Renault 1300",10,214.30,48,10286.40
+124,"1940 Ford Pickup Truck",10,101.50,32,3248.00
+124,"1937 Lincoln Berline",10,102.74,43,4417.82
+124,"1936 Mercedes-Benz 500K Special Roadster",10,43.67,25,1091.75
+124,"1917 Grand Touring Sedan",10,146.20,48,7017.60
+124,"1911 Ford Town Car",10,48.43,30,1452.90
+124,"1932 Model A Ford J-Coupe",10,111.87,31,3467.97
+124,"1928 Mercedes-Benz SSK",10,150.19,25,3754.75
+124,"1913 Ford Model T Speedster",10,91.18,37,3373.66
+124,"1934 Ford V8 Coupe",10,54.34,35,1901.90
+124,"18th Century Vintage Horse Carriage",10,93.20,38,3541.60
+124,"1917 Maxwell Touring Car",10,84.33,33,2782.89
+124,"1939 Cadillac Limousine",10,44.27,39,1726.53
+124,"1939 Chevrolet Deluxe Coupe",10,27.88,39,1087.32
+124,"1938 Cadillac V-16 Presidential Limousine",10,43.46,23,999.58
+124,"1936 Mercedes Benz 500k Roadster",10,40.21,31,1246.51
+124,"1936 Chrysler Airflow",10,96.42,44,4242.48
+202,"1962 LanciaA Delta 16V",10,141.83,40,5673.20
+202,"1958 Setra Bus",10,131.20,21,2755.20
+202,"1964 Mercedes Tour Bus",10,109.23,29,3167.67
+202,"1926 Ford Fire Engine",10,52.87,34,1797.58
+202,"1992 Ferrari 360 Spider red",10,143.94,25,3598.50
+202,"1940s Ford truck",10,110.18,28,3085.04
+202,"1962 Volkswagen Microbus",10,102.23,42,4293.66
+202,"1980’s GM Manhattan Express",10,96.31,27,2600.37
+202,"1954 Greyhound Scenicruiser",10,48.70,38,1850.60
+202,"1996 Peterbilt 379 Stake Bed with Outrigger",10,55.59,34,1890.06
+202,"1982 Camaro Z28",10,96.09,30,2882.70
+227,"2001 Ferrari Enzo",10,176.63,38,6711.94
+227,"1969 Corvair Monza",10,125.40,46,5768.40
+227,"1969 Ford Falcon",10,169.56,36,6104.16
+227,"1957 Chevy Pickup",10,95.99,45,4319.55
+227,"1998 Chrysler Plymouth Prowler",10,135.90,42,5707.80
+227,"1903 Ford Model A",10,129.76,20,2595.20
+227,"Collectable Wooden Train",10,84.71,23,1948.33
+227,"1970 Triumph Spitfire",10,129.26,29,3748.54
+227,"1970 Dodge Coronet",10,51.44,44,2263.36
+227,"1958 Chevy Corvette Limited Edition",10,31.82,39,1240.98
+227,"1992 Porsche Cayenne Turbo Silver",10,111.18,38,4224.84
+227,"1950's Chicago Surface Lines Streetcar",10,58.41,35,2044.35
+227,"Diamond T620 Semi-Skirted Tanker",10,115.75,28,3241.00
+227,"1962 City of Detroit Streetcar",10,50.38,38,1914.44
+227,"The Mayflower",10,83.15,23,1912.45
+119,"1904 Buick Runabout",10,78.12,36,2812.32
+119,"18th century schooner",10,111.83,35,3914.05
+119,"1912 Ford Model T Delivery Wagon",10,78.77,24,1890.48
+119,"The Schooner Bluenose",10,60.67,41,2487.47
+119,"The Titanic",10,99.17,31,3074.27
+119,"The Queen Mary",10,88.39,37,3270.43
+119,"Pont Yacht",10,51.32,40,2052.80
+240,"1972 Alfa Romeo GTA",11,126.48,33,4173.84
+240,"1980s Black Hawk Helicopter",11,140.34,27,3789.18
+240,"1999 Yamaha Speed Boat",11,72.26,21,1517.46
+240,"1941 Chevrolet Special Deluxe Cabriolet",11,89.99,47,4229.53
+240,"1928 British Royal Navy Airplane",11,93.01,25,2325.25
+240,"1900s Vintage Bi-Plane",11,67.14,34,2282.76
+240,"1937 Horch 930V Limousine",11,55.23,47,2595.81
+240,"1940 Ford Delivery Sedan",11,77.15,25,1928.75
+240,"Corsair F4U ( Bird Cage)",11,67.56,30,2026.80
+240,"1928 Ford Phaeton Deluxe",11,59.16,24,1419.84
+240,"1930 Buick Marquette Phaeton",11,36.66,34,1246.44
+240,"American Airlines: B767-300",11,74.90,34,2546.60
+240,"HMS Bounty",11,73.32,45,3299.40
+240,"America West Airlines B757-200",11,85.76,23,1972.48
+240,"The USS Constitution Ship",11,67.22,48,3226.56
+240,"F/A 18 Hornet 1/72",11,77.60,48,3724.80
+240,"American Airlines: MD-11S",11,68.11,44,2996.84
+240,"Boeing X-32A JSF",11,43.70,34,1485.80
+161,"1900s Vintage Tri-Plane",11,69.55,35,2434.25
+157,"1969 Harley Davidson Ultimate Chopper",11,84.22,46,3874.12
+157,"1996 Moto Guzzi 1100i",11,102.29,45,4603.05
+157,"2003 Harley-Davidson Eagle Drag Bike",11,189.79,37,7022.23
+157,"P-51-D Mustang",11,81.95,31,2540.45
+157,"1936 Harley Davidson El Knucklehead",11,49.67,42,2086.14
+157,"1997 BMW R 1100 S",11,93.54,48,4489.92
+157,"1960 BSA Gold Star DBD34",11,60.94,26,1584.44
+157,"1997 BMW F650 ST",11,81.91,47,3849.77
+157,"ATA: B757-300",11,102.04,50,5102.00
+456,"2002 Suzuki XREO",11,134.05,30,4021.50
+456,"1969 Dodge Super Bee",11,77.19,46,3550.74
+456,"1957 Vespa GS150",11,54.71,44,2407.24
+456,"1957 Corvette Convertible",11,120.53,45,5423.85
+456,"1982 Ducati 900 Monster",11,65.80,31,2039.80
+456,"1961 Chevrolet Impala",11,78.41,43,3371.63
+456,"1982 Ducati 996 R",11,35.00,29,1015.00
+456,"1974 Ducati 350 Mk3 Desmo",11,96.95,22,2132.90
+456,"2002 Yamaha YZR M1",11,79.73,45,3587.85
+144,"1968 Ford Mustang",11,184.84,31,5730.04
+144,"1968 Dodge Charger",11,102.17,35,3575.95
+144,"1970 Plymouth Hemi Cuda",11,63.84,38,2425.92
+144,"1976 Ford Gran Torino",11,139.64,25,3491.00
+144,"1971 Alpine Renault 1600s",11,60.62,26,1576.12
+462,"1969 Dodge Charger",11,105.95,24,2542.80
+462,"1993 Mazda RX-7",11,123.14,41,5048.74
+462,"1965 Aston Martin DB5",11,120.71,44,5311.24
+462,"1948 Porsche 356-A Roadster",11,73.92,37,2735.04
+462,"1995 Honda Civic",11,142.25,25,3556.25
+462,"1999 Indy 500 Monte Carlo SS",11,126.72,27,3421.44
+462,"1992 Ferrari 360 Spider red",11,164.26,33,5420.58
+462,"1948 Porsche Type 356 Roadster",11,138.45,28,3876.60
+462,"1970 Chevy Chevelle SS 454",11,68.35,30,2050.50
+462,"1966 Shelby Cobra 427 S/C",11,42.76,48,2052.48
+462,"1949 Jaguar XK 120",11,74.51,30,2235.30
+462,"1982 Lamborghini Diablo",11,31.72,37,1173.64
+462,"1969 Chevrolet Camaro Z28",11,81.33,39,3171.87
+462,"2002 Chevy Corvette",11,103.87,21,2181.27
+462,"1956 Porsche 356A Coupe",11,137.62,26,3578.12
+363,"1952 Alpine Renault 1300",11,180.01,40,7200.40
+363,"1962 LanciaA Delta 16V",11,141.83,46,6524.18
+363,"1958 Setra Bus",11,136.67,27,3690.09
+363,"1940 Ford Pickup Truck",11,101.50,22,2233.00
+363,"1937 Lincoln Berline",11,92.47,43,3976.21
+363,"1936 Mercedes-Benz 500K Special Roadster",11,44.21,41,1812.61
+363,"1932 Model A Ford J-Coupe",11,120.77,50,6038.50
+363,"1926 Ford Fire Engine",11,57.12,35,1999.20
+363,"1928 Mercedes-Benz SSK",11,158.63,36,5710.68
+363,"1913 Ford Model T Speedster",11,100.30,33,3309.90
+363,"1934 Ford V8 Coupe",11,54.34,41,2227.94
+363,"18th Century Vintage Horse Carriage",11,90.06,48,4322.88
+363,"1939 Chevrolet Deluxe Coupe",11,26.55,20,531.00
+363,"1938 Cadillac V-16 Presidential Limousine",11,40.77,30,1223.10
+128,"1917 Maxwell Touring Car",11,88.30,33,2913.90
+128,"1940s Ford truck",11,96.86,47,4552.42
+181,"1969 Corvair Monza",11,148.06,27,3997.62
+181,"1957 Chevy Pickup",11,100.73,26,2618.98
+181,"1998 Chrysler Plymouth Prowler",11,142.45,47,6695.15
+181,"1964 Mercedes Tour Bus",11,105.55,33,3483.15
+181,"1992 Ferrari 360 Spider red",11,137.17,27,3703.59
+181,"1970 Triumph Spitfire",11,120.64,49,5911.36
+181,"1939 Cadillac Limousine",11,49.81,38,1892.78
+181,"1970 Dodge Coronet",11,49.71,25,1242.75
+181,"1962 Volkswagen Microbus",11,107.34,31,3327.54
+181,"1958 Chevy Corvette Limited Edition",11,29.35,30,880.50
+181,"1936 Chrysler Airflow",11,95.44,33,3149.52
+181,"1980’s GM Manhattan Express",11,91.49,20,1829.80
+181,"1996 Peterbilt 379 Stake Bed with Outrigger",11,60.76,48,2916.48
+181,"1982 Camaro Z28",11,80.92,34,2751.28
+121,"1972 Alfa Romeo GTA",11,111.52,47,5241.44
+121,"2001 Ferrari Enzo",11,193.25,42,8116.50
+121,"1969 Ford Falcon",11,166.10,24,3986.40
+121,"1903 Ford Model A",11,114.74,24,2753.76
+121,"1992 Porsche Cayenne Turbo Silver",11,114.73,44,5048.12
+121,"1954 Greyhound Scenicruiser",11,44.37,38,1686.06
+121,"1950's Chicago Surface Lines Streetcar",11,55.30,28,1548.40
+121,"Diamond T620 Semi-Skirted Tanker",11,99.55,38,3782.90
+121,"1962 City of Detroit Streetcar",11,56.24,44,2474.56
+144,"Collectable Wooden Train",11,94.79,32,3033.28
+144,"1904 Buick Runabout",11,73.73,50,3686.50
+144,"18th century schooner",11,120.43,41,4937.63
+144,"1912 Ford Model T Delivery Wagon",11,86.74,41,3556.34
+144,"1940 Ford Delivery Sedan",11,81.34,20,1626.80
+144,"The Schooner Bluenose",11,60.67,39,2366.13
+145,"1980s Black Hawk Helicopter",11,154.54,25,3863.50
+145,"P-51-D Mustang",11,74.34,45,3345.30
+145,"1999 Yamaha Speed Boat",11,74.84,25,1871.00
+145,"The Mayflower",11,79.68,20,1593.60
+145,"The USS Constitution Ship",11,65.05,21,1366.05
+145,"The Titanic",11,85.14,43,3661.02
+145,"The Queen Mary",11,83.42,37,3086.54
+145,"Pont Yacht",11,48.05,37,1777.85
+278,"1941 Chevrolet Special Deluxe Cabriolet",11,104.81,34,3563.54
+278,"1928 British Royal Navy Airplane",11,87.54,47,4114.38
+278,"1900s Vintage Bi-Plane",11,67.82,48,3255.36
+278,"1937 Horch 930V Limousine",11,56.55,20,1131.00
+278,"Corsair F4U ( Bird Cage)",11,55.96,35,1958.60
+278,"1900s Vintage Tri-Plane",11,69.55,43,2990.65
+278,"1928 Ford Phaeton Deluxe",11,57.10,24,1370.40
+278,"1930 Buick Marquette Phaeton",11,42.33,34,1439.22
+278,"American Airlines: B767-300",11,84.03,27,2268.81
+278,"HMS Bounty",11,75.13,41,3080.33
+278,"America West Airlines B757-200",11,95.73,37,3542.01
+278,"ATA: B757-300",11,117.46,33,3876.18
+278,"F/A 18 Hornet 1/72",11,71.20,33,2349.60
+278,"American Airlines: MD-11S",11,69.59,39,2714.01
+131,"1969 Harley Davidson Ultimate Chopper",11,80.39,42,3376.38
+131,"1996 Moto Guzzi 1100i",11,109.42,20,2188.40
+131,"2003 Harley-Davidson Eagle Drag Bike",11,164.61,26,4279.86
+131,"1968 Ford Mustang",11,182.90,41,7498.90
+131,"2002 Suzuki XREO",11,128.03,24,3072.72
+131,"1968 Dodge Charger",11,117.44,46,5402.24
+131,"1970 Plymouth Hemi Cuda",11,74.21,33,2448.93
+131,"1969 Dodge Charger",11,102.49,39,3997.11
+131,"1948 Porsche 356-A Roadster",11,66.22,29,1920.38
+131,"1936 Harley Davidson El Knucklehead",11,55.72,38,2117.36
+131,"1969 Dodge Super Bee",11,65.13,38,2474.94
+131,"1997 BMW R 1100 S",11,104.81,30,3144.30
+131,"1960 BSA Gold Star DBD34",11,71.60,37,2649.20
+131,"1997 BMW F650 ST",11,80.91,45,3640.95
+131,"Boeing X-32A JSF",11,41.22,44,1813.68
+385,"1976 Ford Gran Torino",11,136.70,37,5057.90
+385,"1957 Vespa GS150",11,59.06,29,1712.74
+385,"1957 Corvette Convertible",11,133.92,50,6696.00
+385,"1982 Ducati 900 Monster",11,56.10,42,2356.20
+486,"1993 Mazda RX-7",11,120.31,46,5534.26
+486,"1965 Aston Martin DB5",11,99.55,44,4380.20
+486,"1917 Grand Touring Sedan",11,154.70,44,6806.80
+486,"1995 Honda Civic",11,135.14,30,4054.20
+486,"1999 Indy 500 Monte Carlo SS",11,130.68,26,3397.68
+486,"1992 Ferrari 360 Spider red",11,169.34,27,4572.18
+486,"1948 Porsche Type 356 Roadster",11,132.80,26,3452.80
+486,"1982 Lamborghini Diablo",11,37.00,27,999.00
+486,"1971 Alpine Renault 1600s",11,55.11,25,1377.75
+486,"1956 Porsche 356A Coupe",11,139.03,21,2919.63
+486,"1961 Chevrolet Impala",11,70.33,41,2883.53
+486,"1982 Ducati 996 R",11,33.39,28,934.92
+486,"1974 Ducati 350 Mk3 Desmo",11,100.01,32,3200.32
+486,"2002 Yamaha YZR M1",11,74.04,20,1480.80
+187,"1937 Lincoln Berline",11,89.38,46,4111.48
+187,"1936 Mercedes-Benz 500K Special Roadster",11,51.21,27,1382.67
+187,"1911 Ford Town Car",11,53.88,38,2047.44
+187,"1932 Model A Ford J-Coupe",11,116.96,35,4093.60
+187,"1928 Mercedes-Benz SSK",11,138.38,24,3321.12
+187,"1934 Ford V8 Coupe",11,53.09,26,1380.34
+187,"18th Century Vintage Horse Carriage",11,100.53,40,4021.20
+187,"1932 Alfa Romeo 8C2300 Spider Sport",11,92.03,50,4601.50
+187,"1957 Ford Thunderbird",11,70.56,21,1481.76
+187,"1970 Chevy Chevelle SS 454",11,61.73,23,1419.79
+187,"1966 Shelby Cobra 427 S/C",11,47.29,20,945.80
+187,"1939 Chevrolet Deluxe Coupe",11,29.87,45,1344.15
+187,"1938 Cadillac V-16 Presidential Limousine",11,43.01,26,1118.26
+187,"1949 Jaguar XK 120",11,84.51,39,3295.89
+187,"1952 Citroen-15CV",11,108.04,44,4753.76
+187,"1969 Chevrolet Camaro Z28",11,77.91,45,3505.95
+187,"2002 Chevy Corvette",11,94.23,31,2921.13
+187,"1936 Mercedes Benz 500k Roadster",11,34.47,41,1413.27
+129,"1952 Alpine Renault 1300",11,188.58,26,4903.08
+129,"1958 Setra Bus",11,121.64,33,4014.12
+129,"1940 Ford Pickup Truck",11,110.84,29,3214.36
+129,"1913 Ford Model T Speedster",11,95.23,31,2952.13
+129,"1917 Maxwell Touring Car",11,95.24,46,4381.04
+129,"1939 Cadillac Limousine",11,42.26,24,1014.24
+129,"1936 Chrysler Airflow",11,95.44,39,3722.16
+129,"1996 Peterbilt 379 Stake Bed with Outrigger",11,62.05,33,2047.65
+144,"1962 LanciaA Delta 16V",11,130.01,26,3380.26
+144,"1964 Mercedes Tour Bus",11,108.00,46,4968.00
+144,"1926 Ford Fire Engine",11,52.87,34,1797.58
+144,"1992 Ferrari 360 Spider red",11,147.33,20,2946.60
+144,"1940s Ford truck",11,101.71,49,4983.79
+144,"1962 Volkswagen Microbus",11,117.57,42,4937.94
+124,"1958 Chevy Corvette Limited Edition",11,32.88,33,1085.04
+124,"1980’s GM Manhattan Express",11,77.05,44,3390.20
+124,"1954 Greyhound Scenicruiser",11,49.78,40,1991.20
+172,"2001 Ferrari Enzo",11,176.63,33,5828.79
+172,"1969 Corvair Monza",11,126.91,33,4188.03
+172,"1969 Ford Falcon",11,141.88,49,6952.12
+172,"1957 Chevy Pickup",11,95.99,38,3647.62
+172,"1998 Chrysler Plymouth Prowler",11,153.91,49,7541.59
+172,"1903 Ford Model A",11,135.22,48,6490.56
+172,"Collectable Wooden Train",11,100.84,21,2117.64
+172,"1970 Dodge Coronet",11,49.71,45,2236.95
+172,"1992 Porsche Cayenne Turbo Silver",11,113.55,31,3520.05
+172,"1950's Chicago Surface Lines Streetcar",11,59.03,31,1829.93
+172,"Diamond T620 Semi-Skirted Tanker",11,109.96,23,2529.08
+172,"1982 Camaro Z28",11,94.07,46,4327.22
+424,"1972 Alfa Romeo GTA",11,131.92,25,3298.00
+424,"1970 Triumph Spitfire",11,140.75,36,5067.00
+424,"1904 Buick Runabout",11,76.36,29,2214.44
+424,"18th century schooner",11,119.20,29,3456.80
+424,"1962 City of Detroit Streetcar",11,54.48,21,1144.08
+424,"The Mayflower",11,73.62,36,2650.32
+424,"The Titanic",11,84.14,31,2608.34
+424,"The Queen Mary",11,83.42,36,3003.12
+424,"Pont Yacht",11,49.14,42,2063.88
+381,"1980s Black Hawk Helicopter",11,137.19,41,5624.79
+381,"1999 Yamaha Speed Boat",11,80.86,28,2264.08
+381,"1941 Chevrolet Special Deluxe Cabriolet",11,93.17,45,4192.65
+398,"1996 Moto Guzzi 1100i",11,117.75,40,4710.00
+398,"2003 Harley-Davidson Eagle Drag Bike",11,178.17,39,6948.63
+398,"P-51-D Mustang",11,79.41,27,2144.07
+398,"1936 Harley Davidson El Knucklehead",11,48.46,30,1453.80
+398,"1997 BMW R 1100 S",11,96.92,27,2616.84
+398,"1928 British Royal Navy Airplane",11,106.14,21,2228.94
+398,"1900s Vintage Bi-Plane",11,67.82,55,3730.10
+398,"1912 Ford Model T Delivery Wagon",11,73.46,55,4040.30
+398,"1937 Horch 930V Limousine",11,57.86,29,1677.94
+398,"1940 Ford Delivery Sedan",11,72.96,42,3064.32
+398,"Corsair F4U ( Bird Cage)",11,57.32,45,2579.40
+398,"The Schooner Bluenose",11,53.34,22,1173.48
+398,"HMS Bounty",11,86.90,55,4779.50
+398,"The USS Constitution Ship",11,62.16,50,3108.00
+398,"American Airlines: MD-11S",11,66.63,50,3331.50
+398,"Boeing X-32A JSF",11,49.66,27,1340.82
+216,"1960 BSA Gold Star DBD34",11,62.46,55,3435.30
+216,"1900s Vintage Tri-Plane",11,63.76,40,2550.40
+216,"1997 BMW F650 ST",11,95.89,55,5273.95
+216,"1928 Ford Phaeton Deluxe",11,67.41,39,2628.99
+216,"1930 Buick Marquette Phaeton",11,37.09,40,1483.60
+216,"American Airlines: B767-300",11,73.99,30,2219.70
+216,"America West Airlines B757-200",11,81.77,55,4497.35
+216,"ATA: B757-300",11,98.48,29,2855.92
+382,"1969 Harley Davidson Ultimate Chopper",11,84.22,41,3453.02
+382,"1968 Ford Mustang",11,192.62,45,8667.90
+382,"2002 Suzuki XREO",11,120.50,55,6627.50
+382,"1968 Dodge Charger",11,111.57,44,4909.08
+382,"1970 Plymouth Hemi Cuda",11,77.41,36,2786.76
+382,"1969 Dodge Charger",11,109.40,55,6017.00
+382,"1982 Ducati 900 Monster",11,63.03,32,2016.96
+382,"1974 Ducati 350 Mk3 Desmo",11,95.93,31,2973.83
+382,"2002 Yamaha YZR M1",11,78.11,38,2968.18
+382,"F/A 18 Hornet 1/72",11,70.40,34,2393.60
+114,"1993 Mazda RX-7",11,118.89,40,4755.60
+114,"1948 Porsche 356-A Roadster",11,63.14,55,3472.70
+114,"1995 Honda Civic",11,115.22,22,2534.84
+114,"1992 Ferrari 360 Spider red",11,167.65,30,5029.50
+114,"1969 Dodge Super Bee",11,76.39,25,1909.75
+114,"1976 Ford Gran Torino",11,136.70,55,7518.50
+114,"1957 Vespa GS150",11,57.82,26,1503.32
+114,"1957 Corvette Convertible",11,124.99,38,4749.62
+114,"1982 Lamborghini Diablo",11,30.59,39,1193.01
+114,"1971 Alpine Renault 1600s",11,60.01,48,2880.48
+114,"1956 Porsche 356A Coupe",11,112.34,42,4718.28
+353,"1965 Aston Martin DB5",11,109.51,36,3942.36
+353,"1999 Indy 500 Monte Carlo SS",11,118.80,25,2970.00
+353,"1948 Porsche Type 356 Roadster",11,127.15,44,5594.60
+353,"1966 Shelby Cobra 427 S/C",11,44.78,27,1209.06
+353,"1961 Chevrolet Impala",11,76.80,30,2304.00
+353,"1982 Ducati 996 R",11,37.41,29,1084.89
+350,"1917 Grand Touring Sedan",11,168.30,45,7573.50
+350,"1911 Ford Town Car",11,49.04,40,1961.60
+350,"1932 Model A Ford J-Coupe",11,118.23,30,3546.90
+350,"1932 Alfa Romeo 8C2300 Spider Sport",11,80.99,21,1700.79
+350,"1957 Ford Thunderbird",11,68.42,26,1778.92
+350,"1970 Chevy Chevelle SS 454",11,61.00,29,1769.00
+350,"1939 Chevrolet Deluxe Coupe",11,27.88,20,557.60
+103,"1938 Cadillac V-16 Presidential Limousine",11,38.98,43,1676.14
+112,"1937 Lincoln Berline",11,88.36,42,3711.12
+112,"1949 Jaguar XK 120",11,87.24,25,2181.00
+112,"1952 Citroen-15CV",11,117.44,24,2818.56
+112,"1969 Chevrolet Camaro Z28",11,80.47,24,1931.28
+112,"2002 Chevy Corvette",11,103.87,26,2700.62
+112,"1936 Mercedes Benz 500k Roadster",11,38.57,22,848.54
+114,"1952 Alpine Renault 1300",11,188.58,30,5657.40
+114,"1962 LanciaA Delta 16V",11,132.97,27,3590.19
+114,"1958 Setra Bus",11,132.57,29,3844.53
+114,"1940 Ford Pickup Truck",11,113.17,42,4753.14
+114,"1936 Mercedes-Benz 500K Special Roadster",11,46.36,21,973.56
+114,"1926 Ford Fire Engine",11,51.05,50,2552.50
+114,"1928 Mercedes-Benz SSK",11,136.69,21,2870.49
+114,"1913 Ford Model T Speedster",11,84.09,48,4036.32
+114,"1934 Ford V8 Coupe",11,60.59,34,2060.06
+114,"18th Century Vintage Horse Carriage",11,95.30,45,4288.50
+114,"1917 Maxwell Touring Car",11,84.33,26,2192.58
+114,"1940s Ford truck",11,115.03,45,5176.35
+458,"2001 Ferrari Enzo",11,207.80,48,9974.40
+458,"1969 Corvair Monza",11,122.37,47,5751.39
+458,"1939 Cadillac Limousine",11,43.77,29,1269.33
+458,"1962 Volkswagen Microbus",11,107.34,37,3971.58
+458,"1936 Chrysler Airflow",11,82.78,39,3228.42
+458,"1980’s GM Manhattan Express",11,90.53,42,3802.26
+458,"1996 Peterbilt 379 Stake Bed with Outrigger",11,62.70,31,1943.70
+458,"1982 Camaro Z28",11,100.14,32,3204.48
+151,"1969 Ford Falcon",12,166.10,26,4318.60
+151,"1957 Chevy Pickup",12,114.95,48,5517.60
+151,"1998 Chrysler Plymouth Prowler",12,142.45,38,5413.10
+151,"1964 Mercedes Tour Bus",12,117.82,38,4477.16
+151,"1992 Ferrari 360 Spider red",12,164.26,48,7884.48
+151,"1970 Triumph Spitfire",12,140.75,34,4785.50
+151,"1970 Dodge Coronet",12,50.29,48,2413.92
+151,"1958 Chevy Corvette Limited Edition",12,31.47,36,1132.92
+151,"1992 Porsche Cayenne Turbo Silver",12,111.18,23,2557.14
+151,"1954 Greyhound Scenicruiser",12,44.37,33,1464.21
+141,"1972 Alfa Romeo GTA",12,110.16,26,2864.16
+141,"1999 Yamaha Speed Boat",12,84.30,43,3624.90
+141,"1903 Ford Model A",12,135.22,44,5949.68
+141,"Collectable Wooden Train",12,94.79,41,3886.39
+141,"1904 Buick Runabout",12,70.22,30,2106.60
+141,"18th century schooner",12,98.31,34,3342.54
+141,"1912 Ford Model T Delivery Wagon",12,86.74,30,2602.20
+141,"1940 Ford Delivery Sedan",12,77.15,25,1928.75
+141,"1950's Chicago Surface Lines Streetcar",12,61.52,27,1661.04
+141,"Diamond T620 Semi-Skirted Tanker",12,104.18,31,3229.58
+141,"1962 City of Detroit Streetcar",12,56.82,44,2500.08
+141,"The Schooner Bluenose",12,56.00,46,2576.00
+141,"The Mayflower",12,76.22,28,2134.16
+141,"The USS Constitution Ship",12,68.67,29,1991.43
+141,"The Titanic",12,87.15,31,2701.65
+141,"The Queen Mary",12,97.32,25,2433.00
+141,"Pont Yacht",12,48.05,20,961.00
+324,"1980s Black Hawk Helicopter",12,143.50,39,5596.50
+324,"1941 Chevrolet Special Deluxe Cabriolet",12,104.81,20,2096.20
+324,"1900s Vintage Bi-Plane",12,64.40,25,1610.00
+324,"1937 Horch 930V Limousine",12,53.92,38,2048.96
+324,"Corsair F4U ( Bird Cage)",12,68.24,34,2320.16
+198,"HMS Bounty",12,75.13,23,1727.99
+198,"America West Airlines B757-200",12,87.75,49,4299.75
+198,"American Airlines: MD-11S",12,62.19,22,1368.18
+198,"Boeing X-32A JSF",12,46.18,49,2262.82
+447,"P-51-D Mustang",12,71.81,27,1938.87
+447,"1928 British Royal Navy Airplane",12,107.23,28,3002.44
+447,"1900s Vintage Tri-Plane",12,69.55,35,2434.25
+447,"1997 BMW F650 ST",12,86.90,46,3997.40
+447,"1928 Ford Phaeton Deluxe",12,68.10,40,2724.00
+447,"1930 Buick Marquette Phaeton",12,35.78,40,1431.20
+447,"American Airlines: B767-300",12,73.07,39,2849.73
+447,"ATA: B757-300",12,98.48,48,4727.04
+447,"F/A 18 Hornet 1/72",12,74.40,43,3199.20
+323,"1969 Harley Davidson Ultimate Chopper",12,84.22,42,3537.24
+323,"1996 Moto Guzzi 1100i",12,95.15,20,1903.00
+323,"2003 Harley-Davidson Eagle Drag Bike",12,178.17,42,7483.14
+323,"1968 Ford Mustang",12,157.60,31,4885.60
+323,"2002 Suzuki XREO",12,141.58,35,4955.30
+323,"1968 Dodge Charger",12,98.65,29,2860.85
+323,"1970 Plymouth Hemi Cuda",12,76.61,23,1762.03
+323,"1969 Dodge Charger",12,100.19,28,2805.32
+323,"1948 Porsche 356-A Roadster",12,76.23,21,1600.83
+323,"1936 Harley Davidson El Knucklehead",12,49.06,28,1373.68
+323,"1969 Dodge Super Bee",12,69.15,36,2489.40
+323,"1997 BMW R 1100 S",12,96.92,21,2035.32
+323,"1960 BSA Gold Star DBD34",12,62.46,28,1748.88
+141,"1976 Ford Gran Torino",12,117.59,23,2704.57
+141,"1957 Vespa GS150",12,60.30,31,1869.30
+141,"1957 Corvette Convertible",12,124.99,25,3124.75
+141,"1982 Ducati 900 Monster",12,56.10,41,2300.10
+141,"1982 Lamborghini Diablo",12,37.38,36,1345.68
+141,"1971 Alpine Renault 1600s",12,60.62,44,2667.28
+141,"1956 Porsche 356A Coupe",12,137.62,32,4403.84
+141,"1961 Chevrolet Impala",12,75.18,28,2105.04
+141,"1982 Ducati 996 R",12,32.99,38,1253.62
+141,"1974 Ducati 350 Mk3 Desmo",12,93.89,40,3755.60
+250,"1993 Mazda RX-7",12,120.31,43,5173.33
+250,"1937 Lincoln Berline",12,82.19,50,4109.50
+250,"1936 Mercedes-Benz 500K Special Roadster",12,44.75,22,984.50
+250,"1995 Honda Civic",12,130.87,27,3533.49
+250,"1932 Model A Ford J-Coupe",12,106.79,29,3096.91
+250,"1928 Mercedes-Benz SSK",12,158.63,30,4758.90
+250,"1939 Chevrolet Deluxe Coupe",12,31.86,48,1529.28
+250,"1938 Cadillac V-16 Presidential Limousine",12,42.11,26,1094.86
+250,"2002 Yamaha YZR M1",12,78.11,26,2030.86
+124,"1952 Alpine Renault 1300",12,199.30,32,6377.60
+124,"1962 LanciaA Delta 16V",12,135.92,43,5844.56
+124,"1958 Setra Bus",12,109.34,49,5357.66
+124,"1940 Ford Pickup Truck",12,112.00,39,4368.00
+124,"1926 Ford Fire Engine",12,58.95,41,2416.95
+124,"1913 Ford Model T Speedster",12,91.18,41,3738.38
+124,"1934 Ford V8 Coupe",12,59.34,49,2907.66
+124,"18th Century Vintage Horse Carriage",12,104.72,44,4607.68
+124,"1917 Maxwell Touring Car",12,84.33,25,2108.25
+124,"1940s Ford truck",12,105.34,28,2949.52
+141,"1969 Corvair Monza",12,129.93,49,6366.57
+141,"1957 Chevy Pickup",12,98.36,42,4131.12
+141,"1998 Chrysler Plymouth Prowler",12,142.45,20,2849.00
+141,"1964 Mercedes Tour Bus",12,99.41,20,1988.20
+141,"1992 Ferrari 360 Spider red",12,137.17,32,4389.44
+141,"1970 Triumph Spitfire",12,117.77,25,2944.25
+141,"1939 Cadillac Limousine",12,46.29,30,1388.70
+141,"1970 Dodge Coronet",12,56.07,44,2467.08
+141,"1962 Volkswagen Microbus",12,127.79,41,5239.39
+141,"1958 Chevy Corvette Limited Edition",12,33.59,36,1209.24
+141,"1936 Chrysler Airflow",12,88.62,41,3633.42
+141,"1980’s GM Manhattan Express",12,82.83,41,3396.03
+141,"1996 Peterbilt 379 Stake Bed with Outrigger",12,51.71,36,1861.56
+141,"1982 Camaro Z28",12,85.98,27,2321.46
+353,"1972 Alfa Romeo GTA",12,122.40,48,5875.20
+353,"2001 Ferrari Enzo",12,180.79,42,7593.18
+353,"1969 Ford Falcon",12,162.64,49,7969.36
+353,"1992 Porsche Cayenne Turbo Silver",12,108.82,22,2394.04
+353,"1954 Greyhound Scenicruiser",12,45.45,36,1636.20
+353,"1950's Chicago Surface Lines Streetcar",12,62.14,22,1367.08
+353,"Diamond T620 Semi-Skirted Tanker",12,99.55,46,4579.30
+353,"1962 City of Detroit Streetcar",12,47.45,25,1186.25
+496,"1980s Black Hawk Helicopter",12,126.15,50,6307.50
+496,"P-51-D Mustang",12,68.43,41,2805.63
+496,"1999 Yamaha Speed Boat",12,71.40,46,3284.40
+496,"1903 Ford Model A",12,122.93,29,3564.97
+496,"Collectable Wooden Train",12,94.79,29,2748.91
+496,"1941 Chevrolet Special Deluxe Cabriolet",12,101.64,40,4065.60
+496,"1904 Buick Runabout",12,76.36,40,3054.40
+496,"1928 British Royal Navy Airplane",12,106.14,22,2335.08
+496,"18th century schooner",12,100.77,31,3123.87
+496,"1900s Vintage Bi-Plane",12,55.49,49,2719.01
+496,"1912 Ford Model T Delivery Wagon",12,70.81,36,2549.16
+496,"1940 Ford Delivery Sedan",12,78.83,22,1734.26
+496,"The Schooner Bluenose",12,64.67,32,2069.44
+496,"The Mayflower",12,86.61,26,2251.86
+496,"The USS Constitution Ship",12,70.11,30,2103.30
+496,"The Titanic",12,83.14,35,2909.90
+496,"The Queen Mary",12,92.36,31,2863.16
+496,"Pont Yacht",12,54.05,31,1675.55
+282,"1969 Harley Davidson Ultimate Chopper",12,92.83,20,1856.60
+282,"1996 Moto Guzzi 1100i",12,114.18,26,2968.68
+282,"1937 Horch 930V Limousine",12,62.46,34,2123.64
+282,"Corsair F4U ( Bird Cage)",12,61.42,26,1596.92
+282,"1900s Vintage Tri-Plane",12,68.83,25,1720.75
+282,"1928 Ford Phaeton Deluxe",12,56.41,49,2764.09
+282,"1930 Buick Marquette Phaeton",12,35.78,33,1180.74
+282,"American Airlines: B767-300",12,88.60,20,1772.00
+282,"HMS Bounty",12,85.99,24,2063.76
+282,"America West Airlines B757-200",12,91.74,26,2385.24
+282,"ATA: B757-300",12,107.97,44,4750.68
+282,"F/A 18 Hornet 1/72",12,76.80,44,3379.20
+282,"American Airlines: MD-11S",12,62.19,35,2176.65
+282,"Boeing X-32A JSF",12,47.67,23,1096.41
+161,"2003 Harley-Davidson Eagle Drag Bike",1,182.04,22,4004.88
+161,"2002 Suzuki XREO",1,131.04,22,2882.88
+161,"1936 Harley Davidson El Knucklehead",1,53.91,23,1239.93
+161,"1997 BMW R 1100 S",1,91.29,50,4564.50
+334,"1968 Ford Mustang",1,180.95,33,5971.35
+334,"1968 Dodge Charger",1,106.87,34,3633.58
+334,"1970 Plymouth Hemi Cuda",1,68.63,34,2333.42
+334,"1969 Dodge Charger",1,103.64,46,4767.44
+334,"1948 Porsche 356-A Roadster",1,61.60,22,1355.20
+334,"1969 Dodge Super Bee",1,69.15,46,3180.90
+334,"1976 Ford Gran Torino",1,124.94,24,2998.56
+334,"1957 Vespa GS150",1,52.22,32,1671.04
+334,"1957 Corvette Convertible",1,123.50,28,3458.00
+334,"1960 BSA Gold Star DBD34",1,70.08,21,1471.68
+334,"1982 Ducati 900 Monster",1,56.10,43,2412.30
+334,"1971 Alpine Renault 1600s",1,52.05,21,1093.05
+334,"1956 Porsche 356A Coupe",1,113.75,31,3526.25
+334,"1961 Chevrolet Impala",1,75.99,43,3267.57
+334,"1997 BMW F650 ST",1,92.90,50,4645.00
+350,"1982 Ducati 996 R",1,38.22,48,1834.56
+320,"1993 Mazda RX-7",1,116.06,30,3481.80
+320,"1974 Ducati 350 Mk3 Desmo",1,82.66,22,1818.52
+320,"2002 Yamaha YZR M1",1,68.34,44,3006.96
+381,"1995 Honda Civic",1,116.65,34,3966.10
+381,"1999 Indy 500 Monte Carlo SS",1,105.60,49,5174.40
+381,"1992 Ferrari 360 Spider red",1,154.10,34,5239.40
+205,"1965 Aston Martin DB5",1,105.77,49,5182.73
+205,"1917 Grand Touring Sedan",1,144.50,37,5346.50
+205,"1911 Ford Town Car",1,50.25,45,2261.25
+205,"1932 Model A Ford J-Coupe",1,124.59,27,3363.93
+205,"1928 Mercedes-Benz SSK",1,140.06,32,4481.92
+205,"1948 Porsche Type 356 Roadster",1,131.39,46,6043.94
+205,"1932 Alfa Romeo 8C2300 Spider Sport",1,77.31,43,3324.33
+205,"1957 Ford Thunderbird",1,66.99,44,2947.56
+205,"1970 Chevy Chevelle SS 454",1,72.76,21,1527.96
+205,"1966 Shelby Cobra 427 S/C",1,50.31,38,1911.78
+205,"1939 Chevrolet Deluxe Coupe",1,29.54,23,679.42
+205,"1938 Cadillac V-16 Presidential Limousine",1,43.01,28,1204.28
+205,"1982 Lamborghini Diablo",1,36.25,36,1305.00
+124,"1949 Jaguar XK 120",1,73.60,40,2944.00
+124,"1952 Citroen-15CV",1,115.09,31,3567.79
+124,"1969 Chevrolet Camaro Z28",1,83.04,46,3819.84
+124,"2002 Chevy Corvette",1,93.16,20,1863.20
+124,"1936 Mercedes Benz 500k Roadster",1,36.52,46,1679.92
+379,"1952 Alpine Renault 1300",1,195.01,41,7995.41
+379,"1937 Lincoln Berline",1,89.38,44,3932.72
+379,"1936 Mercedes-Benz 500K Special Roadster",1,46.36,32,1483.52
+379,"1913 Ford Model T Speedster",1,100.30,42,4212.60
+379,"1934 Ford V8 Coupe",1,51.84,28,1451.52
+379,"18th Century Vintage Horse Carriage",1,90.06,21,1891.26
+379,"1917 Maxwell Touring Car",1,80.36,45,3616.20
+379,"1936 Chrysler Airflow",1,93.49,40,3739.60
+276,"1962 LanciaA Delta 16V",1,128.53,35,4498.55
+276,"1958 Setra Bus",1,128.47,49,6295.03
+276,"1940 Ford Pickup Truck",1,100.34,27,2709.18
+276,"1964 Mercedes Tour Bus",1,101.87,22,2241.14
+276,"1926 Ford Fire Engine",1,60.16,22,1323.52
+276,"1992 Ferrari 360 Spider red",1,167.65,27,4526.55
+276,"1940s Ford truck",1,105.34,29,3054.86
+276,"1939 Cadillac Limousine",1,41.76,20,835.20
+276,"1996 Peterbilt 379 Stake Bed with Outrigger",1,63.99,25,1599.75
+124,"2001 Ferrari Enzo",1,178.71,32,5718.72
+124,"1957 Chevy Pickup",1,104.28,49,5109.72
+124,"1998 Chrysler Plymouth Prowler",1,160.46,25,4011.50
+124,"1970 Dodge Coronet",1,53.75,25,1343.75
+124,"1962 Volkswagen Microbus",1,126.51,20,2530.20
+124,"1958 Chevy Corvette Limited Edition",1,35.01,45,1575.45
+124,"1992 Porsche Cayenne Turbo Silver",1,95.81,28,2682.68
+124,"1980’s GM Manhattan Express",1,82.83,26,2153.58
+124,"1954 Greyhound Scenicruiser",1,44.37,20,887.40
+124,"1950's Chicago Surface Lines Streetcar",1,53.44,30,1603.20
+124,"Diamond T620 Semi-Skirted Tanker",1,97.23,48,4667.04
+124,"1982 Camaro Z28",1,83.95,34,2854.30
+398,"1969 Corvair Monza",1,146.55,40,5862.00
+398,"1969 Ford Falcon",1,140.15,34,4765.10
+398,"1903 Ford Model A",1,131.13,28,3671.64
+398,"Collectable Wooden Train",1,91.76,25,2294.00
+398,"1970 Triumph Spitfire",1,119.20,48,5721.60
+398,"1904 Buick Runabout",1,78.99,41,3238.59
+398,"18th century schooner",1,102.00,37,3774.00
+398,"1962 City of Detroit Streetcar",1,56.82,24,1363.68
+398,"The Mayflower",1,74.48,44,3277.12
+311,"1972 Alfa Romeo GTA",1,118.32,39,4614.48
+311,"1980s Black Hawk Helicopter",1,143.50,28,4018.00
+311,"1999 Yamaha Speed Boat",1,75.70,22,1665.40
+311,"1941 Chevrolet Special Deluxe Cabriolet",1,99.52,50,4976.00
+311,"1900s Vintage Bi-Plane",1,58.92,38,2238.96
+311,"1912 Ford Model T Delivery Wagon",1,82.31,33,2716.23
+311,"1937 Horch 930V Limousine",1,53.92,46,2480.32
+311,"1940 Ford Delivery Sedan",1,83.86,23,1928.78
+311,"Corsair F4U ( Bird Cage)",1,62.10,39,2421.90
+311,"The Schooner Bluenose",1,58.00,44,2552.00
+311,"HMS Bounty",1,76.94,32,2462.08
+311,"The USS Constitution Ship",1,69.39,41,2844.99
+311,"The Titanic",1,94.16,34,3201.44
+311,"The Queen Mary",1,83.42,37,3086.54
+311,"American Airlines: MD-11S",1,68.11,45,3064.95
+311,"Boeing X-32A JSF",1,44.20,25,1105.00
+311,"Pont Yacht",1,48.05,29,1393.45
+333,"1996 Moto Guzzi 1100i",2,115.37,39,4499.43
+333,"2003 Harley-Davidson Eagle Drag Bike",2,158.80,22,3493.60
+333,"P-51-D Mustang",2,75.19,42,3157.98
+333,"1936 Harley Davidson El Knucklehead",2,48.46,22,1066.12
+333,"1997 BMW R 1100 S",2,112.70,38,4282.60
+333,"1928 British Royal Navy Airplane",2,107.23,46,4932.58
+119,"1969 Harley Davidson Ultimate Chopper",2,76.56,21,1607.76
+119,"1968 Ford Mustang",2,184.84,45,8317.80
+119,"2002 Suzuki XREO",2,150.62,49,7380.38
+119,"1960 BSA Gold Star DBD34",2,67.03,23,1541.69
+119,"1982 Ducati 900 Monster",2,60.26,20,1205.20
+119,"1900s Vintage Tri-Plane",2,60.13,43,2585.59
+119,"1997 BMW F650 ST",2,87.90,37,3252.30
+119,"1928 Ford Phaeton Deluxe",2,59.85,44,2633.40
+119,"1974 Ducati 350 Mk3 Desmo",2,96.95,41,3974.95
+119,"1930 Buick Marquette Phaeton",2,36.22,49,1774.78
+119,"2002 Yamaha YZR M1",2,69.16,49,3388.84
+119,"American Airlines: B767-300",2,86.77,37,3210.49
+119,"America West Airlines B757-200",2,94.73,33,3126.09
+119,"ATA: B757-300",2,98.48,25,2462.00
+119,"F/A 18 Hornet 1/72",2,69.60,44,3062.40
+219,"1968 Dodge Charger",2,98.65,35,3452.75
+186,"1970 Plymouth Hemi Cuda",2,65.44,24,1570.56
+186,"1969 Dodge Charger",2,112.86,50,5643.00
+186,"1993 Mazda RX-7",2,124.56,35,4359.60
+186,"1948 Porsche 356-A Roadster",2,61.60,31,1909.60
+186,"1995 Honda Civic",2,125.18,36,4506.48
+186,"1992 Ferrari 360 Spider red",2,143.94,39,5613.66
+141,"1965 Aston Martin DB5",2,121.95,34,4146.30
+141,"1969 Dodge Super Bee",2,66.74,22,1468.28
+141,"1976 Ford Gran Torino",2,146.99,43,6320.57
+141,"1957 Vespa GS150",2,60.30,28,1688.40
+141,"1957 Corvette Convertible",2,122.02,49,5978.98
+141,"1982 Lamborghini Diablo",2,30.59,41,1254.19
+141,"1971 Alpine Renault 1600s",2,52.66,46,2422.36
+141,"1956 Porsche 356A Coupe",2,129.20,33,4263.60
+141,"1961 Chevrolet Impala",2,80.84,41,3314.44
+141,"1982 Ducati 996 R",2,35.80,40,1432.00
+141,"1917 Grand Touring Sedan",2,156.40,39,6099.60
+141,"1911 Ford Town Car",2,50.85,27,1372.95
+141,"1999 Indy 500 Monte Carlo SS",2,113.52,29,3292.08
+141,"1948 Porsche Type 356 Roadster",2,134.22,32,4295.04
+141,"1966 Shelby Cobra 427 S/C",2,48.80,32,1561.60
+141,"1937 Lincoln Berline",2,88.36,27,2385.72
+141,"1932 Model A Ford J-Coupe",2,119.50,40,4780.00
+141,"1928 Mercedes-Benz SSK",2,156.94,21,3295.74
+141,"1932 Alfa Romeo 8C2300 Spider Sport",2,78.23,32,2503.36
+141,"1957 Ford Thunderbird",2,66.99,24,1607.76
+141,"1970 Chevy Chevelle SS 454",2,66.88,34,2273.92
+141,"1939 Chevrolet Deluxe Coupe",2,29.87,32,955.84
+141,"1938 Cadillac V-16 Presidential Limousine",2,37.63,27,1016.01
+141,"1949 Jaguar XK 120",2,77.24,36,2780.64
+141,"1952 Citroen-15CV",2,111.57,44,4909.08
+141,"1969 Chevrolet Camaro Z28",2,77.05,44,3390.20
+141,"2002 Chevy Corvette",2,91.02,34,3094.68
+141,"1936 Mercedes Benz 500k Roadster",2,32.82,43,1411.26
+321,"1952 Alpine Renault 1300",2,182.16,36,6557.76
+321,"1962 LanciaA Delta 16V",2,138.88,37,5138.56
+321,"1958 Setra Bus",2,132.57,20,2651.40
+321,"1940 Ford Pickup Truck",2,114.34,48,5488.32
+321,"1936 Mercedes-Benz 500K Special Roadster",2,49.60,25,1240.00
+321,"1926 Ford Fire Engine",2,60.77,35,2126.95
+321,"1913 Ford Model T Speedster",2,100.30,41,4112.30
+321,"1934 Ford V8 Coupe",2,51.22,40,2048.80
+321,"18th Century Vintage Horse Carriage",2,93.20,35,3262.00
+124,"2001 Ferrari Enzo",2,166.24,34,5652.16
+124,"1969 Corvair Monza",2,145.04,37,5366.48
+124,"1969 Ford Falcon",2,143.61,34,4882.74
+124,"1957 Chevy Pickup",2,103.10,32,3299.20
+124,"1998 Chrysler Plymouth Prowler",2,160.46,25,4011.50
+124,"1917 Maxwell Touring Car",2,84.33,50,4216.50
+124,"1940s Ford truck",2,115.03,39,4486.17
+124,"1939 Cadillac Limousine",2,46.29,39,1805.31
+124,"1962 Volkswagen Microbus",2,120.12,20,2402.40
+124,"1936 Chrysler Airflow",2,97.39,33,3213.87
+124,"1980’s GM Manhattan Express",2,85.72,26,2228.72
+124,"1996 Peterbilt 379 Stake Bed with Outrigger",2,57.53,48,2761.44
+124,"1982 Camaro Z28",2,101.15,34,3439.10
+141,"1964 Mercedes Tour Bus",2,119.05,27,3214.35
+141,"1903 Ford Model A",2,125.66,24,3015.84
+141,"1992 Ferrari 360 Spider red",2,155.79,47,7322.13
+141,"Collectable Wooden Train",2,83.70,26,2176.20
+141,"1970 Triumph Spitfire",2,137.88,38,5239.44
+141,"1904 Buick Runabout",2,77.24,28,2162.72
+141,"1970 Dodge Coronet",2,52.60,22,1157.20
+141,"1958 Chevy Corvette Limited Edition",2,33.24,40,1329.60
+141,"1992 Porsche Cayenne Turbo Silver",2,117.10,21,2459.10
+141,"1954 Greyhound Scenicruiser",2,53.57,32,1714.24
+141,"1950's Chicago Surface Lines Streetcar",2,55.93,44,2460.92
+141,"Diamond T620 Semi-Skirted Tanker",2,94.92,29,2752.68
+141,"1962 City of Detroit Streetcar",2,48.62,38,1847.56
+321,"1972 Alfa Romeo GTA",2,129.20,34,4392.80
+321,"18th century schooner",2,114.29,28,3200.12
+321,"1912 Ford Model T Delivery Wagon",2,71.69,43,3082.67
+321,"The Mayflower",2,71.02,49,3479.98
+124,"1940 Ford Delivery Sedan",2,78.83,37,2916.71
+124,"The Schooner Bluenose",2,62.00,25,1550.00
+141,"1980s Black Hawk Helicopter",3,130.88,25,3272.00
+141,"P-51-D Mustang",3,72.65,21,1525.65
+141,"1999 Yamaha Speed Boat",3,73.12,37,2705.44
+141,"1941 Chevrolet Special Deluxe Cabriolet",3,100.58,22,2212.76
+141,"1928 British Royal Navy Airplane",3,101.76,33,3358.08
+141,"1900s Vintage Bi-Plane",3,56.86,39,2217.54
+141,"1937 Horch 930V Limousine",3,54.57,35,1909.95
+141,"Corsair F4U ( Bird Cage)",3,55.96,41,2294.36
+141,"1900s Vintage Tri-Plane",3,71.73,50,3586.50
+141,"HMS Bounty",3,85.09,29,2467.61
+141,"America West Airlines B757-200",3,90.75,37,3357.75
+141,"The USS Constitution Ship",3,67.22,37,2487.14
+141,"F/A 18 Hornet 1/72",3,68.00,32,2176.00
+141,"The Titanic",3,83.14,45,3741.30
+141,"The Queen Mary",3,80.44,30,2413.20
+141,"American Airlines: MD-11S",3,59.22,44,2605.68
+141,"Boeing X-32A JSF",3,47.67,50,2383.50
+141,"Pont Yacht",3,52.42,43,2254.06
+148,"1997 BMW F650 ST",3,79.91,44,3516.04
+462,"1969 Harley Davidson Ultimate Chopper",3,80.39,42,3376.38
+462,"1996 Moto Guzzi 1100i",3,118.94,50,5947.00
+462,"2003 Harley-Davidson Eagle Drag Bike",3,156.86,21,3294.06
+462,"2002 Suzuki XREO",3,125.01,44,5500.44
+462,"1928 Ford Phaeton Deluxe",3,58.47,35,2046.45
+462,"1930 Buick Marquette Phaeton",3,41.02,27,1107.54
+462,"American Airlines: B767-300",3,74.90,46,3445.40
+462,"ATA: B757-300",3,111.53,50,5576.50
+448,"1968 Ford Mustang",3,182.90,26,4755.40
+448,"1968 Dodge Charger",3,95.13,25,2378.25
+448,"1970 Plymouth Hemi Cuda",3,76.61,36,2757.96
+448,"1969 Dodge Charger",3,102.49,47,4817.03
+448,"1948 Porsche 356-A Roadster",3,63.91,49,3131.59
+448,"1936 Harley Davidson El Knucklehead",3,52.09,39,2031.51
+448,"1997 BMW R 1100 S",3,112.70,45,5071.50
+448,"1960 BSA Gold Star DBD34",3,61.70,49,3023.30
+124,"1993 Mazda RX-7",3,117.48,36,4229.28
+124,"1995 Honda Civic",3,132.29,34,4497.86
+124,"1932 Model A Ford J-Coupe",3,102.98,31,3192.38
+124,"1928 Mercedes-Benz SSK",3,162.00,26,4212.00
+124,"1969 Dodge Super Bee",3,75.59,40,3023.60
+124,"1976 Ford Gran Torino",3,135.23,50,6761.50
+124,"1957 Vespa GS150",3,54.09,36,1947.24
+124,"1957 Corvette Convertible",3,122.02,49,5978.98
+124,"1982 Ducati 900 Monster",3,67.87,35,2375.45
+124,"1982 Lamborghini Diablo",3,35.87,37,1327.19
+124,"1971 Alpine Renault 1600s",3,51.43,46,2365.78
+124,"1956 Porsche 356A Coupe",3,134.81,45,6066.45
+124,"1961 Chevrolet Impala",3,66.29,30,1988.70
+124,"1982 Ducati 996 R",3,39.02,41,1599.82
+124,"1974 Ducati 350 Mk3 Desmo",3,101.03,45,4546.35
+124,"2002 Yamaha YZR M1",3,81.36,22,1789.92
+276,"1952 Alpine Renault 1300",3,195.01,24,4680.24
+276,"1962 LanciaA Delta 16V",3,121.15,37,4482.55
+276,"1958 Setra Bus",3,110.70,39,4317.30
+276,"1940 Ford Pickup Truck",3,114.34,29,3315.86
+276,"1937 Lincoln Berline",3,102.74,35,3595.90
+276,"1936 Mercedes-Benz 500K Special Roadster",3,47.44,42,1992.48
+276,"1926 Ford Fire Engine",3,57.73,44,2540.12
+276,"1913 Ford Model T Speedster",3,99.28,32,3176.96
+276,"1939 Chevrolet Deluxe Coupe",3,26.55,33,876.15
+276,"1938 Cadillac V-16 Presidential Limousine",3,36.29,24,870.96
+452,"1934 Ford V8 Coupe",3,61.21,37,2264.77
+452,"18th Century Vintage Horse Carriage",3,103.67,29,3006.43
+452,"1917 Maxwell Touring Car",3,98.22,36,3535.92
+323,"1969 Corvair Monza",3,145.04,35,5076.40
+323,"1957 Chevy Pickup",3,99.54,32,3185.28
+323,"1998 Chrysler Plymouth Prowler",3,137.53,20,2750.60
+323,"1964 Mercedes Tour Bus",3,104.32,38,3964.16
+323,"1940s Ford truck",3,106.55,30,3196.50
+323,"1939 Cadillac Limousine",3,41.76,44,1837.44
+323,"1962 Volkswagen Microbus",3,112.46,33,3711.18
+323,"1936 Chrysler Airflow",3,88.62,33,2924.46
+323,"1980’s GM Manhattan Express",3,84.75,38,3220.50
+323,"1996 Peterbilt 379 Stake Bed with Outrigger",3,63.35,31,1963.85
+323,"1982 Camaro Z28",3,83.95,21,1762.95
+141,"1992 Ferrari 360 Spider red",3,135.47,22,2980.34
+141,"1970 Triumph Spitfire",3,124.95,37,4623.15
+141,"1970 Dodge Coronet",3,53.18,31,1648.58
+141,"1958 Chevy Corvette Limited Edition",3,35.36,46,1626.56
+141,"1992 Porsche Cayenne Turbo Silver",3,104.09,37,3851.33
+141,"1954 Greyhound Scenicruiser",3,47.08,36,1694.88
+141,"1950's Chicago Surface Lines Streetcar",3,55.93,30,1677.90
+250,"1972 Alfa Romeo GTA",3,125.12,32,4003.84
+250,"2001 Ferrari Enzo",3,205.72,33,6788.76
+250,"Diamond T620 Semi-Skirted Tanker",3,98.39,46,4525.94
+250,"1962 City of Detroit Streetcar",3,57.99,45,2609.55
+124,"1969 Ford Falcon",3,155.72,33,5138.76
+124,"1903 Ford Model A",3,129.76,33,4282.08
+124,"Collectable Wooden Train",3,91.76,24,2202.24
+124,"1904 Buick Runabout",3,83.38,45,3752.10
+124,"18th century schooner",3,100.77,49,4937.73
+124,"1912 Ford Model T Delivery Wagon",3,77.00,27,2079.00
+124,"1940 Ford Delivery Sedan",3,77.99,37,2885.63
+124,"The Schooner Bluenose",3,62.00,39,2418.00
+242,"The Mayflower",3,69.29,32,2217.28
+242,"The USS Constitution Ship",3,62.88,22,1383.36
+242,"The Titanic",3,86.15,48,4135.20
+242,"The Queen Mary",3,80.44,36,2895.84
+242,"Pont Yacht",3,52.96,34,1800.64
+353,"1980s Black Hawk Helicopter",3,130.88,33,4319.04
+353,"P-51-D Mustang",3,82.79,34,2814.86
+353,"1999 Yamaha Speed Boat",3,70.54,28,1975.12
+353,"1941 Chevrolet Special Deluxe Cabriolet",3,92.11,45,4144.95
+353,"1928 British Royal Navy Airplane",3,100.67,43,4328.81
+353,"1900s Vintage Bi-Plane",3,60.29,28,1688.12
+353,"1937 Horch 930V Limousine",3,61.15,34,2079.10
+353,"Corsair F4U ( Bird Cage)",3,56.64,41,2322.24
+353,"1900s Vintage Tri-Plane",3,65.93,45,2966.85
+353,"1928 Ford Phaeton Deluxe",3,60.54,22,1331.88
+353,"1930 Buick Marquette Phaeton",3,38.84,49,1903.16
+353,"American Airlines: B767-300",3,78.55,47,3691.85
+353,"HMS Bounty",3,75.13,36,2704.68
+353,"America West Airlines B757-200",3,98.72,22,2171.84
+353,"ATA: B757-300",3,102.04,23,2346.92
+353,"F/A 18 Hornet 1/72",3,76.80,29,2227.20
+353,"American Airlines: MD-11S",3,62.19,36,2238.84
+353,"Boeing X-32A JSF",3,41.22,34,1401.48
+496,"1969 Harley Davidson Ultimate Chopper",4,77.52,40,3100.80
+496,"1996 Moto Guzzi 1100i",4,99.91,51,5095.41
+496,"2003 Harley-Davidson Eagle Drag Bike",4,156.86,22,3450.92
+496,"2002 Suzuki XREO",4,123.51,29,3581.79
+496,"1936 Harley Davidson El Knucklehead",4,51.48,30,1544.40
+496,"1997 BMW R 1100 S",4,104.81,57,5974.17
+496,"1960 BSA Gold Star DBD34",4,75.41,58,4373.78
+496,"1997 BMW F650 ST",4,97.89,32,3132.48
+450,"1972 Alfa Romeo GTA",4,134.64,64,8616.96
+450,"1980s Black Hawk Helicopter",4,129.31,34,4396.54
+450,"1999 Yamaha Speed Boat",4,74.84,30,2245.20
+450,"1941 Chevrolet Special Deluxe Cabriolet",4,88.93,58,5157.94
+450,"1900s Vintage Bi-Plane",4,55.49,24,1331.76
+450,"1937 Horch 930V Limousine",4,59.18,38,2248.84
+450,"1940 Ford Delivery Sedan",4,74.64,42,3134.88
+450,"HMS Bounty",4,82.37,46,3789.02
+450,"Boeing X-32A JSF",4,41.71,20,834.20
+328,"P-51-D Mustang",4,75.19,42,3157.98
+328,"1928 British Royal Navy Airplane",4,87.54,38,3326.52
+328,"Corsair F4U ( Bird Cage)",4,59.37,64,3799.68
+328,"1900s Vintage Tri-Plane",4,65.93,52,3428.36
+328,"1997 BMW F650 ST",4,81.91,49,4013.59
+328,"1928 Ford Phaeton Deluxe",4,62.60,62,3881.20
+328,"1930 Buick Marquette Phaeton",4,41.46,56,2321.76
+328,"American Airlines: B767-300",4,77.64,11,854.04
+328,"America West Airlines B757-200",4,98.72,85,8391.20
+328,"ATA: B757-300",4,96.11,21,2018.31
+328,"F/A 18 Hornet 1/72",4,73.60,77,5667.20
+328,"American Airlines: MD-11S",4,66.63,40,2665.20
+406,"1996 Moto Guzzi 1100i",4,118.94,45,5352.30
+406,"1936 Harley Davidson El Knucklehead",4,58.15,55,3198.25
+406,"1960 BSA Gold Star DBD34",4,61.70,59,3640.30
+201,"1969 Harley Davidson Ultimate Chopper",4,85.17,24,2044.08
+201,"2003 Harley-Davidson Eagle Drag Bike",4,174.29,66,11503.14
+201,"2002 Suzuki XREO",4,122.00,66,8052.00
+201,"1957 Vespa GS150",4,55.33,36,1991.88
+201,"1997 BMW R 1100 S",4,109.32,46,5028.72
+201,"1982 Ducati 900 Monster",4,57.49,27,1552.23
+201,"1982 Ducati 996 R",4,35.80,30,1074.00
+201,"1974 Ducati 350 Mk3 Desmo",4,88.78,45,3995.10
+201,"2002 Yamaha YZR M1",4,65.09,31,2017.79
+323,"1968 Ford Mustang",4,163.44,64,10460.16
+323,"1968 Dodge Charger",4,102.17,43,4393.31
+323,"1970 Plymouth Hemi Cuda",4,67.03,77,5161.31
+323,"1969 Dodge Super Bee",4,67.54,90,6078.60
+323,"1976 Ford Gran Torino",4,127.88,28,3580.64
+323,"1957 Corvette Convertible",4,124.99,48,5999.52
+323,"1971 Alpine Renault 1600s",4,53.27,49,2610.23
+323,"1961 Chevrolet Impala",4,65.48,48,3143.04
+209,"1969 Dodge Charger",4,115.16,97,11170.52
+209,"1948 Porsche 356-A Roadster",4,72.38,61,4415.18
+209,"1992 Ferrari 360 Spider red",4,147.33,55,8103.15
+209,"1982 Lamborghini Diablo",4,37.38,47,1756.86
+209,"1956 Porsche 356A Coupe",4,127.79,76,9712.04
+145,"1993 Mazda RX-7",4,124.56,61,7598.16
+145,"1995 Honda Civic",4,133.72,48,6418.56
+145,"1948 Porsche Type 356 Roadster",4,117.26,65,7621.90
+450,"1965 Aston Martin DB5",4,114.48,59,6754.32
+450,"1917 Grand Touring Sedan",4,141.10,76,10723.60
+450,"1911 Ford Town Car",4,58.12,42,2441.04
+450,"1999 Indy 500 Monte Carlo SS",4,132.00,41,5412.00
+450,"1932 Alfa Romeo 8C2300 Spider Sport",4,91.11,6,546.66
+450,"1957 Ford Thunderbird",4,64.14,66,4233.24
+450,"1970 Chevy Chevelle SS 454",4,68.35,26,1777.10
+450,"1966 Shelby Cobra 427 S/C",4,45.78,64,2929.92
+450,"1949 Jaguar XK 120",4,81.78,76,6215.28
+450,"1952 Citroen-15CV",4,98.65,59,5820.35
+450,"1969 Chevrolet Camaro Z28",4,77.05,13,1001.65
+450,"2002 Chevy Corvette",4,101.73,43,4374.39
+398,"1936 Mercedes Benz 500k Roadster",4,41.03,15,615.45
+166,"1932 Model A Ford J-Coupe",4,104.25,6,625.50
+166,"1939 Chevrolet Deluxe Coupe",4,27.88,61,1700.68
+357,"1937 Lincoln Berline",4,99.66,65,6477.90
+357,"1936 Mercedes-Benz 500K Special Roadster",4,51.21,44,2253.24
+357,"1928 Mercedes-Benz SSK",4,145.13,56,8127.28
+357,"1913 Ford Model T Speedster",4,93.21,47,4380.87
+357,"1934 Ford V8 Coupe",4,49.97,53,2648.41
+357,"18th Century Vintage Horse Carriage",4,84.82,34,2883.88
+357,"1917 Maxwell Touring Car",4,81.35,44,3579.40
+357,"1938 Cadillac V-16 Presidential Limousine",4,42.56,31,1319.36
+357,"1936 Chrysler Airflow",4,95.44,50,4772.00
+233,"1952 Alpine Renault 1300",5,205.73,23,4731.79
+233,"1962 LanciaA Delta 16V",5,144.79,27,3909.33
+233,"1958 Setra Bus",5,110.70,40,4428.00
+233,"1940 Ford Pickup Truck",5,109.67,27,2961.09
+233,"1940s Ford truck",5,106.55,46,4901.30
+233,"1939 Cadillac Limousine",5,41.25,35,1443.75
+233,"1980’s GM Manhattan Express",5,78.01,26,2028.26
+233,"1996 Peterbilt 379 Stake Bed with Outrigger",5,60.76,27,1640.52
+233,"1982 Camaro Z28",5,89.01,34,3026.34
+141,"1957 Chevy Pickup",5,100.73,54,5439.42
+141,"1998 Chrysler Plymouth Prowler",5,150.63,41,6175.83
+141,"1964 Mercedes Tour Bus",5,120.28,56,6735.68
+141,"1926 Ford Fire Engine",5,49.83,47,2342.01
+141,"1992 Ferrari 360 Spider red",5,157.49,60,9449.40
+141,"1970 Dodge Coronet",5,47.40,21,995.40
+141,"1962 Volkswagen Microbus",5,109.90,70,7693.00
+141,"1958 Chevy Corvette Limited Edition",5,32.88,30,986.40
+141,"1992 Porsche Cayenne Turbo Silver",5,108.82,31,3373.42
+141,"1954 Greyhound Scenicruiser",5,50.86,19,966.34
+141,"Diamond T620 Semi-Skirted Tanker",5,105.33,26,2738.58
+175,"2001 Ferrari Enzo",5,201.57,36,7256.52
+175,"1969 Corvair Monza",5,145.04,47,6816.88
+175,"1969 Ford Falcon",5,173.02,22,3806.44
+175,"1970 Triumph Spitfire",5,133.57,49,6544.93
+175,"1950's Chicago Surface Lines Streetcar",5,56.55,24,1357.20
+175,"1962 City of Detroit Streetcar",5,53.31,51,2718.81
+362,"1972 Alfa Romeo GTA",5,114.24,49,5597.76
+362,"1999 Yamaha Speed Boat",5,77.42,44,3406.48
+362,"1903 Ford Model A",5,128.39,41,5263.99
+362,"Collectable Wooden Train",5,85.71,48,4114.08
+362,"1904 Buick Runabout",5,83.38,56,4669.28
+362,"18th century schooner",5,108.14,43,4650.02
+362,"1912 Ford Model T Delivery Wagon",5,72.58,60,4354.80
+362,"1940 Ford Delivery Sedan",5,72.96,51,3720.96
+362,"The Schooner Bluenose",5,62.00,37,2294.00
+362,"The Mayflower",5,74.48,34,2532.32
+362,"The USS Constitution Ship",5,61.44,31,1904.64
+362,"The Titanic",5,84.14,28,2355.92
+362,"The Queen Mary",5,84.41,40,3376.40
+362,"Pont Yacht",5,54.60,47,2566.20
+471,"1941 Chevrolet Special Deluxe Cabriolet",5,86.81,51,4427.31
+471,"1900s Vintage Bi-Plane",5,60.97,21,1280.37
+471,"1937 Horch 930V Limousine",5,59.83,18,1076.94
+471,"HMS Bounty",5,73.32,32,2346.24
+471,"Boeing X-32A JSF",5,43.20,42,1814.40
+386,"1980s Black Hawk Helicopter",5,129.31,24,3103.44
+386,"P-51-D Mustang",5,70.96,15,1064.40
+386,"1928 British Royal Navy Airplane",5,90.82,47,4268.54
+386,"1960 BSA Gold Star DBD34",5,62.46,32,1998.72
+386,"Corsair F4U ( Bird Cage)",5,64.83,18,1166.94
+386,"1900s Vintage Tri-Plane",5,70.28,48,3373.44
+386,"1997 BMW F650 ST",5,86.90,45,3910.50
+386,"1928 Ford Phaeton Deluxe",5,68.10,26,1770.60
+386,"1930 Buick Marquette Phaeton",5,39.71,37,1469.27
+386,"American Airlines: B767-300",5,88.60,23,2037.80
+386,"America West Airlines B757-200",5,84.76,22,1864.72
+386,"ATA: B757-300",5,98.48,41,4037.68
+386,"F/A 18 Hornet 1/72",5,65.60,39,2558.40
+386,"American Airlines: MD-11S",5,63.67,43,2737.81
+141,"1969 Harley Davidson Ultimate Chopper",5,79.43,66,5242.38
+141,"1996 Moto Guzzi 1100i",5,116.56,45,5245.20
+141,"2003 Harley-Davidson Eagle Drag Bike",5,162.67,56,9109.52
+141,"2002 Suzuki XREO",5,144.60,21,3036.60
+141,"1936 Harley Davidson El Knucklehead",5,58.75,36,2115.00
+141,"1997 BMW R 1100 S",5,109.32,35,3826.20
+412,"1969 Dodge Super Bee",5,70.76,16,1132.16
+412,"1976 Ford Gran Torino",5,139.64,27,3770.28
+412,"1957 Vespa GS150",5,56.57,33,1866.81
+412,"1957 Corvette Convertible",5,120.53,28,3374.84
+412,"1982 Ducati 900 Monster",5,64.41,52,3349.32
+412,"1961 Chevrolet Impala",5,66.29,10,662.90
+412,"1982 Ducati 996 R",5,36.61,43,1574.23
+412,"1974 Ducati 350 Mk3 Desmo",5,100.01,50,5000.50
+412,"2002 Yamaha YZR M1",5,72.41,40,2896.40
+382,"1968 Ford Mustang",5,182.90,12,2194.80
+382,"1968 Dodge Charger",5,111.57,10,1115.70
+382,"1970 Plymouth Hemi Cuda",5,64.64,34,2197.76
+382,"1969 Dodge Charger",5,99.04,32,3169.28
+382,"1993 Mazda RX-7",5,117.48,38,4464.24
+382,"1965 Aston Martin DB5",5,100.80,37,3729.60
+382,"1948 Porsche 356-A Roadster",5,67.76,39,2642.64
+382,"1995 Honda Civic",5,133.72,34,4546.48
+382,"1999 Indy 500 Monte Carlo SS",5,116.16,55,6388.80
+382,"1992 Ferrari 360 Spider red",5,165.95,35,5808.25
+382,"1948 Porsche Type 356 Roadster",5,114.44,43,4920.92
+382,"1982 Lamborghini Diablo",5,32.10,15,481.50
+382,"1971 Alpine Renault 1600s",5,52.66,55,2896.30
+382,"1956 Porsche 356A Coupe",5,112.34,70,7863.80
+282,"1917 Grand Touring Sedan",5,153.00,37,5661.00
+282,"1911 Ford Town Car",5,52.06,36,1874.16
+282,"1932 Model A Ford J-Coupe",5,116.96,45,5263.20
+282,"1932 Alfa Romeo 8C2300 Spider Sport",5,73.62,66,4858.92
+282,"1957 Ford Thunderbird",5,68.42,36,2463.12
+282,"1970 Chevy Chevelle SS 454",5,60.26,60,3615.60
+282,"1966 Shelby Cobra 427 S/C",5,48.80,37,1805.60
+282,"1939 Chevrolet Deluxe Coupe",5,32.19,45,1448.55
+282,"1949 Jaguar XK 120",5,76.33,39,2976.87
+282,"1952 Citroen-15CV",5,115.09,55,6329.95
+282,"1969 Chevrolet Camaro Z28",5,77.05,35,2696.75
+282,"2002 Chevy Corvette",5,104.94,26,2728.44
+282,"1936 Mercedes Benz 500k Roadster",5,35.29,15,529.35
+124,"1928 Mercedes-Benz SSK",5,167.06,35,5847.10
+124,"1938 Cadillac V-16 Presidential Limousine",5,44.80,40,1792.00
+157,"1937 Lincoln Berline",5,91.44,51,4663.44
+157,"1936 Mercedes-Benz 500K Special Roadster",5,47.44,25,1186.00
+314,"1913 Ford Model T Speedster",5,89.15,10,891.50
+314,"1934 Ford V8 Coupe",5,56.21,31,1742.51
+314,"18th Century Vintage Horse Carriage",5,98.44,21,2067.24
+314,"1917 Maxwell Touring Car",5,80.36,21,1687.56
+314,"1936 Chrysler Airflow",5,78.89,28,2208.92
+141,"1952 Alpine Renault 1300",5,201.44,50,10072.00
+141,"1958 Setra Bus",5,121.64,49,5960.36
+141,"1940 Ford Pickup Truck",5,108.50,54,5859.00
+141,"1939 Cadillac Limousine",5,40.25,26,1046.50
+141,"1996 Peterbilt 379 Stake Bed with Outrigger",5,54.94,44,2417.36
+141,"1982 Camaro Z28",5,85.98,46,3955.08
+119,"1962 LanciaA Delta 16V",5,131.49,38,4996.62
+119,"1957 Chevy Pickup",5,95.99,33,3167.67
+119,"1998 Chrysler Plymouth Prowler",5,147.36,28,4126.08
+119,"1964 Mercedes Tour Bus",5,117.82,38,4477.16
+119,"1926 Ford Fire Engine",5,48.62,19,923.78
+119,"1992 Ferrari 360 Spider red",5,140.55,28,3935.40
+119,"1940s Ford truck",5,107.76,38,4094.88
+119,"1970 Dodge Coronet",5,53.75,55,2956.25
+119,"1962 Volkswagen Microbus",5,127.79,49,6261.71
+119,"1958 Chevy Corvette Limited Edition",5,31.82,31,986.42
+119,"1980’s GM Manhattan Express",5,83.79,41,3435.39
+119,"1954 Greyhound Scenicruiser",5,50.32,11,553.52
+119,"Diamond T620 Semi-Skirted Tanker",5,94.92,18,1708.56

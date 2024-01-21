@@ -1,0 +1,14 @@
+SELECT 
+    customerNumber,
+    productName,
+    MONTH(orderDate) as orderMonth,
+    priceEach,
+    quantityOrdered,
+    (priceEach * quantityOrdered) as final_payment
+from 
+    orders
+JOIN
+    orderdetails on orders.orderNumber = orderdetails.orderNumber
+JOIN
+    products ON orderdetails.productCode = products.productCode;
+    
